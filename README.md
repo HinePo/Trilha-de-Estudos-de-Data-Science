@@ -193,18 +193,18 @@ Deep Learning
 - Deeplearning.ai
 
 ```diff 
-- Yolo
+Yolo
 ```
 - The AI Guy
 
 ```diff 
-- AI e conceitos
+AI e conceitos
 ```
 - Krish Naik
 - edureka!
 
 ```diff 
-- Sortidos
+Sortidos
 ```
 - AIEngineering
 - Bhavesh Bhatt 
