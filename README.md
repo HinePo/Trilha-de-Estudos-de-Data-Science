@@ -138,10 +138,30 @@ Principais tipos de camadas (layers):
 - Pooling
 
 # Transformers
+Os Transformers e o Attention Mechanism, propostos em 2017 por Vaswani - Google Brain no paper Attention Is All You Need, são, até hoje, a maior revolução que o mundo do Deep Learning já passou. Vale a pena estudá-los com atenção (pun intended 😆), pois eles são o estado da arte em redes neurais hoje em dia para a maioria dos tasks, e pelo visto continuarão sendo por bastante tempo.
 
+Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de NLP no estado da arte, e também não precisamos de camadas CNN para fazer CV (Computer Vision) no estado da arte. Attention Is All You Need.
+
+- [BERT Attention Mechanism](https://peltarion.com/blog/data-science/self-attention-video) - vídeo
+- [Illustrated Guide to Transformers](https://www.youtube.com/watch?app=desktop&v=4Bdc55j80l8) - vídeo
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - blog & vídeo
+- [Attention Is All You Need - 2017](https://arxiv.org/pdf/1706.03762.pdf) - paper original: fundamental ler
+- [BERT paper - 2019](https://arxiv.org/pdf/1810.04805.pdf)
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - explicações sobre o paper original
+- [Transformers from Scratch](https://e2eml.school/transformers.html) - explicação visual e detalhada
+- [Vision Transformers (ViT) paper - 2021](https://arxiv.org/pdf/2010.11929.pdf)
+- [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
+- [ViT exemplo](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
 
 # NLP - Natural Language Processing
+Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Words), Word2vec, FastText (facebook model), GloVe (Global Vectors), CountVectorizer, TF-IDF, BERT, RoBERTa, Hugging Face....
 
+- [BERT tutorial by Abhishek Thakur](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH)
+- [Hugging Face course](https://huggingface.co/course/chapter1/1) - excelente curso. HF é o melhor ecossistema de NLP e continuará sendo por muitos anos
+- [Text Classification from Scratch](https://www.kaggle.com/vanshjatana/text-classification-from-scratch?scriptVersionId=33686389) - @vanshjatana
+- [10 Things You Need to Know About BERT and Transformer Architecture](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)
+- [A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf) - paper para consulta
+- [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 
 # Computer Vision
 
