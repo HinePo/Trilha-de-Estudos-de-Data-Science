@@ -59,6 +59,7 @@ Machine Learning workflow - entender e praticar as etapas básicas:
 - Choose algorithm, Train model
 - Evaluate model
 - Melhorar modelo, tunar hiperparâmetros, treinar de novo, avaliar de novo
+- Ensemble: combinar modelos para aumentar performance e poder de generalização
 
 # Data Visualization
 - [A Simple Tutorial To Data Visualization](https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization#notebook-container) - @vanshjatana
