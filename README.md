@@ -31,26 +31,26 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Pandas docs](https://pandas.pydata.org/docs/index.html)
 
+Data Analysis workflow - entender e praticar as etapas básicas:
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=Data Analysis workflow - entender e praticar as etapas básicas:) `#1589F0
-
-•	Importar e ler csv, criar dataframe
-•	Checar tipos de variáveis (data types): numéricas e categóricas
-•	Preproces: Técnicas para lidar com variáveis categóricas: one-hot encoding, label encoding, ordinal encoding....
-•	Fazer uns plots
-•	Analisar missing values (valores faltantes), tomar decisões sobre o que fazer com eles
-•	Analisar outliers, decidir o que fazer com eles
-•	Análise univariada, bivariada, multivariada
-•	Feature Engineering (criação de variáveis)
-•	Deixar dados prontos para eventual modelagem de IA
+- Importar e ler csv, criar dataframe
+- Checar tipos de variáveis (data types): numéricas e categóricas
+- Preproces: Técnicas para lidar com variáveis categóricas: one-hot encoding, label encoding, ordinal encoding....
+- Plots básicos
+- Analisar missing values (valores faltantes), tomar decisões sobre o que fazer com eles
+- Analisar outliers, decidir o que fazer com eles
+- Análise univariada, bivariada, multivariada
+- Feature Engineering (criação de variáveis)
+- Deixar dados prontos para eventual modelagem de IA
 
 Machine Learning workflow - entender e praticar as etapas básicas:
-•	Split train/test datasets
-•	Definir Features and Target (if it is a supervised problem)
-•	Preprocess: Scaling
-•	Definir métricas de avaliação dos modelos
-•	Choose algorithm, Train model
-•	Evaluate model
-•	Melhorar modelo, tunar hiperparâmetros, treinar de novo, avaliar de novo
+
+- Split train/test datasets
+- Definir Features and Target (if it is a supervised problem)
+- Preprocess: Scaling
+- Definir métricas de avaliação dos modelos
+- Choose algorithm, Train model
+- Evaluate model
+- Melhorar modelo, tunar hiperparâmetros, treinar de novo, avaliar de novo
 
 
