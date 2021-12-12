@@ -164,8 +164,17 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 
 # Computer Vision
+O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para computer vision: um ecossistema open source, consolidado e no estado da arte, que disponibiliza uma API simples e unificada para uso de modelos, além de dezenas de milhares de excelentes modelos multi-propósito (multi-task, general purpose models), já pré-treinados durante semanas em GPUs e TPUs de dezenas de milhares de dólares, todos prontos para usarmos apenas adicionando uma última camada na rede neural para atender ao nosso task/problema. Isso se chama fine-tuning e transfer learning, e evita que tenhamos que treinar esses modelos gigantes from scratch.
 
-
+- [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g) - vídeo
+- [Digit Recognizer: Getting Started Competition](https://www.kaggle.com/c/digit-recognizer) - ‘Hello World’ do mundo de CV: Estudar vários notebooks com bom score, e depois criar o seu misturando várias técnicas que vc achou promissoras em outros notebooks, tentando melhorar o score do baseline. Recomendo no mínimo uns 10 dias de estudo para essa competição.
+- [timm: pytorch image models](https://github.com/rwightman/pytorch-image-models/tree/master/timm)
+- [timm: getting started](https://rwightman.github.io/pytorch-image-models/)
+- [timm: overview](https://fastai.github.io/timmdocs/)
+- [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo) - vídeo
+- [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
+- [Yolo v5 github repo - ultralytics](https://github.com/ultralytics/yolov5)
+- [Yolo v5 paper](https://arxiv.org/pdf/2104.13634.pdf)
 
 # Youtube channels
 
