@@ -21,7 +21,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - No futuro, é interessante conhecer IDEs como VS Code, PyCharm e Spyder.
 - Sublime Text é um ótimo editor de código.
 
-# Python and Data Analysis basicsI
+# Python and Data Analysis basics
 
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA) - vídeo
 - [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw) - vídeo
