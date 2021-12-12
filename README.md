@@ -111,8 +111,31 @@ Machine Learning workflow - entender e praticar as etapas básicas:
   - Nível avançado: competições reais (valendo prêmios)
 
 # Deep Learning - Neural Networks
+Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, vanishing gradients, exploding gradients, fine-tuning, transfer learning...
 
+- [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U) - vídeo
+- [Keras docs](https://keras.io/)
+- [Keras Sequential class](https://keras.io/api/models/sequential/)
+- [Tensorflow docs](https://www.tensorflow.org/)
+- [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
+- [Pytorch - abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
+- [Pytorch - torch.nn](https://pytorch.org/docs/stable/nn.html)
 
+Um estudo muito útil e proveitoso é comparar e olhar em paralelo as documentações de Quick Start do Keras, do Tensorflow e do Pytorch. A lógica é bem parecida e existem muitas analogias:
+- [Keras Quick Start](https://www.tensorflow.org/tutorials/quickstart/beginner)
+- [Tensorflow Quick Start](https://www.tensorflow.org/tutorials/quickstart/advanced)
+- [Pytorch Quick Start](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
+
+Principais tipos de camadas (layers):
+- Dense & Linear (fully connected)
+- Activation functions (ReLU, LeakyReLU, SELU, PReLU, Tanh, Softmax....)
+- Conv (Convolutional)
+- Flatten
+- Batch Normalization
+- LSTM (Long Short Term Memory)
+- GRU (Gated Recurrent Unit - Short Term Memory)
+- Dropout
+- Pooling
 
 # Transformers
 
