@@ -1,6 +1,6 @@
 # Trilha de Estudos de Ciência de Dados
 
-Este é um documento em constante construção e atualização. Adiciono aqui técnicas de estudo e fontes que considero boas para o aprendizado de ciência de dados, com o objetivo de manter recursos organizados para consulta e ajudar quem se interessa pelo tema.
+Este é um documento em constante construção e atualização. Adiciono aqui técnicas de estudo e fontes que considero boas para o aprendizado de ciência de dados, com o objetivo de manter recursos organizados para consulta e ajudar quem se interessa pelo tema. O conteúdo vai do básico ao avançado.
 
 # Sumário
 - [Recomendações sobre como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#recomendações-sobre-como-estudar)
@@ -19,7 +19,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível;
 - Instalar [video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) no google chrome (funciona em qualquer vídeo tocado pelo chrome browser), e aprender a usar:
 ![image](https://user-images.githubusercontent.com/66163270/145697555-17f7fb51-ec8d-4f9f-8c36-654b062cddce.png)
--	Ao entrar em um assunto novo, ver vídeos de ~10 min no youtube e pesquisar sobre o tema;
+-	Ao entrar em um assunto novo, gosto de ver um ou dois vídeos de ~10 min no youtube, pesquisar sobre o tema focando em material escrito, e estudar aplicações;
 -	Evitar ficar muito tempo na parte teórica: Qualquer assunto novo tem suas aplicações, via bibliotecas específicas. Se familiarizar com a documentação é o primeiro passo (google “pandas docs”, “seaborn cheat sheet”...);
 -	O segundo passo é a aplicação e uso, parte prática: Resolver problemas usando IA: Pesquisar aplicações no Kaggle (notebooks), fazer o fork, adicionar ideias. Evitar tentar reinventar a roda: aproveitar os códigos que já existem;
 - Adicionar aplicação ao seu repositório pessoal (público ou privado).
@@ -70,8 +70,32 @@ Machine Learning workflow - entender e praticar as etapas básicas:
 - [Power BI + DAX + Projetos na prática - Curso Udemy](https://www.udemy.com/course/curso-de-powerbi-desktop-dax/)
 
 # Machine Learning - Teoria
-
-
+- [Supervised x Unsupervised Learning](https://www.youtube.com/watch?app=desktop&v=1FZ0A1QCMWc) - vídeo
+- [Supervised x Unsupervised Learning: applications](https://www.youtube.com/watch?app=desktop&v=rHeaoaiBM6Y) - vídeo
+- Pesquisar sobre Overfitting e Underfitting, ver vídeos e gráficos
+- [Cross Validation](https://www.youtube.com/watch?app=desktop&v=fSytzGwwBVw)
+- [Cross Validation - scikit docs](https://scikit-learn.org/stable/modules/cross_validation.html)
+- Pesquisar sobre Cross Validation para Time Series (como evitar contaminação de dados do futuro pro passado, data leakage, train/test contamination...)
+- [pdf do livro do Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - resumo com tudo, disponível na Amazon tb
+- [Kaggle courses](https://www.kaggle.com/learn)
+- [Statquest - Vídeos sobre conceitos, teoria e matemática de algoritmos e ML](https://www.youtube.com/c/joshstarmer/playlists?app=desktop)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html) - Acho muito importante ler todo o item 1. Na primeira leitura não precisa entender tudo com profundidade, mas tem que se familiarizar com a documentação do scikit, especialmente com o item 1 todo. É uma biblioteca muito importante para se aprender a usar e consultar.
+- [Scikit-learn Pre-processing](https://scikit-learn.org/stable/modules/preprocessing.html)
+- [ML projects for beginners - with code](https://github.com/microsoft/ML-For-Beginners)
+- [Scipy docs](https://scipy.org/) - Procurar aplicação do pacote
+- Pesquisar sobre "Feature Engineering" (criação de variáveis)
+- Pesquisar sobre métricas e como avaliar modelos:
+  - Classificação: Accuracy, ROC AUC, f1-score, recall, precision
+  - Regressão: RMSE, MSE, MAE, R²
+- Outros conceitos importantes: Pesquisar sobre Boosting (XGBoost, LGBM, GBM), Bagging, Split train/test, data leakage, time series, ARIMA, feature importances, ensemble...
+- Imbalanced learning:
+  - downsampling/upsampling
+  - [Transforming skewed data](https://medium.com/@ODSC/transforming-skewed-data-for-machine-learning-90e6cc364b0) - como tratar o viés no dados
+  - [imblearn](https://opendatascience.com/strategies-for-addressing-class-imbalance/)
+  - [Oversampling x Undersampling](https://www.kdnuggets.com/2020/01/5-most-useful-techniques-handle-imbalanced-datasets.html)
+  - [Resampling example](https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets)
+  - [SMOTE for classification example](https://www.kaggle.com/shrutimechlearn/pokemon-classification-and-smote-for-imbalance/notebook)
 
 # Machine Learning - Prática
 
