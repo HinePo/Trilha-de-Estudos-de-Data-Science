@@ -9,7 +9,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [Data Visualization](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-visualization)
 - [Machine Learning - Teoria](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---teoria)
 - [Machine Learning - Prática](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---prática)
-- [Deep Learning - Neural Networks](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deep-learning-neural-networks)
+- [Deep Learning - Neural Networks](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deep-learning---neural-networks)
 - [Transformers](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#transformers)
 - [NLP - Natural Language Processing](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#nlp---natural-language-processing)
 - [Computer Vision](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#computer-vision)
@@ -75,7 +75,9 @@ Machine Learning workflow - entender e praticar as etapas básicas:
 # Machine Learning - Prática
 
 
+
 # Deep Learning - Neural Networks
+
 
 
 # Transformers
