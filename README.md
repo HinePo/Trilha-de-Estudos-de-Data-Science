@@ -6,6 +6,8 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [Recomendações sobre como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#recomendações-sobre-como-estudar)
 - [Ferramentas](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#ferramentas)
 - [Python and Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
+- [Data Visualization](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-visualization)
+- [Machine Learning - Teoria](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---teoria)
 
 # Recomendações sobre como estudar
 - Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível;
@@ -22,7 +24,6 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - Sublime Text é um ótimo editor de código.
 
 # Python and Data Analysis basics
-
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA) - vídeo
 - [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw) - vídeo
 - [Didática Tech playlists](https://www.youtube.com/c/Did%C3%A1ticaTech/playlists?app=desktop)
@@ -53,4 +54,12 @@ Machine Learning workflow - entender e praticar as etapas básicas:
 - Evaluate model
 - Melhorar modelo, tunar hiperparâmetros, treinar de novo, avaliar de novo
 
+# Data Visualization
+- [A Simple Tutorial To Data Visualization](https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization#notebook-container) - @vanshjatana
+- [Séries de notebooks de visualização](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas) - ao final de cada notebook tem um link para o próximo
+- [Data Visualization & Prediction](https://www.kaggle.com/hinepo/pnad-data-analysis) - @hinepo
+- [Power BI playlists](https://www.youtube.com/c/HashtagTreinamentos/playlists?app=desktop)
+- [Power BI - Karine Lago](https://www.youtube.com/c/KarineLago/playlists?app=desktop)
+- [Power BI + DAX + Projetos na prática - Curso Udemy](https://www.udemy.com/course/curso-de-powerbi-desktop-dax/)
 
+# Machine Learning - Teoria
