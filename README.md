@@ -98,8 +98,17 @@ Machine Learning workflow - entender e praticar as etapas básicas:
   - [SMOTE for classification example](https://www.kaggle.com/shrutimechlearn/pokemon-classification-and-smote-for-imbalance/notebook)
 
 # Machine Learning - Prática
-
-
+- [Kaggle's 30 Days of ML](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N) - Abhishek Thakur
+- [Applied Machine Learning](https://www.kaggle.com/vanshjatana/applied-machine-learning) - @vanshjatana
+- Browse kaggle, ver notebooks e datasets dos assuntos que te interessam
+- Fazer forks de notebooks do kaggle (Copy and Edit), testar hipóteses e técnicas
+- Falar com as pessoas do kaggle, comentar e postar, fazer parte da comunidade
+- Competições 'Getting Started': estudar notebooks com bom score, e usar técnicas e conceitos aprendidos para criar o seu próprio. Estudar notebooks com score médio, comparar com os de score bom, e entender o que causou a melhora na pontuação. Recomendo no mínimo uns 10 dias de estudo para cada uma das competições abaixo:
+  - [Titanic Classification](https://www.kaggle.com/c/titanic)
+  - [House Prices Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+  - [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+  - [Tabular Playground Series](https://www.kaggle.com/c/tabular-playground-series-sep-2021)
+  - Nível avançado: competições reais (valendo prêmios)
 
 # Deep Learning - Neural Networks
 
