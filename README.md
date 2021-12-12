@@ -209,68 +209,61 @@ Alexandre H
 
 # Perfis no Instagram
 
-O instagram pode ser usado como uma poderosa ferramenta de estudo, assim como o twitter. Funciona muito bem como dose diária e homeopática de aprendizado, e ajuda muito a acompanhar o trabalho de outras pessoas e cientistas de dados.
+O instagram pode ser usado como uma poderosa ferramenta de estudo, assim como o twitter. Funciona muito bem como dose diária e homeopática de aprendizado, e ajuda muito a acompanhar o trabalho de outras pessoas e cientistas de dados. Seguir #’s dos assuntos que te interessam também ajuda muito a se manter atualizado. Em ciência de dados as coisas acontecem/andam/mudam muito rápido, e plataformas que te entregam a informação de forma rápida e eficiente costumam ser muito úteis.
 
 Alguns perfis interessantes para seguir:
 
-flai.inteligencia.artificial
-raven.ai_
-analytics_vidhya
-veedha_data_analyst
-sysadmin_impaciente
-coderhumor
-universidadedosdados
-compvidareal
-know_datascience
-devfullcycle
-pythonacademybr
-devops_zoeiro
-philipplackner_official
-python___developers
-dynamic.coding
-coders.eduyear
+- flai.inteligencia.artificial
+- raven.ai_
+- analytics_vidhya
+- veedha_data_analyst
+- sysadmin_impaciente
+- coderhumor
+- universidadedosdados
+- compvidareal
+- know_datascience
+- devfullcycle
+- pythonacademybr
+- devops_zoeiro
+- philipplackner_official
+- python___developers
+- dynamic.coding
+- coders.eduyear
 
-codinggoats
-websitescraper
-justdjangocode
-django.python
-powerbi.tips
-powerbinapratica
-empowerdata
-karinedolago
-entendendobi
-leticiasmirelli
-leokarpa
-google_cloud_training
-googlecloudindia
-r.mlearning
-dougkasmacielc
-fabricio.giordanelli
-justenough_spark
+- codinggoats
+- websitescraper
+- justdjangocode
+- django.python
+- powerbi.tips
+- powerbinapratica
+- empowerdata
+- karinedolago
+- entendendobi
+- leticiasmirelli
+- leokarpa
+- google_cloud_training
+- googlecloudindia
+- r.mlearning
+- dougkasmacielc
+- fabricio.giordanelli
+- justenough_spark
 
-apiagil
-proffernandamaciel
-techworld_with_nana
-_pythonworld_
-code.forever
-cloudeasy.co
-linux.teach
-linuxnaweb
-dataengineeringworld
-python.for.nerds
-python.advance.projects
-googlecloud
-digitalcloudtraining
-more.programmingacademy
-awssamurai
-dashboarddesign2017
-v7labs
-pysource7
-javascript.js
-Hashtags para seguir:
-Seguir #’s dos assuntos que te interessar tb
-
-
-
-
-
+- apiagil
+- proffernandamaciel
+- techworld_with_nana
+- _pythonworld_
+- code.forever
+- cloudeasy.co
+- linux.teach
+- linuxnaweb
+- dataengineeringworld
+- python.for.nerds
+- python.advance.projects
+- googlecloud
+- digitalcloudtraining
+- more.programmingacademy
+- awssamurai
+- dashboarddesign2017
+- v7labs
+- pysource7
+- javascript.js
