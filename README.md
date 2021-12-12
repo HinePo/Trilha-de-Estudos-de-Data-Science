@@ -22,6 +22,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - Sublime Text é um ótimo editor de código.
 
 # Python basics: Data Analysis & AI
+
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA) - vídeo
 - [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw) - vídeo
 - [Didática Tech playlists](https://www.youtube.com/c/Did%C3%A1ticaTech/playlists?app=desktop)
@@ -30,7 +31,9 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Pandas docs](https://pandas.pydata.org/docs/index.html)
 
-<span style="color: green"> ! Data Analysis workflow - entender e praticar as etapas básicas: </span>
+
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=Data Analysis workflow - entender e praticar as etapas básicas:) `#1589F0
+
 •	Importar e ler csv, criar dataframe
 •	Checar tipos de variáveis (data types): numéricas e categóricas
 •	Preproces: Técnicas para lidar com variáveis categóricas: one-hot encoding, label encoding, ordinal encoding....
@@ -41,7 +44,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 •	Feature Engineering (criação de variáveis)
 •	Deixar dados prontos para eventual modelagem de IA
 
-``` diff @@ Machine Learning workflow - entender e praticar as etapas básicas: @@ ```
+Machine Learning workflow - entender e praticar as etapas básicas:
 •	Split train/test datasets
 •	Definir Features and Target (if it is a supervised problem)
 •	Preprocess: Scaling
