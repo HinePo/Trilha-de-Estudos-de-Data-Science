@@ -16,6 +16,6 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - Adicionar aplicação ao seu repositório pessoal (público ou privado).
 
 # Ferramentas
-Focar em Google Colab e Kaggle notebooks.
-No futuro, é interessante conhecer IDEs como VS Code, PyCharm e Spyder.
-Sublime Text é um ótimo editor de código.
+- Focar em Google Colab e Kaggle notebooks.
+- No futuro, é interessante conhecer IDEs como VS Code, PyCharm e Spyder.
+- Sublime Text é um ótimo editor de código.
