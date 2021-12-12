@@ -5,7 +5,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 # Sumário
 - [Recomendações sobre como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#recomendações-sobre-como-estudar)
 - [Ferramentas](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#ferramentas)
-- [Python basics: Data Analysis & AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#Python-basics:-Data-Analysis-&-AI)
+- [Python basics: Data Analysis & AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-basics:-data-analysis-&-ai)
 
 # Recomendações sobre como estudar
 - Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível;
@@ -31,7 +31,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [Pandas docs](https://pandas.pydata.org/docs/index.html)
 
 ```diff 
-@@ Data Analysis workflow - entender e praticar as etapas básicas: @@
+! Data Analysis workflow - entender e praticar as etapas básicas:
 ```
 •	Importar e ler csv, criar dataframe
 •	Checar tipos de variáveis (data types): numéricas e categóricas
