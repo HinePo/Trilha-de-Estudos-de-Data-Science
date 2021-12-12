@@ -30,7 +30,9 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Pandas docs](https://pandas.pydata.org/docs/index.html)
 
-``` diff @@ Data Analysis workflow - entender e praticar as etapas básicas: @@ ```
+```diff 
+@@ Data Analysis workflow - entender e praticar as etapas básicas: @@
+```
 •	Importar e ler csv, criar dataframe
 •	Checar tipos de variáveis (data types): numéricas e categóricas
 •	Preproces: Técnicas para lidar com variáveis categóricas: one-hot encoding, label encoding, ordinal encoding....
