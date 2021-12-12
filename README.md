@@ -182,7 +182,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteúdos publicados.
 
 ```diff 
-- Deep Learning
+Deep Learning
 ```
 - Abhishek Thakur
 - Sentdex
@@ -195,25 +195,25 @@ Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteú
 ```diff 
 - Yolo
 ```
-The AI Guy
+- The AI Guy
 
 ```diff 
 - AI e conceitos
 ```
-Krish Naik
-edureka!
+- Krish Naik
+- edureka!
 
 ```diff 
 - Sortidos
 ```
-AIEngineering
-Bhavesh Bhatt 
-Tech with Tim
-Hashtag Treinamentos
-Didática Tech
-CodeEmporium
-Fisseha Berhane
-Alexandre H
+- AIEngineering
+- Bhavesh Bhatt 
+- Tech with Tim
+- Hashtag Treinamentos
+- Didática Tech
+- CodeEmporium
+- Fisseha Berhane
+- Alexandre H
 
 # Perfis no Instagram
 
