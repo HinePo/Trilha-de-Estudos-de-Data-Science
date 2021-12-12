@@ -5,7 +5,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 # Sumário
 - [Recomendações sobre como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#recomendações-sobre-como-estudar)
 - [Ferramentas](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#ferramentas)
-- [Python basics: Data Analysis & AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-basics:-data-analysis-&-ai)
+- [Python basics: Data Analysis & AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-basics:-data-analysis-and-ai)
 
 # Recomendações sobre como estudar
 - Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível;
@@ -21,7 +21,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - No futuro, é interessante conhecer IDEs como VS Code, PyCharm e Spyder.
 - Sublime Text é um ótimo editor de código.
 
-# Python basics: Data Analysis & AI
+# Python basics: Data Analysis and AI
 
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA) - vídeo
 - [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw) - vídeo
