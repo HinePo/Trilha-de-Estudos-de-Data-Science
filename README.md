@@ -14,6 +14,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [NLP - Natural Language Processing](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#nlp---natural-language-processing)
 - [Computer Vision](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#computer-vision)
 - [Youtube channels](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#youtube-channels)
+- [Perfis no Instagram](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#perfis-no-instagram)
 
 # Recomendações sobre como estudar
 - Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível;
@@ -177,6 +178,99 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Yolo v5 paper](https://arxiv.org/pdf/2104.13634.pdf)
 
 # Youtube channels
+
+Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteúdos publicados.
+
+- Deep Learning
+Abhishek Thakur
+Sentdex
+Pysource
+TechViz – The Data Science Guy
+deeplizard
+Tensorflow
+Deeplearning.ai
+
+- Yolo
+The AI Guy
+
+- AI e conceitos
+Krish Naik
+edureka!
+
+- Sortidos
+AIEngineering
+Bhavesh Bhatt 
+Tech with Tim
+Hashtag Treinamentos
+Didática Tech
+CodeEmporium
+Fisseha Berhane
+Alexandre H
+
+# Perfis no Instagram
+
+O instagram pode ser usado como uma poderosa ferramenta de estudo, assim como o twitter. Funciona muito bem como dose diária e homeopática de aprendizado, e ajuda muito a acompanhar o trabalho de outras pessoas e cientistas de dados.
+
+Alguns perfis interessantes para seguir:
+
+flai.inteligencia.artificial
+raven.ai_
+analytics_vidhya
+veedha_data_analyst
+sysadmin_impaciente
+coderhumor
+universidadedosdados
+compvidareal
+know_datascience
+devfullcycle
+pythonacademybr
+devops_zoeiro
+philipplackner_official
+python___developers
+dynamic.coding
+coders.eduyear
+
+codinggoats
+websitescraper
+justdjangocode
+django.python
+powerbi.tips
+powerbinapratica
+empowerdata
+karinedolago
+entendendobi
+leticiasmirelli
+leokarpa
+google_cloud_training
+googlecloudindia
+r.mlearning
+dougkasmacielc
+fabricio.giordanelli
+justenough_spark
+
+apiagil
+proffernandamaciel
+techworld_with_nana
+_pythonworld_
+code.forever
+cloudeasy.co
+linux.teach
+linuxnaweb
+dataengineeringworld
+python.for.nerds
+python.advance.projects
+googlecloud
+digitalcloudtraining
+more.programmingacademy
+awssamurai
+dashboarddesign2017
+v7labs
+pysource7
+javascript.js
+Hashtags para seguir:
+Seguir #’s dos assuntos que te interessar tb
+
+
 
 
 
