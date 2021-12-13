@@ -66,6 +66,7 @@ Machine Learning workflow - entender e praticar as etapas básicas:
 - [A Simple Tutorial To Data Visualization](https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization#notebook-container) - @vanshjatana
 - [Séries de notebooks de visualização](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas) - ao final de cada notebook tem um link para o próximo
 - [Data Visualization & Prediction](https://www.kaggle.com/hinepo/pnad-data-analysis) - @hinepo
+- [Rio Temperature Analysis](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
 - [Power BI playlists](https://www.youtube.com/c/HashtagTreinamentos/playlists?app=desktop)
 - [Power BI - Karine Lago](https://www.youtube.com/c/KarineLago/playlists?app=desktop)
 - [Power BI + DAX + Projetos na prática - Curso Udemy](https://www.udemy.com/course/curso-de-powerbi-desktop-dax/)
@@ -101,6 +102,8 @@ Machine Learning workflow - entender e praticar as etapas básicas:
 # Machine Learning - Prática
 - [Kaggle's 30 Days of ML](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N) - Abhishek Thakur
 - [Applied Machine Learning](https://www.kaggle.com/vanshjatana/applied-machine-learning) - @vanshjatana
+- [Income Prediction](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
+- [Lazy Predict](https://www.kaggle.com/hinepo/pnad-lazy-predict) - @hinepo
 - Browse kaggle, ver notebooks e datasets dos assuntos que te interessam
 - Fazer forks de notebooks do kaggle (Copy and Edit), testar hipóteses e técnicas
 - Falar com as pessoas do kaggle, comentar e postar, fazer parte da comunidade
@@ -176,6 +179,9 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
 - [Yolo v5 github repo - ultralytics](https://github.com/ultralytics/yolov5)
 - [Yolo v5 paper](https://arxiv.org/pdf/2104.13634.pdf)
+- [Pytorch tutorial for image classification](https://www.kaggle.com/hinepo/pytorch-tutorial-cv-99-67-lb-99-26) - @hinepo
+- [Pytorch/timm tutorial for transfer learning](https://www.kaggle.com/hinepo/transfer-learning-with-timm-models-and-pytorch) - @hinepo
+- [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo
 
 # Youtube channels
 
