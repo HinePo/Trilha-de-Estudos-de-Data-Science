@@ -35,6 +35,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw) - vídeo
 - [Didática Tech playlists](https://www.youtube.com/c/Did%C3%A1ticaTech/playlists?app=desktop)
 - [Curso em vídeo playlists](https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists?app=desktop)
+- [Reuven youtube channel](https://www.youtube.com/reuvenlerner)
 - [Python projects](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9)
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Pandas docs](https://pandas.pydata.org/docs/index.html)
