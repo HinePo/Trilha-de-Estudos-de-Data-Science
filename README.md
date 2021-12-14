@@ -152,6 +152,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [Attention Is All You Need - 2017](https://arxiv.org/pdf/1706.03762.pdf) - paper original: fundamental ler
 - [BERT paper - 2019](https://arxiv.org/pdf/1810.04805.pdf)
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - explicações sobre o paper original
+- [Attention implementation in torch from scratch - twitter thread](https://twitter.com/abhi1thakur/status/1470406419786698761) - Abhishek Thakur
 - [Transformers from Scratch](https://e2eml.school/transformers.html) - explicação visual e detalhada
 - [Vision Transformers (ViT) paper - 2021](https://arxiv.org/pdf/2010.11929.pdf)
 - [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
