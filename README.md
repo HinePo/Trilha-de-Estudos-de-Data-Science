@@ -146,7 +146,7 @@ Principais tipos de camadas (layers):
 # Transformers
 Os Transformers e o Attention Mechanism, propostos em 2017 por Vaswani - Google Brain no paper Attention Is All You Need, são, até hoje, a maior revolução que o mundo do Deep Learning já passou. Vale a pena estudá-los com atenção (pun intended 😆), pois eles são o estado da arte em redes neurais hoje em dia para a maioria dos tasks, e pelo visto continuarão sendo por bastante tempo.
 
-Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de NLP no estado da arte, e também não precisamos de camadas CNN para fazer CV (Computer Vision) no estado da arte. Attention Is All You Need.
+Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de NLP no estado da arte, e também não precisamos de camadas de Convolução para fazer CV (Computer Vision) no estado da arte. Attention Is All You Need.
 
 - [BERT Attention Mechanism](https://peltarion.com/blog/data-science/self-attention-video) - vídeo
 - [Illustrated Guide to Transformers](https://www.youtube.com/watch?app=desktop&v=4Bdc55j80l8) - vídeo
