@@ -123,7 +123,7 @@ Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descen
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
 - [Tensorflow docs](https://www.tensorflow.org/)
 - [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
-- [Pytorch - abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
+- [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
 - [Pytorch - torch.nn](https://pytorch.org/docs/stable/nn.html)
 
 Um estudo muito útil e proveitoso é comparar e olhar em paralelo as documentações de Quick Start do Keras, do Tensorflow e do Pytorch. A lógica é bem parecida e existem muitas analogias:
