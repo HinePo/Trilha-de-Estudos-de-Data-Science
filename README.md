@@ -40,7 +40,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Pandas docs](https://pandas.pydata.org/docs/index.html)
 
-Data Analysis workflow - entender e praticar as etapas básicas:
+### Data Analysis workflow - entender e praticar as etapas básicas:
 
 - Importar e ler csv, criar dataframe
 - Checar tipos de variáveis (data types): numéricas e categóricas
@@ -52,11 +52,11 @@ Data Analysis workflow - entender e praticar as etapas básicas:
 - Feature Engineering (criação de variáveis)
 - Deixar dados prontos para eventual modelagem de IA
 
-Machine Learning workflow - entender e praticar as etapas básicas:
+### Machine Learning workflow - entender e praticar as etapas básicas:
 
 - Split train/test datasets
 - Definir Features and Target (if it is a supervised problem)
-- Preprocess: Scaling
+- Preprocess: Scaling and categorical encoders
 - Definir métricas de avaliação dos modelos
 - Choose algorithm, Train model
 - Evaluate model
