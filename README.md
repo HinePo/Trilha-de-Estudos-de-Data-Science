@@ -67,8 +67,9 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 # Data Visualization
 - [A Simple Tutorial To Data Visualization](https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization#notebook-container) - @vanshjatana
 - [Séries de notebooks de visualização](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas) - ao final de cada notebook tem um link para o próximo
-- [Data Visualization & Prediction](https://www.kaggle.com/hinepo/pnad-data-analysis) - @hinepo
-- [Rio Temperature Analysis](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
+- [Data Analysis - Brazilian Society (PNAD)](https://www.kaggle.com/hinepo/pnad-data-analysis) - @hinepo
+- [Data Visualization & Income Prediction for Brazilians](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
+- [Rio Temperature Analysis](https://www.kaggle.com/hinepo/is-rio-getting-hotter-seasons-analysis/) - @hinepo
 - [Power BI playlists](https://www.youtube.com/c/HashtagTreinamentos/playlists?app=desktop)
 - [Power BI - Karine Lago](https://www.youtube.com/c/KarineLago/playlists?app=desktop)
 - [Power BI + DAX + Projetos na prática - Curso Udemy](https://www.udemy.com/course/curso-de-powerbi-desktop-dax/)
