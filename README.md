@@ -55,7 +55,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 
 ### Machine Learning workflow - entender e praticar as etapas básicas:
 
-- Split train/test datasets
+- Split train/validation datasets
 - Definir Features and Target (if it is a supervised problem)
 - Preprocess: Scaling and categorical encoders
 - Definir métricas de avaliação dos modelos
