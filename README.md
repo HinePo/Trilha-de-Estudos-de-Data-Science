@@ -13,6 +13,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 - [Transformers](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#transformers)
 - [NLP - Natural Language Processing](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#nlp---natural-language-processing)
 - [Computer Vision](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#computer-vision)
+- [MLOps and MLflow](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#mlops-and-mlflow)
 - [Youtube channels](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#youtube-channels)
 - [Perfis no Instagram](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#perfis-no-instagram)
 
@@ -188,6 +189,13 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Pytorch tutorial for image classification](https://www.kaggle.com/hinepo/pytorch-tutorial-cv-99-67-lb-99-26) - @hinepo
 - [Pytorch/timm tutorial for transfer learning](https://www.kaggle.com/hinepo/transfer-learning-with-timm-models-and-pytorch) - @hinepo
 - [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo
+
+# MLOps and MLflow
+- [Made With ML](https://madewithml.com/) - website
+- [Machine Learning Operations](https://ml-ops.org/) - website
+- [MLflow](https://www.youtube.com/watch?app=desktop&v=859OxXrt_TI) - vídeo
+- [MLflow on Databricks](https://www.youtube.com/watch?app=desktop&v=nx3yFzx_nHI&t=1260s) - vídeo
+
 
 # Youtube channels
 
