@@ -119,7 +119,7 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
   - Nível avançado: competições reais (valendo prêmios)
 
 # Deep Learning - Neural Networks
-Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, vanishing gradients, exploding gradients, fine-tuning, transfer learning...
+Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, vanishing gradients, exploding gradients, fine-tuning, feature extraction, transfer learning...
 
 - [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U) - vídeo
 - [Keras docs](https://keras.io/)
