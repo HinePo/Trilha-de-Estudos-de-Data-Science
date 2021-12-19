@@ -121,6 +121,8 @@ Este é um documento em constante construção e atualização. Adiciono aqui t�
 # Deep Learning - Neural Networks
 Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, vanishing gradients, exploding gradients, fine-tuning, feature extraction, transfer learning...
 
+- [Fine-tuning x Feature Extraction - pytorch docs and examples](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+"In finetuning, we start with a pretrained model and update all of the model’s parameters for our new task, in essence retraining the whole model. In feature extraction, we start with a pretrained model and only update the final layer weights from which we derive predictions."
 - [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U) - vídeo
 - [Keras docs](https://keras.io/)
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
@@ -174,7 +176,7 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 
 # Computer Vision
-O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para computer vision: um ecossistema open source, consolidado e no estado da arte, que disponibiliza uma API simples e unificada para uso de modelos, além de centenas de excelentes modelos multi-propósito (multi-task, general purpose models), já pré-treinados durante semanas em GPUs e TPUs de dezenas de milhares de dólares, todos prontos para usarmos apenas adicionando uma última camada na rede neural para atender ao nosso task/problema. Isso se chama fine-tuning e transfer learning, e evita que tenhamos que treinar esses modelos gigantes from scratch.
+O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para computer vision: um ecossistema open source, consolidado e no estado da arte, que disponibiliza uma API simples e unificada para uso de modelos, além de centenas de excelentes modelos multi-propósito (multi-task, general purpose models), já pré-treinados durante semanas em GPUs e TPUs de dezenas de milhares de dólares, todos prontos para usarmos apenas adicionando uma última camada na rede neural para atender ao nosso task/problema. Isso se chama feature extraction, e evita que tenhamos que treinar esses modelos gigantes from scratch.
 
 - [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g) - vídeo
 - [Kernel size in convolution layers](https://medium.com/analytics-vidhya/significance-of-kernel-size-200d769aecb1)
