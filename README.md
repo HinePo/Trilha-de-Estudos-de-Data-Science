@@ -257,6 +257,7 @@ Alguns perfis interessantes para seguir:
 - python___developers
 - dynamic.coding
 - coders.eduyear
+- tech_with_luciana
 
 - codinggoats
 - websitescraper
