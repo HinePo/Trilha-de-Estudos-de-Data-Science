@@ -71,7 +71,6 @@ Isso aumentará muito a sua produtividade.
 - [A Simple Tutorial To Data Visualization](https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization#notebook-container) - @vanshjatana
 - [Séries de notebooks de visualização](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas) - ao final de cada notebook tem um link para o próximo
 - [Data Analysis - Brazilian Society (PNAD)](https://www.kaggle.com/hinepo/pnad-data-analysis) - @hinepo
-- [Data Visualization & Income Prediction for Brazilians](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
 - [Rio Temperature Analysis](https://www.kaggle.com/hinepo/is-rio-getting-hotter-seasons-analysis/) - @hinepo
 - [Power BI playlists](https://www.youtube.com/c/HashtagTreinamentos/playlists?app=desktop)
 - [Power BI - Karine Lago](https://www.youtube.com/c/KarineLago/playlists?app=desktop)
@@ -108,7 +107,7 @@ Isso aumentará muito a sua produtividade.
 # Machine Learning - Prática
 - [Kaggle's 30 Days of ML](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N) - Abhishek Thakur
 - [Applied Machine Learning](https://www.kaggle.com/vanshjatana/applied-machine-learning) - @vanshjatana
-- [Income Prediction](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
+- [Data Visualization & Income Prediction for Brazilians](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
 - [Lazy Predict](https://www.kaggle.com/hinepo/pnad-lazy-predict) - @hinepo
 - Browse kaggle, ver notebooks e datasets dos assuntos que te interessam
 - Fazer forks de notebooks do kaggle (Copy and Edit), testar hipóteses e técnicas
