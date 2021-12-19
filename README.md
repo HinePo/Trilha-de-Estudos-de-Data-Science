@@ -242,6 +242,8 @@ O instagram pode ser usado como uma poderosa ferramenta de estudo, assim como o 
 Alguns perfis interessantes para seguir:
 
 - flai.inteligencia.artificial
+- setimoreino
+- technium_lab
 - raven.ai_
 - analytics_vidhya
 - veedha_data_analyst
