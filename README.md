@@ -155,16 +155,24 @@ Os Transformers e o Attention Mechanism, propostos em 2017 por Vaswani - Google 
 
 Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de NLP no estado da arte, e também não precisamos de camadas de Convolução para fazer CV (Computer Vision) no estado da arte. Attention Is All You Need.
 
+### Papers
+
+- [Attention Is All You Need - paper 2017](https://arxiv.org/pdf/1706.03762.pdf) - paper original: fundamental ler
+- [BERT - paper 2019](https://arxiv.org/pdf/1810.04805.pdf)
+- [RoBERTa - paper 2019](https://arxiv.org/pdf/1907.11692.pdf) - RoBERTa paper
+- [Longformer - paper 2020](https://arxiv.org/pdf/2004.05150.pdf) - paper Longformer (SOTA transfomer model)
+- [Vision Transformers (ViT) - paper 2021](https://arxiv.org/pdf/2010.11929.pdf)
+
+
+### Outras fontes
+
 - [BERT Attention Mechanism](https://peltarion.com/blog/data-science/self-attention-video) - vídeo
 - [Illustrated Guide to Transformers](https://www.youtube.com/watch?app=desktop&v=4Bdc55j80l8) - vídeo
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - blog & vídeo
-- [Attention Is All You Need - 2017](https://arxiv.org/pdf/1706.03762.pdf) - paper original: fundamental ler
-- [BERT paper - 2019](https://arxiv.org/pdf/1810.04805.pdf)
-- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - explicações sobre o paper original
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - explicações sobre o paper Attention Is All You Need
 - [Attention implementation in torch from scratch - twitter thread](https://twitter.com/abhi1thakur/status/1470406419786698761) - Abhishek Thakur
 - [Attention implementation in torch from scratch - twitter thread 2](https://twitter.com/abhi1thakur/status/1471126502112698368) - Abhishek Thakur
 - [Transformers from Scratch](https://e2eml.school/transformers.html) - explicação visual e detalhada
-- [Vision Transformers (ViT) paper - 2021](https://arxiv.org/pdf/2010.11929.pdf)
 - [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
 - [ViT exemplo](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
 
