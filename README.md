@@ -158,10 +158,10 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 ### Papers
 
 - [Attention Is All You Need - paper 2017](https://arxiv.org/pdf/1706.03762.pdf) - paper original: fundamental ler
-- [BERT - paper 2019](https://arxiv.org/pdf/1810.04805.pdf)
+- [BERT - paper 2019](https://arxiv.org/pdf/1810.04805.pdf) - BERT paper
 - [RoBERTa - paper 2019](https://arxiv.org/pdf/1907.11692.pdf) - RoBERTa paper
 - [Longformer - paper 2020](https://arxiv.org/pdf/2004.05150.pdf) - paper Longformer (SOTA transfomer model)
-- [Vision Transformers (ViT) - paper 2021](https://arxiv.org/pdf/2010.11929.pdf)
+- [Vision Transformers (ViT) - paper 2021](https://arxiv.org/pdf/2010.11929.pdf) - ViT paper
 
 
 ### Outras fontes
