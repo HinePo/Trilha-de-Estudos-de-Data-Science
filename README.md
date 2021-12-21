@@ -157,11 +157,12 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 
 ### Papers
 
-- [Attention Is All You Need - paper 2017](https://arxiv.org/pdf/1706.03762.pdf) - paper original: fundamental ler
-- [BERT - paper 2019](https://arxiv.org/pdf/1810.04805.pdf) - BERT paper
-- [RoBERTa - paper 2019](https://arxiv.org/pdf/1907.11692.pdf) - RoBERTa paper
-- [Longformer - paper 2020](https://arxiv.org/pdf/2004.05150.pdf) - paper Longformer (SOTA transfomer model)
-- [Vision Transformers (ViT) - paper 2021](https://arxiv.org/pdf/2010.11929.pdf) - ViT paper
+- [Attention Is All You Need - paper dec/2017](https://arxiv.org/pdf/1706.03762.pdf) - paper original: fundamental ler
+- [BERT - paper may/2019](https://arxiv.org/pdf/1810.04805.pdf) - BERT paper
+- [RoBERTa - paper jul/2019](https://arxiv.org/pdf/1907.11692.pdf) - RoBERTa paper
+- [Longformer - paper dec/2020](https://arxiv.org/pdf/2004.05150.pdf) - paper Longformer (SOTA transfomer model)
+- [Vision Transformers (ViT) - paper jun/2021](https://arxiv.org/pdf/2010.11929.pdf) - ViT paper
+- [DeBERTa: Disentangled Attention - paper oct/2021](https://arxiv.org/pdf/2006.03654.pdf)
 
 
 ### Outras fontes
@@ -183,25 +184,34 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [Hugging Face course](https://huggingface.co/course/chapter1/1) - excelente curso. HF é o melhor ecossistema de NLP e continuará sendo por muitos anos
 - [Text Classification from Scratch](https://www.kaggle.com/vanshjatana/text-classification-from-scratch?scriptVersionId=33686389) - @vanshjatana
 - [10 Things You Need to Know About BERT and Transformer Architecture](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)
-- [A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf) - paper para consulta
+- [A Survey of Transformers - paper jun/2021](https://arxiv.org/pdf/2106.04554.pdf) - paper para consulta
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 
 # Computer Vision
 O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para computer vision: um ecossistema open source, consolidado e no estado da arte, que disponibiliza uma API simples e unificada para uso de modelos, além de centenas de excelentes modelos multi-propósito (multi-task, general purpose models), já pré-treinados durante semanas em GPUs e TPUs de dezenas de milhares de dólares, todos prontos para usarmos apenas adicionando uma última camada na rede neural para atender ao nosso task/problema. Isso se chama feature extraction, e evita que tenhamos que treinar esses modelos gigantes from scratch.
 
+### Yolo
+
 - [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g) - vídeo
-- [Kernel size in convolution layers](https://medium.com/analytics-vidhya/significance-of-kernel-size-200d769aecb1)
-- [Digit Recognizer: Getting Started Competition](https://www.kaggle.com/c/digit-recognizer) - ‘Hello World’ do mundo de CV: Estudar vários notebooks com bom score, e depois criar o seu misturando várias técnicas que vc achou promissoras em outros notebooks, tentando melhorar o score do baseline. Recomendo no mínimo uns 10 dias de estudo para essa competição.
-- [timm: pytorch image models](https://github.com/rwightman/pytorch-image-models/tree/master/timm)
-- [timm: getting started](https://rwightman.github.io/pytorch-image-models/)
-- [timm: overview](https://fastai.github.io/timmdocs/)
 - [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo) - vídeo
 - [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
 - [Yolo v5 github repo - ultralytics](https://github.com/ultralytics/yolov5)
-- [Yolo v5 paper](https://arxiv.org/pdf/2104.13634.pdf)
+- [Yolo v5 - paper jun/2021](https://arxiv.org/pdf/2104.13634.pdf)
+
+### Basics
+
+- [Kernel size in convolution layers](https://medium.com/analytics-vidhya/significance-of-kernel-size-200d769aecb1)
+- [Digit Recognizer: Getting Started Competition](https://www.kaggle.com/c/digit-recognizer) - ‘Hello World’ do mundo de CV: Estudar vários notebooks com bom score, e depois criar o seu misturando várias técnicas que vc achou promissoras em outros notebooks, tentando melhorar o score do baseline. Recomendo no mínimo uns 10 dias de estudo para essa competição.
 - [Pytorch tutorial for image classification](https://www.kaggle.com/hinepo/pytorch-tutorial-cv-99-67-lb-99-26) - @hinepo
+- [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo 
+
+### Pytorch image models (timm)
+
+- [timm: pytorch image models](https://github.com/rwightman/pytorch-image-models/tree/master/timm)
+- [timm: getting started](https://rwightman.github.io/pytorch-image-models/)
+- [timm: overview](https://fastai.github.io/timmdocs/)
 - [Pytorch/timm tutorial for transfer learning](https://www.kaggle.com/hinepo/transfer-learning-with-timm-models-and-pytorch) - @hinepo
-- [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo
+
 
 # MLOps and MLflow
 - [Made With ML](https://madewithml.com/) - website
