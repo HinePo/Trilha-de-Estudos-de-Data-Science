@@ -150,6 +150,18 @@ Principais tipos de camadas (layers):
 - Dropout
 - Pooling
 
+Extra:
+- [JAX docs](https://jax.readthedocs.io/en/latest/) 
+
+"JAX is Autograd and XLA, brought together for high-performance numerical computing and machine learning research. It provides composable transformations of Python+NumPy programs: differentiate, vectorize, parallelize, Just-In-Time compile to GPU/TPU, and more."
+
+- [JAX - Quick Start](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
+
+"JAX is NumPy on the CPU, GPU, and TPU, with great automatic differentiation for high-performance machine learning research."
+
+[JAX é um projeto open source do Google](https://github.com/google/jax) com o objetivo de criar uma API simples e backend eficiente para cálculos de deep learning. Tem crescido em popularidade e sido considerada muito promissora por pesquisadores. Imagina-se que em alguns anos será um concorrente direto do Pytorch (na área de pesquisa), e também deverá substituir o backend do tensorflow (na área de aplicações). Há quem chame o JAX de  "tensorflow 3", e já existem planos para criação de uma API high level para JAX, adaptando a biclioteca Keras para usar JAX como backend. Portanto, é interessante conhecer.
+
+
 # Transformers
 Os Transformers e o Attention Mechanism, propostos em 2017 por Vaswani - Google Brain no paper Attention Is All You Need, são, até hoje, a maior revolução que o mundo do Deep Learning já passou. Vale a pena estudá-los com atenção (pun intended 😆), pois eles são o estado da arte em redes neurais hoje em dia para a maioria dos tasks, e pelo visto continuarão sendo por bastante tempo.
 
