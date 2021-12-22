@@ -206,8 +206,9 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 ### Yolo
 
 - [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g) - vídeo
-- [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo) - vídeo
+- [Face mask yolo-v5 example](https://www.youtube.com/watch?v=12UoOlsRwh8) - vídeo
 - [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
+- [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo) - vídeo
 - [Yolo v5 github repo - ultralytics](https://github.com/ultralytics/yolov5)
 - [Yolo v5 - paper jun/2021](https://arxiv.org/pdf/2104.13634.pdf)
 
