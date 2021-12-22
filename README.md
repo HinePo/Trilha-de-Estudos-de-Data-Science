@@ -129,6 +129,7 @@ Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descen
 - [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U) - vídeo
 - [Keras docs](https://keras.io/)
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
+- [Keras - code examples](https://keras.io/examples/)
 - [Tensorflow docs](https://www.tensorflow.org/)
 - [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
