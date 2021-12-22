@@ -188,7 +188,8 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [Attention implementation in torch from scratch - twitter thread 2](https://twitter.com/abhi1thakur/status/1471126502112698368) - Abhishek Thakur
 - [Transformers from Scratch](https://e2eml.school/transformers.html) - explicação visual e detalhada
 - [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
-- [ViT exemplo](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
+- [ViT exemplo - tranformer library](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
+- [ViT exemplo - timm library](https://www.youtube.com/watch?v=ovB0ddFtzzA) - vídeo
 
 # NLP - Natural Language Processing
 Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Words), Word2vec, FastText (facebook model), GloVe (Global Vectors), CountVectorizer, TF-IDF, BERT, RoBERTa, Hugging Face....
