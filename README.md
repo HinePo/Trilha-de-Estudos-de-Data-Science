@@ -119,6 +119,14 @@ Isso aumentará muito a sua produtividade.
   - [Tabular Playground Series](https://www.kaggle.com/c/tabular-playground-series-sep-2021)
   - Nível avançado: competições reais (valendo prêmios)
 
+
+### Algorithm Optimization & Tuning techniques
+
+- [Optuna library](https://optuna.org/)
+- [Optuna example](https://www.youtube.com/watch?v=m5YSKPMjkrk&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N&index=23) - Abhishek Thakur
+- [Optuna offcial tutorial](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
+- [Tuning techniques](https://www.youtube.com/watch?v=5nYqK-HaoKY) - Abhishek Thakur
+
 # Deep Learning - Neural Networks
 Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, vanishing gradients, exploding gradients, transfer learning (fine-tuning & feature extraction)...
 
@@ -151,7 +159,8 @@ Principais tipos de camadas (layers):
 - Dropout
 - Pooling
 
-Extra:
+### Extra:
+
 - [JAX docs](https://jax.readthedocs.io/en/latest/) 
 
 "JAX is Autograd and XLA, brought together for high-performance numerical computing and machine learning research. It provides composable transformations of Python+NumPy programs: differentiate, vectorize, parallelize, Just-In-Time compile to GPU/TPU, and more."
