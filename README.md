@@ -109,6 +109,7 @@ Isso aumentará muito a sua produtividade.
 - [Applied Machine Learning](https://www.kaggle.com/vanshjatana/applied-machine-learning) - @vanshjatana
 - [Data Visualization & Income Prediction for Brazilians](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
 - [Lazy Predict](https://www.kaggle.com/hinepo/pnad-lazy-predict) - @hinepo
+- [Heart disease and ensembling](https://www.kaggle.com/hinepo/ensemble-to-predict-diabetes-100-acc-on-val-data) - @hinepo
 - Browse kaggle, ver notebooks e datasets dos assuntos que te interessam
 - Fazer forks de notebooks do kaggle (Copy and Edit), testar hipóteses e técnicas
 - Falar com as pessoas do kaggle, comentar e postar, fazer parte da comunidade
@@ -123,6 +124,7 @@ Isso aumentará muito a sua produtividade.
 ### Algorithm Optimization & Tuning techniques
 
 - [Optuna library](https://optuna.org/)
+- [Optuna example - notebook](https://www.kaggle.com/hinepo/extra-trees-optimization-with-optuna) - @hinepo
 - [Optuna example](https://www.youtube.com/watch?v=m5YSKPMjkrk&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N&index=23) - Abhishek Thakur
 - [Optuna offcial tutorial](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
 - [Tuning techniques](https://www.youtube.com/watch?v=5nYqK-HaoKY) - Abhishek Thakur
