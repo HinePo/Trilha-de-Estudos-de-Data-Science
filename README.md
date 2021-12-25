@@ -186,6 +186,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [RoBERTa - paper jul/2019](https://arxiv.org/pdf/1907.11692.pdf) - RoBERTa paper
 - [Longformer - paper dec/2020](https://arxiv.org/pdf/2004.05150.pdf) - paper Longformer - Local Attention (SOTA transfomer model)
 - [Vision Transformers (ViT) - paper jun/2021](https://arxiv.org/pdf/2010.11929.pdf) - ViT paper
+- [Swin Transformer - paper aug/2021](https://arxiv.org/pdf/2103.14030.pdf) - Swin Transformer paper - Shifted Window based Self-Attention
 - [DeBERTa: Disentangled Attention - paper oct/2021](https://arxiv.org/pdf/2006.03654.pdf) - DeBERTa paper
 
 
@@ -206,7 +207,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
 - [ViT exemplo - tranformer library](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
 - [ViT exemplo - timm library](https://www.youtube.com/watch?v=ovB0ddFtzzA) - vídeo
-- [SWIN Transformer](https://www.youtube.com/watch?v=SndHALawoag) - Shifted Window based Self-Attention - vídeo
+- [Swin Transformer](https://www.youtube.com/watch?v=SndHALawoag) - vídeo
 
 # NLP - Natural Language Processing
 Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Words), Word2vec, FastText (facebook model), GloVe (Global Vectors), CountVectorizer, TF-IDF, BERT, RoBERTa, Hugging Face....
