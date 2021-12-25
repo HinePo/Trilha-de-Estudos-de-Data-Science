@@ -284,13 +284,10 @@ AI e conceitos
 Sortidos
 ```
 - AIEngineering
-- Bhavesh Bhatt 
+- Bhavesh Bhatt
+- BI Elite
 - Tech with Tim
 - Hashtag Treinamentos
-- Didática Tech
-- CodeEmporium
-- Fisseha Berhane
-- Alexandre H
 
 # Perfis no Instagram
 
