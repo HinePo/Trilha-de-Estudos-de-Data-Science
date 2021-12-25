@@ -206,7 +206,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
 - [ViT exemplo - tranformer library](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
 - [ViT exemplo - timm library](https://www.youtube.com/watch?v=ovB0ddFtzzA) - vídeo
-- [SWIN Transformer](https://www.youtube.com/watch?v=SndHALawoag) - vídeo
+- [SWIN Transformer](https://www.youtube.com/watch?v=SndHALawoag) - Shifted Window based Self-Attention - vídeo
 
 # NLP - Natural Language Processing
 Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Words), Word2vec, FastText (facebook model), GloVe (Global Vectors), CountVectorizer, TF-IDF, BERT, RoBERTa, Hugging Face....
