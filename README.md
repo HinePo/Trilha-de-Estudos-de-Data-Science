@@ -251,6 +251,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Machine Learning Operations](https://ml-ops.org/) - website
 - [MLflow](https://www.youtube.com/watch?app=desktop&v=859OxXrt_TI) - vídeo
 - [MLflow on Databricks](https://www.youtube.com/watch?app=desktop&v=nx3yFzx_nHI&t=1260s) - vídeo
+- [Weights and biases](https://www.youtube.com/watch?v=krWjJcW80_A) - vídeo
 
 
 # Youtube channels
