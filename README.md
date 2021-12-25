@@ -200,12 +200,13 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [Transformers from Scratch](https://e2eml.school/transformers.html) - explicação visual e detalhada
 
 
-### Vision Transformer (ViT)
+### Vision Transformer (ViT) and others
 
 - [ViT - 5 min video](https://www.youtube.com/watch?v=DVoHvmww2lQ)
 - [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
 - [ViT exemplo - tranformer library](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
 - [ViT exemplo - timm library](https://www.youtube.com/watch?v=ovB0ddFtzzA) - vídeo
+- [SWIN Transformer](https://www.youtube.com/watch?v=SndHALawoag) - vídeo
 
 # NLP - Natural Language Processing
 Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Words), Word2vec, FastText (facebook model), GloVe (Global Vectors), CountVectorizer, TF-IDF, BERT, RoBERTa, Hugging Face....
@@ -259,6 +260,7 @@ Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteú
 Deep Learning
 ```
 - Abhishek Thakur
+- AI Coffee Break with Letitia
 - Sentdex
 - Pysource
 - TechViz – The Data Science Guy
