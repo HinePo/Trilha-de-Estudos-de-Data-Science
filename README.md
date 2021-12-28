@@ -137,6 +137,7 @@ Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descen
 "In finetuning, we start with a pretrained model and update all of the model’s parameters for our new task, in essence retraining the whole model. In feature extraction, we start with a pretrained model and only update the final layer weights from which we derive predictions."
 
 - [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U) - vídeo
+- [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/) - tendências
 - [Keras docs](https://keras.io/)
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
 - [Keras - code examples](https://keras.io/examples/)
