@@ -126,7 +126,7 @@ Isso aumentará muito a sua produtividade.
 - [Optuna library](https://optuna.org/)
 - [Optuna example - notebook](https://www.kaggle.com/hinepo/extra-trees-optimization-with-optuna) - @hinepo
 - [Optuna example](https://www.youtube.com/watch?v=m5YSKPMjkrk&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N&index=23) - Abhishek Thakur
-- [Optuna offcial tutorial](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
+- [Optuna official tutorial](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
 - [Tuning techniques](https://www.youtube.com/watch?v=5nYqK-HaoKY) - Abhishek Thakur
 
 # Deep Learning - Neural Networks
