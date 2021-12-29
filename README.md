@@ -221,7 +221,6 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 
 # Computer Vision
-O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para computer vision: um ecossistema open source, consolidado e no estado da arte, que disponibiliza uma API simples e unificada para uso de modelos, além de centenas de excelentes modelos multi-propósito (multi-task, general purpose models), já pré-treinados durante semanas em GPUs e TPUs de dezenas de milhares de dólares, todos prontos para usarmos apenas adicionando uma última camada na rede neural para atender ao nosso task/problema. Isso se chama feature extraction, e evita que tenhamos que treinar esses modelos gigantes from scratch.
 
 ### Yolo
 
@@ -240,6 +239,8 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo 
 
 ### Pytorch image models (timm)
+
+O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para computer vision: um ecossistema open source, consolidado e no estado da arte, que disponibiliza uma API simples e unificada para uso de modelos, além de centenas de excelentes modelos multi-propósito (multi-task, general purpose models), já pré-treinados durante semanas em GPUs e TPUs de dezenas de milhares de dólares, todos prontos para usarmos apenas adicionando uma última camada na rede neural para atender ao nosso task/problema. Isso se chama feature extraction, e evita que tenhamos que treinar esses modelos gigantes from scratch.
 
 - [timm: pytorch image models](https://github.com/rwightman/pytorch-image-models/tree/master/timm)
 - [timm: getting started](https://rwightman.github.io/pytorch-image-models/)
