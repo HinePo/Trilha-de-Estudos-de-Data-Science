@@ -253,6 +253,8 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 
 "Pseudo Labels methods work by having a pair of networks, one as a teacher and one as a student. The teacher generates pseudo labels on unlabeled images. These pseudo labeled images are then combined with labeled images to train the student. Thanks to the abundance of pseudo labeled data and the use of regularization methods such as data augmentation, the student learns to become better than the teacher." 
 
+"Key to Meta Pseudo Labels is the idea that the teacher learns from the student’s feedback to generate pseudo labels in a way that best helps student’s learning."
+
 Meta Pseudo Labels utilizes the feedback from the student to inform the teacher to generate better pseudo labels, reducing bias and inaccuracies.
 
 
