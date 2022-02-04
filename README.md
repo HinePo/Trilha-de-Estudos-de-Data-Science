@@ -43,6 +43,7 @@ Isso aumentará muito a sua produtividade.
 - [Python projects](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9)
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Pandas docs](https://pandas.pydata.org/docs/index.html)
+- [Handling Missing Data](https://www.kaggle.com/robikscube/handling-with-missing-data-youtube-stream)
 
 ### Data Analysis workflow - entender e praticar as etapas básicas:
 
