@@ -59,6 +59,8 @@ Isso aumentará muito a sua produtividade.
 - Split train/validation datasets
 - Definir Features and Target (if it is a supervised problem)
 - Preprocess: Scaling and categorical encoders
+- Check Target distributions
+- Check features distributions, normalize them if needed
 - Definir métricas de avaliação dos modelos
 - Choose algorithm, Train model
 - Evaluate model
