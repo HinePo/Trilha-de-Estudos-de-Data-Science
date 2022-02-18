@@ -215,6 +215,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 # NLP - Natural Language Processing
 Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Words), Word2vec, FastText (facebook model), GloVe (Global Vectors), CountVectorizer, TF-IDF, BERT, RoBERTa, Hugging Face....
 
+- [A brief timeline of NLP from Bag of Words to the Transformer family](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
 - [BERT tutorial by Abhishek Thakur](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH)
 - [Hugging Face course](https://huggingface.co/course/chapter1/1) - excelente curso. HF é o melhor ecossistema de NLP e continuará sendo por muitos anos
 - [Text Classification from Scratch](https://www.kaggle.com/vanshjatana/text-classification-from-scratch?scriptVersionId=33686389) - @vanshjatana
