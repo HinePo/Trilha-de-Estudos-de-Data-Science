@@ -65,6 +65,7 @@ Isso aumentará muito a sua produtividade.
 - Choose algorithm, Train model
 - Evaluate model
 - Melhorar modelo, tunar hiperparâmetros, treinar de novo, avaliar de novo
+- Experimentos com diferentes sets de features
 - Ensemble: combinar modelos para aumentar performance e poder de generalização
 
 # Data Visualization
