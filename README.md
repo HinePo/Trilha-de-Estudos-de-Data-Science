@@ -46,7 +46,7 @@ Isso aumentará muito a sua produtividade.
 
 - Importar e ler csv, criar dataframe
 - Checar tipos de variáveis (data types): numéricas e categóricas
-- Preproces: Técnicas para lidar com variáveis categóricas: one-hot encoding, label encoding, ordinal encoding....
+- Preprocess: Técnicas para lidar com variáveis categóricas: one-hot encoding, label encoding, ordinal encoding....
 - Plots básicos
 - Analisar missing values (valores faltantes), tomar decisões sobre o que fazer com eles
 - Analisar outliers, decidir o que fazer com eles
