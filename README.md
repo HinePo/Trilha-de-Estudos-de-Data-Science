@@ -205,14 +205,6 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [Transformers from Scratch](https://e2eml.school/transformers.html) - explicação visual e detalhada
 
 
-### Vision Transformer (ViT) and others
-
-- [ViT - 5 min video](https://www.youtube.com/watch?v=DVoHvmww2lQ)
-- [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
-- [ViT exemplo - tranformer library](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
-- [ViT exemplo - timm library](https://www.youtube.com/watch?v=ovB0ddFtzzA) - vídeo
-- [Swin Transformer](https://www.youtube.com/watch?v=SndHALawoag) - vídeo
-
 # NLP - Natural Language Processing
 Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Words), Word2vec, FastText (facebook model), GloVe (Global Vectors), CountVectorizer, TF-IDF, BERT, RoBERTa, Hugging Face....
 
@@ -254,6 +246,8 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 
 ### Papers
 
+- [ResNet - paper dec/2015](https://arxiv.org/pdf/1512.03385.pdf)
+- [EfficientNet - paper sep/2020](https://arxiv.org/pdf/1905.11946.pdf)
 - [Meta Pseudo Labels - paper mar/2021](https://arxiv.org/pdf/2003.10580v4.pdf) - Semi-Supervised Image Classification, Meta-Learning, Teacher-Student architecture
 
 "Pseudo Labels methods work by having a pair of networks, one as a teacher and one as a student. The teacher generates pseudo labels on unlabeled images. These pseudo labeled images are then combined with labeled images to train the student. Thanks to the abundance of pseudo labeled data and the use of regularization methods such as data augmentation, the student learns to become better than the teacher." 
@@ -261,6 +255,16 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 "Key to Meta Pseudo Labels is the idea that the teacher learns from the student’s feedback to generate pseudo labels in a way that best helps student’s learning."
 
 Meta Pseudo Labels utilizes the feedback from the student to inform the teacher to generate better pseudo labels, reducing bias and inaccuracies.
+
+- [A ConvNet fot the 2020s - ConvNext paper jan/2022](https://arxiv.org/pdf/2201.03545.pdf)
+
+### Vision Transformer (ViT) and others
+
+- [ViT - 5 min video](https://www.youtube.com/watch?v=DVoHvmww2lQ)
+- [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
+- [ViT exemplo - tranformer library](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
+- [ViT exemplo - timm library](https://www.youtube.com/watch?v=ovB0ddFtzzA) - vídeo
+- [Swin Transformer](https://www.youtube.com/watch?v=SndHALawoag) - vídeo
 
 
 # MLOps
