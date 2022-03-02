@@ -185,6 +185,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 
 ### Papers
 
+- [How to read papers - twitter thread](https://twitter.com/marktenenholtz/status/1498644231149142025)
 - [Attention Is All You Need - paper dec/2017](https://arxiv.org/pdf/1706.03762.pdf) - paper original: fundamental ler
 - [BERT - paper may/2019](https://arxiv.org/pdf/1810.04805.pdf) - BERT paper
 - [RoBERTa - paper jul/2019](https://arxiv.org/pdf/1907.11692.pdf) - RoBERTa paper
