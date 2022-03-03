@@ -248,6 +248,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 ### Papers
 
 - [ResNet - paper dec/2015](https://arxiv.org/pdf/1512.03385.pdf)
+- [ResNeXt - paper apr/2017](https://arxiv.org/pdf/1611.05431.pdf)
 - [Squeeze-and-Excitation Networks - SE ResNet - paper may/2019](https://arxiv.org/pdf/1709.01507v4.pdf)
 - [Self-Training with Noisy Student - paper jun/2020](https://arxiv.org/pdf/1911.04252.pdf)
 - [EfficientNet - paper sep/2020](https://arxiv.org/pdf/1905.11946.pdf)
