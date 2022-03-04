@@ -165,6 +165,11 @@ Principais tipos de camadas (layers):
 - Dropout
 - Pooling
 
+### Papers - Why and When Deep Learning?
+
+- [Do We Really Need Deep Learning Models for Time Series Forecasting? - paper oct/2021](https://arxiv.org/pdf/2101.02118.pdf)
+- [Tabular Data: Deep Learning Is Not All You Need - paper nov/2021](https://arxiv.org/pdf/2106.03253.pdf)
+
 ### Extra:
 
 - [JAX docs](https://jax.readthedocs.io/en/latest/) 
