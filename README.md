@@ -131,6 +131,16 @@ Isso aumentará muito a sua produtividade.
 - [Optuna official tutorial](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
 - [Tuning techniques](https://www.youtube.com/watch?v=5nYqK-HaoKY) - Abhishek Thakur
 
+
+# Time Series
+
+- [Curve Fitting - video](https://www.youtube.com/watch?v=kAI67Sz92-s)
+- [ARIMA and friends - video](https://www.youtube.com/watch?v=LjV5DE3KR-U&t=1s)
+- [Time Series models for Finance - video](https://www.youtube.com/watch?v=74rDhJexmTg)
+- [Sales and Demand Forecasting - video](https://www.youtube.com/watch?v=RdH8zd07u2E)
+- [Error Analysis for Time Series - twitter thread](https://twitter.com/marktenenholtz/status/1509500787189190658)
+
+
 # Deep Learning - Neural Networks
 Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, vanishing gradients, exploding gradients, transfer learning (fine-tuning & feature extraction)...
 
