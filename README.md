@@ -9,6 +9,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Data Visualization](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-visualization)
 - [Machine Learning - Teoria](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---teoria)
 - [Machine Learning - Prática](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---prática)
+- [Time Series](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#time-series)
 - [Deep Learning - Neural Networks](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deep-learning---neural-networks)
 - [Transformers](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#transformers)
 - [NLP - Natural Language Processing](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#nlp---natural-language-processing)
