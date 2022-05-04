@@ -299,38 +299,10 @@ Meta Pseudo Labels utilizes the feedback from the student to inform the teacher 
 
 Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteúdos publicados.
 
-```diff 
-Deep Learning
-```
 - Abhishek Thakur
 - AI Coffee Break with Letitia
-- Sentdex
-- Pysource
-- TechViz – The Data Science Guy
-- deeplizard
-- Tensorflow
-- Deeplearning.ai
-
-```diff 
-Yolo
-```
-- The AI Guy
-
-```diff 
-AI e conceitos
-```
+- Chai Time Data Science
 - Krish Naik
-- edureka!
-
-```diff 
-Sortidos
-```
-- AIEngineering
-- Bhavesh Bhatt
 - BI Elite
-- Tech with Tim
-- Hashtag Treinamentos
-- dashboarddesign2017
-- v7labs
-- pysource7
-- javascript.js
+- Yannic Kilcher
+- Sentdex
