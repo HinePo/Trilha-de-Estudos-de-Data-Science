@@ -300,13 +300,13 @@ Meta Pseudo Labels utilizes the feedback from the student to inform the teacher 
 
 Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteúdos publicados.
 
-- Abhishek Thakur
-- AI Coffee Break with Letitia
-- Chai Time Data Science
-- Krish Naik
-- BI Elite
-- Yannic Kilcher
-- Sentdex
+- [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
+- [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak)
+- [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience)
+- [Krish Naik](https://www.youtube.com/user/krishnaik06)
+- [BI Elite](https://www.youtube.com/c/BIElite)
+- [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
+- [Sentdex](https://www.youtube.com/c/sentdex)
 
 
 # Perfis no twitter
