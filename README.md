@@ -321,7 +321,7 @@ Algumas sugestões:
 - [Konrad Banachewicz](https://twitter.com/tng_konrad)
 - [Chris Deotte](https://twitter.com/ChrisDeotte)
 - [Andrew Ng](https://twitter.com/AndrewYNg)
-- [https://twitter.com/arxivabs](https://twitter.com/arxivabs)
+- [arXiv abstract](https://twitter.com/arxivabs)
 - [Sanyam Bhutani](https://twitter.com/bhutanisanyam1)
 - [Ross Wightman](https://twitter.com/wightmanr)
 - [Hugging Face](https://twitter.com/huggingface)
