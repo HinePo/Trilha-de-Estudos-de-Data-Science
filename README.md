@@ -16,6 +16,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Computer Vision](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#computer-vision)
 - [MLOps](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#mlops)
 - [Youtube channels](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#youtube-channels)
+- [Perfis no twitter](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#perfis-no-twitter)
 
 # Como estudar
 - Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível;
@@ -28,7 +29,7 @@ Isso aumentará muito a sua produtividade.
 -	Evitar ficar muito tempo na parte teórica: Qualquer assunto novo tem suas aplicações, via bibliotecas específicas. Se familiarizar com a documentação é o primeiro passo (google “pandas docs”, “seaborn cheat sheet”...);
 -	O segundo passo é a aplicação e uso, parte prática: Resolver problemas usando IA: Pesquisar aplicações no Kaggle (notebooks), fazer o fork (Copy and Edit), adicionar ideias. Evitar tentar reinventar a roda: aproveitar os códigos que já existem;
 - Adicionar aplicação ao seu repositório pessoal (público ou privado) de forma organizada para que você possa facilmente consultá-la no futuro;
-- O twitter (e também o instagram, em menor escala) podem e devem ser utilizados como poderosas ferramentas de estudo e atualização. Funcionam muito bem como dose diária e homeopática de aprendizado, e ajudam muito a acompanhar o trabalho de outras pessoas, cientistas de dados e pesquisadores. O twitter é uma ferramenta essencial para o acompanhamento dos avanços na área de ciência de dados, do estado da arte e dos papers publicados, e para a absorção de dicas e experiências compartilhadas sobre casos reais de DS na indústria e área de negócios. Seguir #’s dos assuntos que te interessam também ajuda muito a se manter atualizado, já que em ciência de dados as coisas acontecem/andam/mudam muito rápido e plataformas que te entregam a informação de forma rápida, resumida e eficiente costumam ser muito úteis.
+- O twitter (e também o instagram, em menor escala) podem e devem ser utilizados como poderosas ferramentas de estudo e atualização. Funcionam muito bem como dose diária e homeopática de aprendizado, e ajudam muito a acompanhar o trabalho de outras pessoas, cientistas de dados e pesquisadores. O twitter é uma ferramenta essencial para o acompanhamento dos avanços na área de ciência de dados, do estado da arte e dos papers publicados, e para a absorção de dicas e experiências compartilhadas sobre casos reais de DS na indústria e área de negócios. Seguir #’s dos assuntos que te interessam também ajuda muito a se manter atualizado, já que em ciência de dados as coisas acontecem/andam/mudam muito rápido e plataformas que te entregam a informação de forma rápida, resumida e eficiente costumam ser muito úteis. Ver sugestões de perfis a seguir no final deste documento.
 
 # Ferramentas
 - Focar em Google Colab e Kaggle notebooks.
@@ -306,3 +307,38 @@ Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteú
 - BI Elite
 - Yannic Kilcher
 - Sentdex
+
+
+# Perfis no twitter
+
+Algumas sugestões:
+
+- [JFPuget](https://twitter.com/JFPuget)
+- [Mark Tenenholtz](https://twitter.com/marktenenholtz)
+- [François Chollet](https://twitter.com/fchollet)
+- [Bojan Tunguz](https://twitter.com/tunguz)
+- [abhishek](https://twitter.com/abhi1thakur)
+- [Konrad Banachewicz](https://twitter.com/tng_konrad)
+- [Chris Deotte](https://twitter.com/ChrisDeotte)
+- [Andrew Ng](https://twitter.com/AndrewYNg)
+- [https://twitter.com/arxivabs](https://twitter.com/arxivabs)
+- [Sanyam Bhutani](https://twitter.com/bhutanisanyam1)
+- [Ross Wightman](https://twitter.com/wightmanr)
+- [Hugging Face](https://twitter.com/huggingface)
+- [ptrblck](https://twitter.com/ptrblck_de)
+- [AI Coffee Break with Letitia Parcalabescu](https://twitter.com/AICoffeeBreak)
+- [Yannic Kilcher, Tech Sister](https://twitter.com/ykilcher)
+- [Philipp Singer](https://twitter.com/ph_singer)
+- [Andrada Olteanu](https://twitter.com/andradaolteanuu)
+- [Santiago](https://twitter.com/svpino)
+- [Jeremy Howard](https://twitter.com/jeremyphoward)
+- [Mr_KnowNothing](https://twitter.com/singh_tanul)
+- [Ultralytics](https://twitter.com/ultralytics)
+- [Harrison Kinsley](https://twitter.com/Sentdex)
+- [Martin Henze (Heads or Tails)](https://twitter.com/heads0rtai1s)
+- [Anthony Goldbloom](https://twitter.com/antgoldbloom)
+- [Bhavesh Bhatt](https://twitter.com/_bhaveshbhatt)
+- [Machine Learning Mastery](https://twitter.com/TeachTheMachine)
+
+
+
