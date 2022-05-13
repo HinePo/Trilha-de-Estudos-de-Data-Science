@@ -150,6 +150,7 @@ Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descen
 
 - [Neural Networks - 3Blue1Brown Playlist (~1h)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U) - vídeo
+- [Exploding and Vanishing gradients](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
 - [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/) - tendências
 - [Keras docs](https://keras.io/)
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
