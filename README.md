@@ -245,6 +245,7 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo) - vídeo
 - [Yolo v5 github repo - ultralytics](https://github.com/ultralytics/yolov5)
 - [Yolo v5 - paper jul/2021](https://arxiv.org/pdf/2104.13634.pdf)
+- [Yolo v6 - github repo - meituan](https://github.com/meituan/YOLOv6)
 
 ### Basics
 
