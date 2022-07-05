@@ -162,7 +162,7 @@ Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descen
 - [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
 - [Pytorch - torch.nn](https://pytorch.org/docs/stable/nn.html)
-- [Vídeo aulas com code examples (pytorch](https://sebastianraschka.com/blog/2021/dl-course.html)
+- [Vídeo aulas com code examples (pytorch)](https://sebastianraschka.com/blog/2021/dl-course.html)
 
 Um estudo muito útil e proveitoso é comparar e olhar em paralelo as documentações de Quick Start do Keras, do Tensorflow e do Pytorch. A lógica é bem parecida e existem muitas analogias:
 - [Keras Quick Start](https://www.tensorflow.org/tutorials/quickstart/beginner)
