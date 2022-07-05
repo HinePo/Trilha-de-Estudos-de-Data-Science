@@ -3,6 +3,7 @@
 Este é um repositório em constante construção e atualização. Adiciono aqui técnicas de estudo e fontes que considero boas para o aprendizado de ciência de dados, com o objetivo de manter recursos organizados para consulta e ajudar quem se interessa pelo tema. O conteúdo aqui compilado vai do básico ao avançado.
 
 # Sumário
+
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
 - [Ferramentas](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#ferramentas)
 - [Python and Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
@@ -19,6 +20,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Perfis no twitter](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#perfis-no-twitter)
 
 # Como estudar
+
 - Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível;
 - Instalar a extensão [video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) no google chrome (funciona em qualquer vídeo tocado pelo chrome browser), e aprender a usar:
 
@@ -71,6 +73,7 @@ Isso aumentará muito a sua produtividade.
 - Ensemble: combinar modelos para aumentar performance e poder de generalização
 
 # Data Visualization
+
 - [A Simple Tutorial To Data Visualization](https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization#notebook-container) - @vanshjatana
 - [Séries de notebooks de visualização](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas) - ao final de cada notebook tem um link para o próximo
 - [Data Analysis - Brazilian Society (PNAD)](https://www.kaggle.com/hinepo/pnad-data-analysis) - @hinepo
@@ -81,6 +84,7 @@ Isso aumentará muito a sua produtividade.
 - [Power BI + DAX + Projetos na prática - Curso Udemy](https://www.udemy.com/course/curso-de-powerbi-desktop-dax/)
 
 # Machine Learning - Teoria
+
 - [Supervised x Unsupervised Learning](https://www.youtube.com/watch?app=desktop&v=1FZ0A1QCMWc) - vídeo
 - [Supervised x Unsupervised Learning: applications](https://www.youtube.com/watch?app=desktop&v=rHeaoaiBM6Y) - vídeo
 - Pesquisar sobre Overfitting e Underfitting, ver vídeos e gráficos
@@ -126,7 +130,6 @@ Isso aumentará muito a sua produtividade.
   - [Tabular Playground Series](https://www.kaggle.com/c/tabular-playground-series-sep-2021)
   - Nível avançado: competições reais (valendo prêmios)
 
-
 ### Algorithm Optimization & Tuning techniques
 
 - [Optuna library](https://optuna.org/)
@@ -135,12 +138,10 @@ Isso aumentará muito a sua produtividade.
 - [Optuna official tutorial](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
 - [Tuning techniques](https://www.youtube.com/watch?v=5nYqK-HaoKY) - Abhishek Thakur
 
-
 # Time Series
 
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
 - [Error Analysis for Time Series - twitter thread](https://twitter.com/marktenenholtz/status/1509500787189190658)
-
 
 # Deep Learning - Neural Networks
 
@@ -196,8 +197,8 @@ Principais tipos de camadas (layers):
 
 [JAX é um projeto open source do Google](https://github.com/google/jax) com o objetivo de criar uma API simples e backend eficiente para cálculos de deep learning. Tem crescido em popularidade e sido considerada muito promissora por pesquisadores. Imagina-se que em alguns anos será um concorrente direto do Pytorch (na área de pesquisa), e também deverá substituir o backend do tensorflow (na área de aplicações). Há quem chame o JAX de  "tensorflow 3", e já existem planos para criação de uma API high level para JAX, adaptando a biclioteca Keras para usar JAX como backend. Portanto, é interessante conhecer.
 
-
 # Transformers
+
 Os Transformers e o Attention Mechanism, propostos em 2017 por Vaswani - Google Brain no paper Attention Is All You Need, são, até hoje, a maior revolução que o mundo do Deep Learning já passou. Vale a pena estudá-los com atenção (pun intended 😆), pois eles são o estado da arte em redes neurais hoje em dia para a maioria dos tasks, e pelo visto continuarão sendo por bastante tempo.
 
 Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de NLP no estado da arte, e também não precisamos de camadas de Convolução para fazer CV (Computer Vision) no estado da arte. Attention Is All You Need.
@@ -213,7 +214,6 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [Swin Transformer - paper aug/2021](https://arxiv.org/pdf/2103.14030.pdf) - Swin Transformer paper - Shifted Window based Self-Attention
 - [DeBERTa: Disentangled Attention - paper oct/2021](https://arxiv.org/pdf/2006.03654.pdf) - DeBERTa paper
 
-
 ### Outras fontes
 
 - [BERT Attention Mechanism](https://peltarion.com/blog/data-science/self-attention-video) - vídeo
@@ -226,6 +226,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 
 
 # NLP - Natural Language Processing
+
 Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Words), Word2vec, FastText (facebook model), GloVe (Global Vectors), CountVectorizer, TF-IDF, BERT, RoBERTa, Hugging Face....
 
 - [A brief timeline of NLP from Bag of Words to the Transformer family](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
@@ -238,6 +239,9 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 
 # Computer Vision
+
+### OpenCV
+- [OpenCV Tutorials](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
 
 ### Yolo
 
@@ -294,6 +298,7 @@ Meta Pseudo Labels utilizes the feedback from the student to inform the teacher 
 
 
 # MLOps
+
 - [Made With ML](https://madewithml.com/) - website
 - [Machine Learning Operations](https://ml-ops.org/) - website
 - [MLflow](https://www.youtube.com/watch?app=desktop&v=859OxXrt_TI) - vídeo
