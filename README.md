@@ -303,6 +303,7 @@ Meta Pseudo Labels utilizes the feedback from the student to inform the teacher 
 
 - [Made With ML](https://madewithml.com/) - website
 - [Machine Learning Operations](https://ml-ops.org/) - website
+- [MLOps: Overview, Definition, and Architecture - paper mai/2022](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
 - [MLflow](https://www.youtube.com/watch?app=desktop&v=859OxXrt_TI) - vídeo
 - [MLflow on Databricks](https://www.youtube.com/watch?app=desktop&v=nx3yFzx_nHI&t=1260s) - vídeo
 - [Weights and biases](https://www.youtube.com/watch?v=krWjJcW80_A) - vídeo
