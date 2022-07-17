@@ -41,8 +41,8 @@ Isso aumentará muito a sua produtividade.
 
 # Panorama de DS no mercado
 
-- [Data Scientist: The Sexiest Job of the 21st Century - artigo 2012](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
-- [Is Data Scientist Still the Sexiest Job of the 21st Century?](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century) - spoiler: sim.
+- [Data Scientist: The Sexiest Job of the 21st Century - artigo out/2012](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
+- [Is Data Scientist Still the Sexiest Job of the 21st Century? - artigo jul/2022](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century) - spoiler: sim.
 
 # Python and Data Analysis basics
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA) - vídeo
