@@ -6,6 +6,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
 - [Ferramentas](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#ferramentas)
+- [Panorama de DS no mercado](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#panorama-de-ds-no-mercado)
 - [Python and Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
 - [Data Visualization](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-visualization)
 - [Machine Learning - Teoria](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---teoria)
@@ -37,6 +38,11 @@ Isso aumentará muito a sua produtividade.
 - Focar em Google Colab e Kaggle notebooks.
 - No futuro, é interessante conhecer IDEs como VS Code, PyCharm e Spyder.
 - Sublime Text é um ótimo editor de código.
+
+# Panorama de DS no mercado
+
+- [Data Scientist: The Sexiest Job of the 21st Century - artigo 2012](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
+- [Is Data Scientist Still the Sexiest Job of the 21st Century?](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century) - spoiler: sim.
 
 # Python and Data Analysis basics
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA) - vídeo
