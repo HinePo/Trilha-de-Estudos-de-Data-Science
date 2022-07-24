@@ -311,9 +311,9 @@ Meta Pseudo Labels utilizes the feedback from the student to inform the teacher 
 # Deploy
 
 Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
-- 7. Model Deployment and Prediction Service
-- 8. Data Distribution Shifts and Monitoring
-- 9. Continual Learning and Test in Production
+- 7 - Model Deployment and Prediction Service
+- 8 - Data Distribution Shifts and Monitoring
+- 9 - Continual Learning and Test in Production
 
 
 # MLOps
