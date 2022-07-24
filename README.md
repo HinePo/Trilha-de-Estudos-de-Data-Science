@@ -16,6 +16,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Transformers](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#transformers)
 - [NLP - Natural Language Processing](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#nlp---natural-language-processing)
 - [Computer Vision](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#computer-vision)
+- [Deploy](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deploy)
 - [MLOps](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#mlops)
 - [Youtube channels](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#youtube-channels)
 - [Perfis no twitter](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#perfis-no-twitter)
@@ -60,7 +61,7 @@ Isso aumentará muito a sua produtividade.
 - Plots básicos
 - Analisar missing values (valores faltantes), tomar decisões sobre o que fazer com eles
 - Analisar outliers, decidir o que fazer com eles
-- Análise univariada, bivariada, multivariada
+- Análise univariada, bivariada, multivariada (variáveis categóricas e numéricas)
 - Feature Engineering (criação de variáveis)
 - Deixar dados prontos para eventual modelagem de IA
 
@@ -71,11 +72,12 @@ Isso aumentará muito a sua produtividade.
 - Preprocess: Scaling and categorical encoders
 - Check Target distributions
 - Check features distributions, normalize them if needed
+- Definir estratégia de validação dos modelos
 - Definir métricas de avaliação dos modelos
 - Choose algorithm, Train model
-- Evaluate model
+- Evaluate model (fora da etapa de modelagem: cruzamento com business KPIs)
 - Melhorar modelo, tunar hiperparâmetros, treinar de novo, avaliar de novo
-- Experimentos com diferentes sets de features
+- Experimentos: diferentes sets de features e diferentes etapas de pré-processamento
 - Ensemble: combinar modelos para aumentar performance e poder de generalização
 
 # Data Visualization
@@ -306,8 +308,17 @@ Meta Pseudo Labels utilizes the feedback from the student to inform the teacher 
 - [Swin Transformer](https://www.youtube.com/watch?v=SndHALawoag) - vídeo
 
 
+# Deploy
+
+- Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
+  "7. Model Deployment and Prediction Service"
+  "8. Data Distribution Shifts and Monitoring"
+  "9. Continual Learning and Test in Production"
+
+
 # MLOps
 
+- Capítulo "10. Infrastructure and Tooling for MLOps" do livro "Designing Machine Learning Systemns - Chip Huyen"
 - [Made With ML](https://madewithml.com/) - website
 - [Machine Learning Operations](https://ml-ops.org/) - website
 - [MLOps: Overview, Definition, and Architecture - paper mai/2022](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
