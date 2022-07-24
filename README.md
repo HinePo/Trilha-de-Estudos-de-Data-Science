@@ -318,7 +318,7 @@ Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
 
 # MLOps
 
-- Capítulo "10. Infrastructure and Tooling for MLOps" do livro "Designing Machine Learning Systemns - Chip Huyen"
+- Capítulo "10 - Infrastructure and Tooling for MLOps" do livro "Designing Machine Learning Systemns - Chip Huyen"
 - [Made With ML](https://madewithml.com/) - website
 - [Machine Learning Operations](https://ml-ops.org/) - website
 - [MLOps: Overview, Definition, and Architecture - paper mai/2022](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
