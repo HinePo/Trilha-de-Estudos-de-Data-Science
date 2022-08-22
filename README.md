@@ -324,7 +324,7 @@ Intro:
 - [Machine Learning Operations](https://ml-ops.org/) - website
 - [MLOps: Overview, Definition, and Architecture - paper mai/2022](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
 
-Tools & References
+Tools & References:
 - [A curated list of awesome MLOps tools - kelvins](https://github.com/kelvins/awesome-mlops)
 - [A curated list of references for MLOps - visenger](https://github.com/visenger/awesome-mlops)
 
