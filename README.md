@@ -318,10 +318,17 @@ Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
 
 # MLOps
 
+Intro:
 - Capítulo "10 - Infrastructure and Tooling for MLOps" do livro "Designing Machine Learning Systemns - Chip Huyen"
 - [Made With ML](https://madewithml.com/) - website
 - [Machine Learning Operations](https://ml-ops.org/) - website
 - [MLOps: Overview, Definition, and Architecture - paper mai/2022](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
+
+Tools & References
+- [A curated list of awesome MLOps tools - kelvins](https://github.com/kelvins/awesome-mlops)
+- [A curated list of references for MLOps - visenger](https://github.com/visenger/awesome-mlops)
+
+Model Store:
 - [MLflow](https://www.youtube.com/watch?app=desktop&v=859OxXrt_TI) - vídeo
 - [MLflow on Databricks](https://www.youtube.com/watch?app=desktop&v=nx3yFzx_nHI&t=1260s) - vídeo
 - [Weights and biases](https://www.youtube.com/watch?v=krWjJcW80_A) - vídeo
