@@ -82,7 +82,6 @@ Isso aumentará muito a sua produtividade.
 
 # Data Visualization
 
-- [A Simple Tutorial To Data Visualization](https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization#notebook-container) - @vanshjatana
 - [Séries de notebooks de visualização](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas) - ao final de cada notebook tem um link para o próximo
 - [Data Analysis - Brazilian Society (PNAD)](https://www.kaggle.com/hinepo/pnad-data-analysis) - @hinepo
 - [Rio Temperature Analysis](https://www.kaggle.com/hinepo/is-rio-getting-hotter-seasons-analysis/) - @hinepo
