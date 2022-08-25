@@ -122,7 +122,6 @@ Isso aumentará muito a sua produtividade.
 
 # Machine Learning - Prática
 - [Kaggle's 30 Days of ML](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N) - Abhishek Thakur
-- [Applied Machine Learning](https://www.kaggle.com/vanshjatana/applied-machine-learning) - @vanshjatana
 - [Data Visualization & Income Prediction for Brazilians](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
 - [Lazy Predict](https://www.kaggle.com/hinepo/pnad-lazy-predict) - @hinepo
 - [Heart disease and ensembling](https://www.kaggle.com/hinepo/ensemble-to-predict-diabetes-100-acc-on-val-data) - @hinepo
@@ -241,7 +240,6 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [BERT tutorial by Abhishek Thakur](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH)
 - [Hugging Face course](https://huggingface.co/course/chapter1/1) - excelente curso. HF é o melhor ecossistema de NLP e continuará sendo por muitos anos
 - [Hugging Face tutorial - video (30 min)](https://www.youtube.com/watch?v=DQc2Mi7BcuI])
-- [Text Classification from Scratch](https://www.kaggle.com/vanshjatana/text-classification-from-scratch?scriptVersionId=33686389) - @vanshjatana
 - [10 Things You Need to Know About BERT and Transformer Architecture](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)
 - [A Survey of Transformers - paper jun/2021](https://arxiv.org/pdf/2106.04554.pdf) - paper para consulta
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
