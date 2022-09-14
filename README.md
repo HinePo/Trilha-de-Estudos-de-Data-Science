@@ -108,7 +108,7 @@ Isso aumentará muito a sua produtividade.
 - [Scipy docs](https://scipy.org/) - Procurar aplicação do pacote
 - Pesquisar sobre "Feature Engineering" (criação de variáveis)
 - Pesquisar sobre métricas e como avaliar modelos:
-  - Classificação: Accuracy, ROC AUC, f1-score, recall, precision
+  - Classificação: Accuracy, ROC AUC, f1-score, recall, precision, [MCC](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
   - Regressão: RMSE, MSE, MAE, R²
 - Outros conceitos importantes: Pesquisar sobre Boosting (XGBoost, LGBM, GBM), Bagging, Split train/test, data leakage, time series, ARIMA, feature importances, ensemble...
 - Imbalanced learning:
