@@ -386,7 +386,6 @@ Algumas sugestões:
 - [Ross Wightman](https://twitter.com/wightmanr)
 - [Hugging Face](https://twitter.com/huggingface)
 - [AI Coffee Break with Letitia Parcalabescu](https://twitter.com/AICoffeeBreak)
-- [Yannic Kilcher, Tech Sister](https://twitter.com/ykilcher)
 - [Philipp Singer](https://twitter.com/ph_singer)
 - [Andrada Olteanu](https://twitter.com/andradaolteanuu)
 - [Jeremy Howard](https://twitter.com/jeremyphoward)
