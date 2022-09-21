@@ -175,6 +175,7 @@ Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descen
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
 - [Keras - code examples](https://keras.io/examples/)
 - [Tensorflow docs](https://www.tensorflow.org/)
+- [Tensorflow guide - kaggle learn](https://www.kaggle.com/learn-guide/tensorflow)
 - [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
 - [Pytorch - torch.nn](https://pytorch.org/docs/stable/nn.html)
@@ -212,6 +213,8 @@ Principais tipos de camadas (layers):
 "JAX is NumPy on the CPU, GPU, and TPU, with great automatic differentiation for high-performance machine learning research."
 
 [JAX é um projeto open source do Google](https://github.com/google/jax) com o objetivo de criar uma API simples e backend eficiente para cálculos de deep learning. Tem crescido em popularidade e sido considerada muito promissora por pesquisadores. Imagina-se que em alguns anos será um concorrente direto do Pytorch (na área de pesquisa), e também deverá substituir o backend do tensorflow (na área de aplicações). Há quem chame o JAX de  "tensorflow 3", e já existem planos para criação de uma API high level para JAX, adaptando a biclioteca Keras para usar JAX como backend. Portanto, é interessante conhecer.
+
+- [JAX guide - kaggle learn](https://www.kaggle.com/learn-guide/jax)
 
 # Transformers
 
@@ -253,6 +256,7 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [10 Things You Need to Know About BERT and Transformer Architecture](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)
 - [A Survey of Transformers - paper jun/2021](https://arxiv.org/pdf/2106.04554.pdf) - paper para consulta
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
+- [NLP guide - kaggle learn](https://www.kaggle.com/learn-guide/natural-language-processing)
 
 # Computer Vision
 
@@ -276,7 +280,8 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [Kernel size in convolution layers](https://medium.com/analytics-vidhya/significance-of-kernel-size-200d769aecb1)
 - [Digit Recognizer: Getting Started Competition](https://www.kaggle.com/c/digit-recognizer) - ‘Hello World’ do mundo de CV: Estudar vários notebooks com bom score, e depois criar o seu misturando várias técnicas que vc achou promissoras em outros notebooks, tentando melhorar o score do baseline. Recomendo no mínimo uns 10 dias de estudo para essa competição.
 - [Pytorch tutorial for image classification](https://www.kaggle.com/hinepo/pytorch-tutorial-cv-99-67-lb-99-26) - @hinepo
-- [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo 
+- [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo
+- [Transfer learning for CV guide - kaggle learn](https://www.kaggle.com/learn-guide/transfer-learning-cv)
 
 ### Pytorch image models (timm)
 
