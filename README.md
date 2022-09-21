@@ -94,6 +94,7 @@ Isso aumentará muito a sua produtividade.
 - [Rio Temperature Analysis](https://www.kaggle.com/hinepo/is-rio-getting-hotter-seasons-analysis/) - @hinepo
 - [Visual Reference](https://www.sqlbi.com/wp-content/uploads/videotrainings/dashboarddesign/visuals-reference-may2017-A3.pdf)
 - [Power BI playlists](https://www.youtube.com/c/HashtagTreinamentos/playlists?app=desktop)
+- [Power BI - Leonardo Karpinski](https://www.youtube.com/c/AprendaPowerBI)
 - [Power BI - Karine Lago](https://www.youtube.com/c/KarineLago/playlists?app=desktop)
 - [Power BI + DAX + Projetos na prática - Curso Udemy](https://www.udemy.com/course/curso-de-powerbi-desktop-dax/)
 
