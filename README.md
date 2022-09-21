@@ -33,7 +33,14 @@ Isso aumentará muito a sua produtividade.
 -	Evitar ficar muito tempo na parte teórica: Qualquer assunto novo tem suas aplicações, via bibliotecas específicas. Se familiarizar com a documentação é o primeiro passo (google “pandas docs”, “seaborn cheat sheet”...);
 -	O segundo passo é a aplicação e uso, parte prática: Resolver problemas usando IA: Pesquisar aplicações no Kaggle (notebooks), fazer o fork (Copy and Edit), adicionar ideias. Evitar tentar reinventar a roda: aproveitar os códigos que já existem;
 - Adicionar aplicação ao seu repositório pessoal (público ou privado) de forma organizada para que você possa facilmente consultá-la no futuro;
-- O twitter (e também o instagram, em menor escala) podem e devem ser utilizados como poderosas ferramentas de estudo e atualização. Funcionam muito bem como dose diária e homeopática de aprendizado, e ajudam muito a acompanhar o trabalho de outras pessoas, cientistas de dados e pesquisadores. O twitter é uma ferramenta essencial para o acompanhamento dos avanços na área de ciência de dados, do estado da arte e dos papers publicados, e para a absorção de dicas e experiências compartilhadas sobre casos reais de DS na indústria e área de negócios. Seguir #’s dos assuntos que te interessam também ajuda muito a se manter atualizado, já que em ciência de dados as coisas acontecem/andam/mudam muito rápido e plataformas que te entregam a informação de forma rápida, resumida e eficiente costumam ser muito úteis. Ver sugestões de perfis a seguir no final deste documento.
+
+### ML twitter
+
+- Em 2022, nem os papers do arxiv e nem blogposts conseguem acompanhar a velocidade no avanço no ML/DL. As publicações acontecem de forma muito mais rápida e dinâmica no twitter, que é absolutamente fundamental pra quem quer acompanhar o estado da arte. [Exemplo](https://twitter.com/bneyshabur/status/1570843225585504256)
+- O twitter deve ser utilizado como ferramenta de estudo e atualização. Funciona muito bem como dose diária de aprendizado, e ajuda muito a acompanhar o trabalho de outros cientistas de dados e pesquisadores.
+- Ferramenta essencial não só para o acompanhamento dos avanços na área de ciência de dados e papers publicados, mas também para a absorção de dicas e experiências compartilhadas sobre casos reais de DS na indústria e área de negócios.
+- Nenhuma outra plataforma te entrega a informação de forma tão rápida e curada.
+- Ver sugestões de perfis a seguir no final deste documento.
 
 # Ferramentas
 - Focar em Google Colab e Kaggle notebooks.
