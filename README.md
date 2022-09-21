@@ -328,6 +328,7 @@ Intro:
 - [Made With ML](https://madewithml.com/) - website
 - [Machine Learning Operations](https://ml-ops.org/) - website
 - [MLOps: Overview, Definition, and Architecture - paper mai/2022](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
+- [Operationalizing Machine Learning: An Interview Study - paper sep/2022](https://arxiv.org/pdf/2209.09125.pdf)
 
 Tools & References:
 - [A curated list of awesome MLOps tools - kelvins](https://github.com/kelvins/awesome-mlops)
