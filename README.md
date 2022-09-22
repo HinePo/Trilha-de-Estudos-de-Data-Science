@@ -361,6 +361,7 @@ Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteú
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak)
 - [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience)
 - [Krish Naik](https://www.youtube.com/user/krishnaik06)
+- [Underfitted](https://www.youtube.com/c/Santiagox0)
 - [BI Elite](https://www.youtube.com/c/BIElite)
 
 
