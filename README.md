@@ -58,7 +58,7 @@ Isso aumentará muito a sua produtividade.
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Pandas docs](https://pandas.pydata.org/docs/index.html)
 - [Handling Missing Data](https://www.kaggle.com/robikscube/handling-with-missing-data-youtube-stream)
-- [Python projects](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9)
+- [Missing values & XGBoost](https://twitter.com/svpino/status/1559510300428156929)
 
 ### Data Analysis workflow - entender e praticar as etapas básicas:
 
@@ -112,7 +112,6 @@ Isso aumentará muito a sua produtividade.
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html) - Acho muito importante ler todo o item 1. Na primeira leitura não precisa entender tudo com profundidade, mas tem que se familiarizar com a documentação do scikit, especialmente com o item 1 todo. É uma biblioteca muito importante para se aprender a usar e consultar.
 - [Scikit-learn Pre-processing](https://scikit-learn.org/stable/modules/preprocessing.html)
-- [ML projects for beginners - with code](https://github.com/microsoft/ML-For-Beginners)
 - [Scipy docs](https://scipy.org/) - Procurar aplicação do pacote
 - Pesquisar sobre "Feature Engineering" (criação de variáveis)
 - Pesquisar sobre métricas e como avaliar modelos:
