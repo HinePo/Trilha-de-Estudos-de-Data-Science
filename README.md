@@ -64,7 +64,6 @@ Isso aumentará muito a sua produtividade.
 
 - Importar e ler csv, criar dataframe
 - Checar tipos de variáveis (data types): numéricas e categóricas
-- Preprocess: Técnicas para lidar com variáveis categóricas: one-hot encoding, label encoding, ordinal encoding....
 - Plots básicos
 - Analisar missing values (valores faltantes), tomar decisões sobre o que fazer com eles
 - Analisar outliers, decidir o que fazer com eles
@@ -74,18 +73,19 @@ Isso aumentará muito a sua produtividade.
 
 ### Machine Learning workflow - entender e praticar as etapas básicas:
 
-- Split train/validation datasets
 - Definir Features and Target (if it is a supervised problem)
 - Preprocess: Scaling and categorical encoders
 - Check Target distributions
 - Check features distributions, normalize them if needed
-- Definir estratégia de validação dos modelos
+- Split train/validation datasets: Definir estratégia confiável de validação dos modelos (cross-validation strategy)
 - Definir métricas de avaliação dos modelos
-- Choose algorithm, Train model
+- Choose algorithm, train model, create baseline model
 - Evaluate model (fora da etapa de modelagem: cruzamento com business KPIs)
-- Melhorar modelo, tunar hiperparâmetros, treinar de novo, avaliar de novo
-- Experimentos: diferentes sets de features e diferentes etapas de pré-processamento
-- Ensemble: combinar modelos para aumentar performance e poder de generalização
+- Melhorar baseline: criar variáveis melhores (feature engineering), tunar hiperparâmetros, testar outros algoritmos, treinar e avaliar de novo
+- [OOF analysis & Error analysis](https://www.kaggle.com/competitions/siim-isic-melanoma-classification/discussion/175614)
+- Experimentos de Feature selection e preprocessing: diferentes sets de features e diferentes etapas de pré-processamento
+- Melhorar explicabilidade
+- Ensemble: combinar modelos para aumentar performance, estabilidade e poder de generalização
 
 # Data Visualization
 
