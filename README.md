@@ -213,7 +213,7 @@ Principais tipos de camadas (layers):
 
 "JAX is NumPy on the CPU, GPU, and TPU, with great automatic differentiation for high-performance machine learning research."
 
-[JAX é um projeto open source do Google](https://github.com/google/jax) com o objetivo de criar uma API simples e backend eficiente para cálculos de deep learning. Tem crescido em popularidade e sido considerada muito promissora por pesquisadores. Imagina-se que em alguns anos será um concorrente direto do Pytorch (na área de pesquisa), e também deverá substituir o backend do tensorflow (na área de aplicações). Há quem chame o JAX de  "tensorflow 3", e já existem planos para criação de uma API high level para JAX, adaptando a biclioteca Keras para usar JAX como backend. Portanto, é interessante conhecer.
+[JAX é um projeto open source do Google](https://github.com/google/jax) com o objetivo de criar uma API simples e backend eficiente para cálculos de deep learning. Tem crescido em popularidade e sido considerada muito promissora por pesquisadores. Imagina-se que em alguns anos será um concorrente direto do Pytorch (na área de pesquisa), e também deverá substituir o backend do tensorflow (na área de aplicações). Há quem chame o JAX de  "tensorflow 3", e já existem planos para criação de uma API high level para JAX, adaptando a biblioteca Keras para usar JAX como backend. Portanto, é interessante conhecer.
 
 - [JAX guide - kaggle learn](https://www.kaggle.com/learn-guide/jax)
 
