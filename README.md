@@ -328,13 +328,14 @@ Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
 - 7 - Model Deployment and Prediction Service
 - 8 - Data Distribution Shifts and Monitoring
 - 9 - Continual Learning and Test in Production
+- [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112) - blog post
+
 
 ### Deploying supervised machine learning models
 
 Deploying is an intervention and humans are agents that react to the predictions. That is the point of most models.
 
 - [Performative prediction](https://twitter.com/ChristophMolnar/status/1569644089724764160)
-- [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112) - blog post
 
 
 # MLOps
