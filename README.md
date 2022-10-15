@@ -157,6 +157,7 @@ Isso aumentará muito a sua produtividade.
 
 - [3 methods for Time Series validation](https://forecastegy.com/posts/3-essential-methods-to-do-time-series-validation-in-machine-learning/)
 - [Error Analysis for Time Series - twitter thread](https://twitter.com/marktenenholtz/status/1509500787189190658)
+- [Techniques for working with time series data](https://towardsdatascience.com/a-collection-of-must-know-techniques-for-working-with-time-series-data-in-python-7c01d199b184)
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
 
 # Deep Learning - Neural Networks
