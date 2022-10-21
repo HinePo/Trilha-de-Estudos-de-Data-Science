@@ -256,6 +256,7 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning](https://www.youtube.com/watch?v=ISPId9Lhc1g)
 - [BERT tutorial by Abhishek Thakur](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH)
 - [Resumo Hugging face library - 15 min video](https://www.youtube.com/watch?v=QEaBAZQCtwE)
+- [Hugging face - finetune a pretrained model: Trainer, native Pytorch, native Tensorflow](https://huggingface.co/docs/transformers/training)
 - [Hugging Face course](https://huggingface.co/course/chapter1/1) - excelente curso. HF é o melhor ecossistema de NLP e continuará sendo por muitos anos
 - [Hugging Face tutorial - video (30 min)](https://www.youtube.com/watch?v=DQc2Mi7BcuI])
 - [10 Things You Need to Know About BERT and Transformer Architecture](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)
