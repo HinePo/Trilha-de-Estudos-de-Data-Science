@@ -268,6 +268,7 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 
 ### OpenCV
 - [OpenCV Tutorials](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
+- [How to work with video data](https://www.youtube.com/watch?v=AxIc-vGaHQ0)
 
 ### Yolo
 
@@ -368,6 +369,7 @@ Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteú
 - [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak)
 - [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience)
+- [Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw/videos)
 - [Krish Naik](https://www.youtube.com/user/krishnaik06)
 - [Underfitted](https://www.youtube.com/c/Santiagox0)
 - [Andrej Karpathy](https://www.youtube.com/c/AndrejKarpathy/videos)
