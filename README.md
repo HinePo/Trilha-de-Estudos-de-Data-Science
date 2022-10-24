@@ -56,6 +56,7 @@ Isso aumentará muito a sua produtividade.
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA) - vídeo
 - [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw) - vídeo
 - [Pandas tutorial - kaggle learn](https://www.kaggle.com/learn/pandas) - Fazer o fork dos notebooks e aprender praticando
+- [Use pandas like a pro](https://www.youtube.com/watch?v=_gaAoJBMJ_Q) - 12 min video - Rob Mulla
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Handling Missing Data](https://www.kaggle.com/robikscube/handling-with-missing-data-youtube-stream)
 - [Missing values & XGBoost](https://twitter.com/svpino/status/1559510300428156929)
