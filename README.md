@@ -248,6 +248,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [Attention implementation in torch from scratch - twitter thread](https://twitter.com/abhi1thakur/status/1470406419786698761) - Abhishek Thakur
 - [Attention implementation in torch from scratch - twitter thread 2](https://twitter.com/abhi1thakur/status/1471126502112698368) - Abhishek Thakur
 - [Transformers from Scratch](https://e2eml.school/transformers.html) - explicação visual e detalhada
+- [Awesome Self-Supervised Learning - github repo](https://github.com/jason718/awesome-self-supervised-learning)
 
 
 # NLP - Natural Language Processing
