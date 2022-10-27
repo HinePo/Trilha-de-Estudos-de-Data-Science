@@ -232,7 +232,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 - [BERT - paper may/2019](https://arxiv.org/pdf/1810.04805.pdf) - BERT paper
 - [RoBERTa - paper jul/2019](https://arxiv.org/pdf/1907.11692.pdf) - RoBERTa paper
 - [SBERT - paper aug/2019](https://arxiv.org/pdf/1908.10084.pdf) - Sentence Transformers paper
-- [TaBERT - paper may/2020](https://arxiv.org/pdf/2005.08314v1.pdf) - Tabel + NLP Jointly learned representations
+- [TaBERT - paper may/2020](https://arxiv.org/pdf/2005.08314v1.pdf) - Learning Joint Representations over Textual and Tabular Data
 - [T5: Text-To-Text Transfer Transformer - paper jul/2020](https://arxiv.org/pdf/1910.10683.pdf) - T5 paper
 - [Longformer - paper dec/2020](https://arxiv.org/pdf/2004.05150.pdf) - Longformer paper - Local Attention
 - [Vision Transformers (ViT) - paper jun/2021](https://arxiv.org/pdf/2010.11929.pdf) - ViT paper
