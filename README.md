@@ -107,13 +107,11 @@ Isso aumentará muito a sua produtividade.
 - [Cross Validation](https://www.youtube.com/watch?app=desktop&v=fSytzGwwBVw)
 - [Cross Validation - scikit docs](https://scikit-learn.org/stable/modules/cross_validation.html)
 - Pesquisar sobre Cross Validation para Time Series (como evitar contaminação de dados do futuro pro passado, data leakage, train/test contamination...)
-- [pdf do livro do Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - resumo com tudo, disponível na Amazon tb
 - [Kaggle courses](https://www.kaggle.com/learn)
+- [pdf do livro do Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - disponível na Amazon tb
 - [Statquest - Vídeos sobre conceitos, teoria e matemática de algoritmos e ML](https://www.youtube.com/c/joshstarmer/playlists?app=desktop)
-- [Scikit-learn](https://scikit-learn.org/stable/)
 - [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html) - Acho muito importante ler todo o item 1. Na primeira leitura não precisa entender tudo com profundidade, mas tem que se familiarizar com a documentação do scikit, especialmente com o item 1 todo. É uma biblioteca muito importante para se aprender a usar e consultar.
 - [Scikit-learn Pre-processing](https://scikit-learn.org/stable/modules/preprocessing.html)
-- [Scipy docs](https://scipy.org/) - Procurar aplicação do pacote
 - Pesquisar sobre "Feature Engineering" (criação de variáveis)
 - Pesquisar sobre métricas e como avaliar modelos:
   - Classificação: Accuracy, ROC AUC, f1-score, recall, precision, [MCC](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
