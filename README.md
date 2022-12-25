@@ -347,6 +347,7 @@ Deploying is an intervention and humans are agents that react to the predictions
 # MLOps
 
 Intro:
+- [Como é o trabalho de um ML Enginner (MLE)?](https://www.youtube.com/watch?v=xCcrMhwzhpI)
 - Capítulo "10 - Infrastructure and Tooling for MLOps" do livro "Designing Machine Learning Systemns - Chip Huyen"
 - [Made With ML](https://madewithml.com/) - website
 - [Machine Learning Operations](https://ml-ops.org/) - website
