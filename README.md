@@ -16,6 +16,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Transformers](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#transformers)
 - [NLP - Natural Language Processing](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#nlp---natural-language-processing)
 - [Computer Vision](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#computer-vision)
+- [RecSys](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#recsys)
 - [Deploy](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deploy)
 - [MLOps](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#mlops)
 - [Youtube channels](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#youtube-channels)
@@ -326,6 +327,21 @@ Meta Pseudo Labels utilizes the feedback from the student to inform the teacher 
 - [ViT exemplo - tranformer library](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
 - [ViT exemplo - timm library](https://www.youtube.com/watch?v=ovB0ddFtzzA) - vídeo
 - [Swin Transformer](https://www.youtube.com/watch?v=SndHALawoag) - vídeo
+
+# RecSys
+
+Recommendation systems basics
+- [Teoria - Khrish Naik](https://www.youtube.com/watch?v=EjOlN6uVBOg)
+- [Prática - Khrish Naik](https://www.youtube.com/watch?v=R64Lh1Qwl_0)
+
+Algumas abordagens:
+- Content based Filtering
+- Collaborative based Filtering
+- Co-visitant matrix
+- Matrix Factorization
+- Ranking models (learning to rank)
+- LSTM
+- Transformers
 
 
 # Deploy
