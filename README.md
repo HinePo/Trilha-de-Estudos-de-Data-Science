@@ -333,6 +333,7 @@ Meta Pseudo Labels utilizes the feedback from the student to inform the teacher 
 Recommendation systems basics
 - [Teoria - Khrish Naik](https://www.youtube.com/watch?v=EjOlN6uVBOg)
 - [Prática - Khrish Naik](https://www.youtube.com/watch?v=R64Lh1Qwl_0)
+- [Arquitetura de Sistemas de recomendação - Mario FIlho](https://www.youtube.com/watch?v=2LbZRaRfGqk&t=2688s)
 
 Algumas abordagens:
 - Content based Filtering
