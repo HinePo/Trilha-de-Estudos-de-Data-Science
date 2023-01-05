@@ -91,6 +91,7 @@ Isso aumentará muito a sua produtividade.
 
 # Data Visualization
 
+- [Python Graph Gallery](https://www.python-graph-gallery.com/)
 - [Séries de notebooks de visualização](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas) - ao final de cada notebook tem um link para o próximo
 - [Data Analysis - Brazilian Society (PNAD)](https://www.kaggle.com/hinepo/pnad-data-analysis) - @hinepo
 - [Rio Temperature Analysis](https://www.kaggle.com/hinepo/is-rio-getting-hotter-seasons-analysis/) - @hinepo
