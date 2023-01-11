@@ -274,17 +274,25 @@ Principais conceitos e keywords a conhecer: n-grams, CBOW (Continuous Bag of Wor
 - [OpenCV Tutorials](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
 - [How to work with video data](https://www.youtube.com/watch?v=AxIc-vGaHQ0)
 
-### Yolo
+### Yolo papers and repos
 
-- [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g) - vídeo
-- [Face mask yolo-v5 example](https://www.youtube.com/watch?v=12UoOlsRwh8) - vídeo
-- [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
-- [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo) - vídeo
 - [Yolo v5 github repo - ultralytics](https://github.com/ultralytics/yolov5)
 - [Yolo v5 - paper jul/2021](https://arxiv.org/pdf/2104.13634.pdf)
 - [Yolo v6 - github repo - meituan](https://github.com/meituan/YOLOv6)
 - [Yolo v7 - github repo - WongKinYiu](https://github.com/WongKinYiu/yolov7)
 - [Yolo v7 - paper jul/2022](https://arxiv.org/pdf/2207.02696.pdf)
+- [Yolov v8 github repo - Ultralytics](https://github.com/ultralytics/ultralytics)
+
+### Yolo videos and examples
+
+- [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g) - vídeo
+- [Face mask yolo-v5 example](https://www.youtube.com/watch?v=12UoOlsRwh8) - vídeo
+- [Yolo v5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
+- [Yolo v5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
+- [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
+- [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo) - vídeo
+- [Yolo v8 - Rob Mula video](https://www.youtube.com/watch?v=Sq7R_YINvVY)
+
 
 ### Basics
 
