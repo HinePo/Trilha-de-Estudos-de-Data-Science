@@ -81,7 +81,7 @@ Isso aumentará muito a sua produtividade.
 - Check features distributions, normalize them if needed
 - Split train/validation datasets: Definir estratégia confiável de validação dos modelos (cross-validation strategy)
 - Definir métricas de avaliação dos modelos
-- Choose algorithm, train model, create baseline model
+- Choose algorithm, train model, create simple baseline model: [Lei de Gall](https://twitter.com/radekosmulski/status/1614385689424187392)
 - Evaluate model (fora da etapa de modelagem: cruzamento com business KPIs)
 - Melhorar baseline: criar variáveis melhores (feature engineering), tunar hiperparâmetros, testar outros algoritmos, treinar e avaliar de novo
 - [OOF analysis & Error analysis](https://www.kaggle.com/competitions/siim-isic-melanoma-classification/discussion/175614)
