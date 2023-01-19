@@ -364,6 +364,7 @@ Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
 - 8 - Data Distribution Shifts and Monitoring
 - 9 - Continual Learning and Test in Production
 - [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112) - blog post
+- [Use docker for deployment, not for development](https://twitter.com/radekosmulski/status/1615856695879798784)
 
 
 ### Deploying supervised machine learning models
