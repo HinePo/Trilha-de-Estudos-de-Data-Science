@@ -282,6 +282,7 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [Yolo v7 - github repo - WongKinYiu](https://github.com/WongKinYiu/yolov7)
 - [Yolo v7 - paper jul/2022](https://arxiv.org/pdf/2207.02696.pdf)
 - [Yolov v8 github repo - Ultralytics](https://github.com/ultralytics/ultralytics)
+- [Yolov8 Ultralytics Docs](https://docs.ultralytics.com/tasks/detection/)
 
 ### Yolo videos and examples
 
