@@ -274,6 +274,7 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [Image Processing with OpenCV and Python](https://www.youtube.com/watch?v=kSqxn6zGE0c)
 - [How to work with video data](https://www.youtube.com/watch?v=AxIc-vGaHQ0)
 - [OpenCV Tutorials](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
+- [Image and Video processing - Great Barrier Reef](https://www.kaggle.com/code/soumya9977/learning-to-sea-underwater-img-enhancement-eda/notebook)
 
 ### Yolo papers and repos
 
@@ -291,11 +292,11 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [Face mask yolo-v5 example](https://www.youtube.com/watch?v=12UoOlsRwh8) - vídeo
 - [Yolo v5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
 - [Yolo v5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
-- [Image and Video processing - Great Barrier Reef](https://www.kaggle.com/code/soumya9977/learning-to-sea-underwater-img-enhancement-eda/notebook)
 - [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
 - [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo) - vídeo
 - [How to Train YOLOv8 Object Detection on a Custom Dataset - using Roboflow](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/)
 - [How to Train YOLOv8 Object Detection on a Custom Dataset - using folder structure and LabelImg](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262)
+- [YOLOv8 segmentation in 12 minutes](https://www.youtube.com/watch?v=pFiGSrRtaU4)
 
 
 ### Basics
