@@ -271,8 +271,9 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 # Computer Vision
 
 ### OpenCV
-- [OpenCV Tutorials](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
+- [Image Processing with OpenCV and Python](https://www.youtube.com/watch?v=kSqxn6zGE0c)
 - [How to work with video data](https://www.youtube.com/watch?v=AxIc-vGaHQ0)
+- [OpenCV Tutorials](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
 
 ### Yolo papers and repos
 
