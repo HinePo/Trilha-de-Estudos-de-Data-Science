@@ -304,6 +304,7 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [Computer Vision History by Andrej Karpathy](https://www.youtube.com/watch?v=u6aEYuemt0M&t=1460s) (até 2016)
 - [Kernel size in convolution layers](https://medium.com/analytics-vidhya/significance-of-kernel-size-200d769aecb1)
 - [Digit Recognizer: Getting Started Competition](https://www.kaggle.com/c/digit-recognizer) - ‘Hello World’ do mundo de CV: Estudar vários notebooks com bom score, e depois criar o seu misturando várias técnicas que vc achou promissoras em outros notebooks, tentando melhorar o score do baseline. Recomendo no mínimo uns 10 dias de estudo para essa competição.
+- [chatGPT resolvendo MNIST usando keras](https://twitter.com/svpino/status/1626204842095161344)
 - [Pytorch tutorial for image classification](https://www.kaggle.com/hinepo/pytorch-tutorial-cv-99-67-lb-99-26) - @hinepo
 - [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo
 - [Transfer learning for CV guide - kaggle learn](https://www.kaggle.com/learn-guide/transfer-learning-cv)
