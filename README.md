@@ -297,6 +297,7 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [How to Train YOLOv8 Object Detection on a Custom Dataset - using Roboflow](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/)
 - [How to Train YOLOv8 Object Detection on a Custom Dataset - using folder structure and LabelImg](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262)
 - [YOLOv8 segmentation in 12 minutes](https://www.youtube.com/watch?v=pFiGSrRtaU4)
+- [Yolo v8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - kaggle notebook by Paulo Junqueira
 
 
 ### Basics
