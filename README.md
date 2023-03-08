@@ -356,13 +356,18 @@ Recommendation systems basics
 - [Arquitetura de Sistemas de recomendação - Mario FIlho](https://www.youtube.com/watch?v=2LbZRaRfGqk&t=2688s)
 
 Algumas abordagens:
-- Content based Filtering
-- Collaborative based Filtering
-- Co-visitant matrix
-- Matrix Factorization
+- Content based (item similarity / item colaborative filtering)
+- User based (user similarity / user colaborative Filtering)
+- Word2Vec, FastText
+- Co-visitant matrix + heuristic re-ranker
 - Ranking models (learning to rank)
+  - user features
+  - item features
+  - user-item interactions features
+- Matrix Factorization
 - LSTM
 - Transformers
+- GNN (Graph Neural Networks)
 
 
 # Deploy
