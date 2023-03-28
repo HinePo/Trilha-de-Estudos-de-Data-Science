@@ -168,7 +168,8 @@ Isso aumentará muito a sua produtividade.
 
 Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, vanishing gradients, exploding gradients, transfer learning (fine-tuning & feature extraction)...
 
-- [Fine-tuning x Feature Extraction - pytorch docs and examples](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+- [Finetuning x Feature Extraction - pytorch docs and examples](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+- [Finetuning - Keras tutorial](https://keras.io/guides/transfer_learning/)
 
 "In finetuning, we start with a pretrained model and update all of the model’s parameters for our new task, in essence retraining the whole model. In feature extraction, we start with a pretrained model and only update the final layer weights from which we derive predictions."
 
