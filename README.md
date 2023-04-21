@@ -367,6 +367,7 @@ Algumas abordagens:
   - item features
   - user-item interactions features
 - Matrix Factorization
+- Autoencoder
 - LSTM
 - Transformers
 - GNN (Graph Neural Networks)
