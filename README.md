@@ -15,6 +15,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Deep Learning - Neural Networks](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deep-learning---neural-networks)
 - [Transformers](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#transformers)
 - [NLP - Natural Language Processing](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#nlp---natural-language-processing)
+- [LLMs](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#llms)
 - [Computer Vision](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#computer-vision)
 - [RecSys](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#recsys)
 - [Deploy](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deploy)
@@ -270,6 +271,16 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [A Survey of Transformers - paper jun/2021](https://arxiv.org/pdf/2106.04554.pdf) - paper para consulta
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 - [NLP guide - kaggle learn](https://www.kaggle.com/learn-guide/natural-language-processing)
+
+# LLMs
+
+Large Language Models
+
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+- [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
+- [LangChain Cookbook - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
+- [LangChain - youtube playlist recomendada na documentação](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3)
 
 # Computer Vision
 
