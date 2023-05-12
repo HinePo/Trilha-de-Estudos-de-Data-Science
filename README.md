@@ -289,7 +289,8 @@ Large Language Models
 
 - LangChain e aplicações
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
-  - [LangChain Cookbook - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
+  - [LangChain Cookbook Part 1 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
+  - [LangChain Cookbook Part 2 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
   - [LangChain - youtube playlist recomendada na documentação](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3)
 
 # Computer Vision
