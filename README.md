@@ -120,7 +120,7 @@ Isso aumentará muito a sua produtividade.
 - Pesquisar sobre métricas e como avaliar modelos:
   - Classificação: Accuracy, ROC AUC, f1-score, recall, precision, [MCC](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
   - Regressão: RMSE, MSE, MAE, MAPE, R²
-- Outros conceitos importantes: Pesquisar sobre Boosting (XGBoost, LGBM, GBM), Bagging, Split train/test, data leakage, time series, ARIMA, feature importances, ensemble...
+- Outros conceitos importantes: Pesquisar sobre Boosting (XGBoost, LGBM, GBM), Bagging, Split train/test, data leakage, time series, feature importances, ensemble...
 - Imbalanced learning:
   - downsampling/upsampling
   - [Transforming skewed data](https://medium.com/@ODSC/transforming-skewed-data-for-machine-learning-90e6cc364b0) - como tratar o viés nos dados
@@ -167,6 +167,9 @@ Isso aumentará muito a sua produtividade.
 - [More time series tips from Mark](https://twitter.com/marktenenholtz/status/1633090131514241026?t=j_GHtqW4tGlL-7mYP7xLrQ&s=08)
 - [Techniques for working with time series data](https://towardsdatascience.com/a-collection-of-must-know-techniques-for-working-with-time-series-data-in-python-7c01d199b184)
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
+- ARIMA, SARIMA, prophet, theta model
+- Machine learning approach para time series (formating, lag features, tail(1), validation strategy, types of leakage, evaluation etc.)
+  - [Essa competição: Riiid](https://www.kaggle.com/competitions/riiid-test-answer-prediction) é muito boa para isso.
 
 # Deep Learning - Neural Networks
 
