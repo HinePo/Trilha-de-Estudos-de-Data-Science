@@ -282,19 +282,18 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 
 Large Language Models
 
-- Cultura e Production
-  - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-  - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
-  
-- Teoria da prática e Prática
-  - [Understanding PEFT (Parameter-Efficient Finetuning)](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
-  - [LoRA](https://lightning.ai/pages/community/tutorial/lora-llm/)
-
 - LangChain e aplicações
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
+  - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
   - [LangChain Cookbook Part 1 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
   - [LangChain Cookbook Part 2 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
   - [LangChain - youtube playlist recomendada na documentação](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3)
+
+- Cultura e Production
+  - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+  - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+  - [Understanding PEFT (Parameter-Efficient Finetuning)](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
+  - [LoRA](https://lightning.ai/pages/community/tutorial/lora-llm/)
 
 # Computer Vision
 
