@@ -282,6 +282,11 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 
 Large Language Models
 
+- Finetuning LLMs
+  - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
+  - [A Step-by-Step Guide to Fine-Tuning Your Dolly Model (tutorial)](https://www.youtube.com/watch?v=8lBFPHltGuQ)
+  - [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
+
 - LangChain e aplicações
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
