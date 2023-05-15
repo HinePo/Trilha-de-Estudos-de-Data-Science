@@ -399,6 +399,7 @@ Algumas abordagens:
 
 # Deploy
 
+- [4 Types of ML model deployment](https://twitter.com/Aurimas_Gr/status/1656959857205936129)
 Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
 - 7 - Model Deployment and Prediction Service
 - 8 - Data Distribution Shifts and Monitoring
