@@ -183,17 +183,22 @@ Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descen
 - [Neural Networks - 3Blue1Brown Playlist (~1h)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U) - vídeo
 - [Deep Learning & Bugs - discussion](https://twitter.com/SebastienBubeck/status/1571887980046065667)
+- 
 - [Exploding and Vanishing gradients](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
 - [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/) - tendências
+
 - [Keras docs](https://keras.io/)
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
 - [Keras - code examples](https://keras.io/examples/)
+
 - [Tensorflow docs](https://www.tensorflow.org/)
 - [Tensorflow guide - kaggle learn](https://www.kaggle.com/learn-guide/tensorflow)
+
 - [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
 - [Pytorch - torch.nn](https://pytorch.org/docs/stable/nn.html)
 - [Vídeo aulas com code examples (pytorch)](https://sebastianraschka.com/blog/2021/dl-course.html)
+- [Regression Networks - The Magic of No Dropout](https://www.kaggle.com/competitions/commonlitreadabilityprize/discussion/260729)
 
 Um estudo muito útil e proveitoso é comparar e olhar em paralelo as documentações de Quick Start do Keras, do Tensorflow e do Pytorch. A lógica é bem parecida e existem muitas analogias:
 - [Keras Quick Start](https://www.tensorflow.org/tutorials/quickstart/beginner)
@@ -293,6 +298,8 @@ Large Language Models
   - [LangChain Cookbook Part 1 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
   - [LangChain Cookbook Part 2 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
   - [LangChain - youtube playlist recomendada na documentação](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3)
+  - [Multiple-document retriever](https://www.youtube.com/watch?v=9ISVjh8mdlA)
+  - [Talk to your data](https://www.youtube.com/watch?v=xQ3mZhw69bc)
 
 - Cultura e Production
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
