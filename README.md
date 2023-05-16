@@ -180,25 +180,30 @@ Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descen
 
 "In finetuning, we start with a pretrained model and update all of the model’s parameters for our new task, in essence retraining the whole model. In feature extraction, we start with a pretrained model and only update the final layer weights from which we derive predictions."
 
+Basics:
 - [Neural Networks - 3Blue1Brown Playlist (~1h)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U) - vídeo
 - [Deep Learning & Bugs - discussion](https://twitter.com/SebastienBubeck/status/1571887980046065667)
-- 
 - [Exploding and Vanishing gradients](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
+- [Regression Networks - The Magic of No Dropout](https://www.kaggle.com/competitions/commonlitreadabilityprize/discussion/260729)
+
+Frameworks:
 - [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/) - tendências
 
+Keras:
 - [Keras docs](https://keras.io/)
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
 - [Keras - code examples](https://keras.io/examples/)
 
+Tensorflow:
 - [Tensorflow docs](https://www.tensorflow.org/)
 - [Tensorflow guide - kaggle learn](https://www.kaggle.com/learn-guide/tensorflow)
 
+Pytorch:
 - [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
 - [Pytorch - torch.nn](https://pytorch.org/docs/stable/nn.html)
 - [Vídeo aulas com code examples (pytorch)](https://sebastianraschka.com/blog/2021/dl-course.html)
-- [Regression Networks - The Magic of No Dropout](https://www.kaggle.com/competitions/commonlitreadabilityprize/discussion/260729)
 
 Um estudo muito útil e proveitoso é comparar e olhar em paralelo as documentações de Quick Start do Keras, do Tensorflow e do Pytorch. A lógica é bem parecida e existem muitas analogias:
 - [Keras Quick Start](https://www.tensorflow.org/tutorials/quickstart/beginner)
