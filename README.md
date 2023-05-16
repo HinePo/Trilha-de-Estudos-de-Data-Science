@@ -25,16 +25,15 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 # Como estudar
 
-- Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível;
-- Instalar a extensão [video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) no google chrome (funciona em qualquer vídeo tocado pelo chrome browser), e aprender a usar:
-
-![image](https://user-images.githubusercontent.com/66163270/145697555-17f7fb51-ec8d-4f9f-8c36-654b062cddce.png)
-
-Isso aumentará muito a sua produtividade.
--	Ao entrar em um assunto novo, gosto de ver um ou dois vídeos de ~10 min no youtube, pesquisar sobre o tema focando em material escrito, e estudar aplicações;
--	Evitar ficar muito tempo na parte teórica: Qualquer assunto novo tem suas aplicações, via bibliotecas específicas. Se familiarizar com a documentação é o primeiro passo (google “pandas docs”, “seaborn cheat sheet”...);
--	O segundo passo é a aplicação e uso, parte prática: Resolver problemas usando IA: Pesquisar aplicações no Kaggle (notebooks), fazer o fork (Copy and Edit), adicionar ideias. Evitar tentar reinventar a roda: aproveitar os códigos que já existem;
-- Adicionar aplicação ao seu repositório pessoal (público ou privado) de forma organizada para que você possa facilmente consultá-la no futuro;
+- Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível
+- Instalar a extensão [video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) no google chrome (funciona em qualquer vídeo tocado pelo chrome browser), e aprender a usar
+- Sempre estude to geral para o específico: top down learning
+- Para cada dose de teoria, uma dose de prática
+-	Ao entrar em um assunto novo, ver um ou dois vídeos de ~10 min no youtube, pesquisar sobre o tema focando em material escrito, e estudar aplicações
+-	Evitar ficar muito tempo na parte teórica: Qualquer assunto novo tem suas aplicações via bibliotecas específicas. Se familiarizar com a documentação é o primeiro passo para aplicar o que aprendeu
+-	O segundo passo é a aplicação e uso, parte prática: Resolver problemas usando IA: Pesquisar aplicações no Kaggle (notebooks), fazer o fork (Copy and Edit), adicionar ideias.
+-	Evitar tentar reinventar a roda: aproveitar os códigos que já existem
+- Adicionar aplicação ao seu repositório pessoal (público ou privado - kaggle ou github) de forma organizada para que você possa facilmente consultá-la no futuro
 
 ### ML twitter
 
@@ -52,14 +51,14 @@ Isso aumentará muito a sua produtividade.
 # Panorama de DS no mercado
 
 - [Data Scientist: The Sexiest Job of the 21st Century - artigo out/2012](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
-- [Is Data Scientist Still the Sexiest Job of the 21st Century? - artigo jul/2022](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century) - spoiler: sim.
+- [Is Data Scientist Still the Sexiest Job of the 21st Century? - artigo jul/2022](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century)
 
 # Python and Data Analysis basics
-- [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA) - vídeo
-- [3 Tips to Build a Career in Machine Learning](https://www.youtube.com/watch?v=plXM4pNSYXs) - vídeo
-- [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw) - vídeo
+- [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA)
+- [3 Tips to Build a Career in Machine Learning](https://www.youtube.com/watch?v=plXM4pNSYXs)
+- [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw)
 - [Pandas tutorial - kaggle learn](https://www.kaggle.com/learn/pandas) - Fazer o fork dos notebooks e aprender praticando
-- [Use pandas like a pro](https://www.youtube.com/watch?v=_gaAoJBMJ_Q) - 12 min video - Rob Mulla
+- [Use pandas like a pro](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Handling Missing Data](https://www.kaggle.com/robikscube/handling-with-missing-data-youtube-stream)
 - [Missing values & XGBoost](https://twitter.com/svpino/status/1559510300428156929)
@@ -105,8 +104,8 @@ Isso aumentará muito a sua produtividade.
 
 # Machine Learning - Teoria
 
-- [Supervised x Unsupervised Learning](https://www.youtube.com/watch?app=desktop&v=1FZ0A1QCMWc) - vídeo
-- [Supervised x Unsupervised Learning: applications](https://www.youtube.com/watch?app=desktop&v=rHeaoaiBM6Y) - vídeo
+- [Supervised x Unsupervised Learning](https://www.youtube.com/watch?app=desktop&v=1FZ0A1QCMWc)
+- [Supervised x Unsupervised Learning: applications](https://www.youtube.com/watch?app=desktop&v=rHeaoaiBM6Y)
 - Pesquisar sobre Overfitting e Underfitting, ver vídeos e gráficos
 - [Cross Validation](https://www.youtube.com/watch?app=desktop&v=fSytzGwwBVw)
 - [Cross Validation - scikit docs](https://scikit-learn.org/stable/modules/cross_validation.html)
@@ -114,7 +113,7 @@ Isso aumentará muito a sua produtividade.
 - [Kaggle courses](https://www.kaggle.com/learn)
 - [pdf do livro do Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - disponível na Amazon tb
 - [Statquest - Vídeos sobre conceitos, teoria e matemática de algoritmos e ML](https://www.youtube.com/c/joshstarmer/playlists?app=desktop)
-- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html) - Acho muito importante ler todo o item 1. Na primeira leitura não precisa entender tudo com profundidade, mas tem que se familiarizar com a documentação do scikit, especialmente com o item 1 todo. É uma biblioteca muito importante para se aprender a usar e consultar.
+- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html) - Muito importante ler todo o item 1
 - [Scikit-learn Pre-processing](https://scikit-learn.org/stable/modules/preprocessing.html)
 - Pesquisar sobre "Feature Engineering" (criação de variáveis)
 - Pesquisar sobre métricas e como avaliar modelos:
@@ -168,8 +167,13 @@ Isso aumentará muito a sua produtividade.
 - [Techniques for working with time series data](https://towardsdatascience.com/a-collection-of-must-know-techniques-for-working-with-time-series-data-in-python-7c01d199b184)
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
 - ARIMA, SARIMA, prophet, theta model
-- Machine learning approach para time series (formating, lag features, tail(1), validation strategy, types of leakage, evaluation etc.)
-  - [Essa competição: Riiid](https://www.kaggle.com/competitions/riiid-test-answer-prediction) é muito boa para isso.
+- Machine learning approach para time series:
+  - Formating
+  - Lag features
+  - Tail(1)
+  - Validation strategy, types of leakage
+  - Evaluation
+  - [Riiid](https://www.kaggle.com/competitions/riiid-test-answer-prediction) - competição excelente para treinar time series ML
 
 # Deep Learning - Neural Networks
 
@@ -182,13 +186,13 @@ Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descen
 
 Basics:
 - [Neural Networks - 3Blue1Brown Playlist (~1h)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U) - vídeo
+- [Aula Intro de DL - Lex Friedman](https://www.youtube.com/watch?app=desktop&v=O5xeyoRL95U)
 - [Deep Learning & Bugs - discussion](https://twitter.com/SebastienBubeck/status/1571887980046065667)
 - [Exploding and Vanishing gradients](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
 - [Regression Networks - The Magic of No Dropout](https://www.kaggle.com/competitions/commonlitreadabilityprize/discussion/260729)
 
 Frameworks:
-- [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/) - tendências
+- [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
 
 Keras:
 - [Keras docs](https://keras.io/)
@@ -249,23 +253,23 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 ### Papers
 
 - [How to read papers - twitter thread](https://twitter.com/marktenenholtz/status/1498644231149142025)
-- [Attention Is All You Need - paper dec/2017](https://arxiv.org/pdf/1706.03762.pdf) - paper original: fundamental ler
-- [BERT - paper may/2019](https://arxiv.org/pdf/1810.04805.pdf) - BERT paper
-- [RoBERTa - paper jul/2019](https://arxiv.org/pdf/1907.11692.pdf) - RoBERTa paper
-- [SBERT - paper aug/2019](https://arxiv.org/pdf/1908.10084.pdf) - Sentence Transformers paper
+- [Attention Is All You Need - paper dec/2017](https://arxiv.org/pdf/1706.03762.pdf)
+- [BERT - paper may/2019](https://arxiv.org/pdf/1810.04805.pdf)
+- [RoBERTa - paper jul/2019](https://arxiv.org/pdf/1907.11692.pdf)
+- [SBERT - paper aug/2019](https://arxiv.org/pdf/1908.10084.pdf) - Sentence Transformers
 - [TaBERT - paper may/2020](https://arxiv.org/pdf/2005.08314v1.pdf) - Learning Joint Representations over Textual and Tabular Data
-- [T5: Text-To-Text Transfer Transformer - paper jul/2020](https://arxiv.org/pdf/1910.10683.pdf) - T5 paper
-- [Longformer - paper dec/2020](https://arxiv.org/pdf/2004.05150.pdf) - Longformer paper - Local Attention
-- [Vision Transformers (ViT) - paper jun/2021](https://arxiv.org/pdf/2010.11929.pdf) - ViT paper
-- [Swin Transformer - paper aug/2021](https://arxiv.org/pdf/2103.14030.pdf) - Swin Transformer paper - Shifted Window based Self-Attention
-- [DeBERTa: Disentangled Attention - paper oct/2021](https://arxiv.org/pdf/2006.03654.pdf) - DeBERTa paper
+- [T5: Text-To-Text Transfer Transformer - paper jul/2020](https://arxiv.org/pdf/1910.10683.pdf)
+- [Longformer - paper dec/2020](https://arxiv.org/pdf/2004.05150.pdf) - Local Attention
+- [ViT - paper jun/2021](https://arxiv.org/pdf/2010.11929.pdf) - Vision Transformers
+- [Swin Transformer - paper aug/2021](https://arxiv.org/pdf/2103.14030.pdf) - Shifted Window based Self-Attention
+- [DeBERTa - paper oct/2021](https://arxiv.org/pdf/2006.03654.pdf) - Disentangled Attention
 
 ### Outras fontes
 
-- [BERT Attention Mechanism](https://peltarion.com/blog/data-science/self-attention-video) - vídeo
-- [Illustrated Guide to Transformers](https://www.youtube.com/watch?app=desktop&v=4Bdc55j80l8) - vídeo
-- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - blog & vídeo
-- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - explicações sobre o paper Attention Is All You Need
+- [BERT Attention Mechanism](https://peltarion.com/blog/data-science/self-attention-video)
+- [Illustrated Guide to Transformers](https://www.youtube.com/watch?app=desktop&v=4Bdc55j80l8)
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Attention implementation in torch from scratch - twitter thread](https://twitter.com/abhi1thakur/status/1470406419786698761) - Abhishek Thakur
 - [Attention implementation in torch from scratch - twitter thread 2](https://twitter.com/abhi1thakur/status/1471126502112698368) - Abhishek Thakur
 - [Transformers from Scratch](https://e2eml.school/transformers.html) - explicação visual e detalhada
@@ -284,7 +288,7 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [Hugging Face course](https://huggingface.co/course/chapter1/1) - excelente curso. HF é o melhor ecossistema de NLP e continuará sendo por muitos anos
 - [Hugging Face tutorial - video (30 min)](https://www.youtube.com/watch?v=DQc2Mi7BcuI])
 - [10 Things You Need to Know About BERT and Transformer Architecture](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)
-- [A Survey of Transformers - paper jun/2021](https://arxiv.org/pdf/2106.04554.pdf) - paper para consulta
+- [A Survey of Transformers - paper jun/2021](https://arxiv.org/pdf/2106.04554.pdf)
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 - [NLP guide - kaggle learn](https://www.kaggle.com/learn-guide/natural-language-processing)
 
@@ -320,6 +324,20 @@ Large Language Models
 - [OpenCV Tutorials](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
 - [Image and Video processing - Great Barrier Reef](https://www.kaggle.com/code/soumya9977/learning-to-sea-underwater-img-enhancement-eda/notebook)
 
+### Yolo videos and examples
+
+- [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g)
+- [Face mask yolo-v5 example](https://www.youtube.com/watch?v=12UoOlsRwh8)
+- [Yolo v5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
+- [Yolo v5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
+- [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
+- [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo)
+- [How to Train YOLOv8 Object Detection on a Custom Dataset - using Roboflow](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/)
+- [How to Train YOLOv8 Object Detection on a Custom Dataset - using folder structure and LabelImg](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262)
+- [YOLOv8 segmentation in 12 minutes](https://www.youtube.com/watch?v=pFiGSrRtaU4)
+- [Yolo v8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - Paulo Junqueira
+
+
 ### Yolo papers and repos
 
 - [Yolo v5 github repo - ultralytics](https://github.com/ultralytics/yolov5)
@@ -329,19 +347,6 @@ Large Language Models
 - [Yolo v7 - paper jul/2022](https://arxiv.org/pdf/2207.02696.pdf)
 - [Yolov v8 github repo - Ultralytics](https://github.com/ultralytics/ultralytics)
 - [Yolov8 Ultralytics Docs](https://docs.ultralytics.com/tasks/detection/)
-
-### Yolo videos and examples
-
-- [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g) - vídeo
-- [Face mask yolo-v5 example](https://www.youtube.com/watch?v=12UoOlsRwh8) - vídeo
-- [Yolo v5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
-- [Yolo v5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
-- [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
-- [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo) - vídeo
-- [How to Train YOLOv8 Object Detection on a Custom Dataset - using Roboflow](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/)
-- [How to Train YOLOv8 Object Detection on a Custom Dataset - using folder structure and LabelImg](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262)
-- [YOLOv8 segmentation in 12 minutes](https://www.youtube.com/watch?v=pFiGSrRtaU4)
-- [Yolo v8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - kaggle notebook by Paulo Junqueira
 
 
 ### Basics
@@ -353,6 +358,7 @@ Large Language Models
 - [Pytorch tutorial for image classification](https://www.kaggle.com/hinepo/pytorch-tutorial-cv-99-67-lb-99-26) - @hinepo
 - [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo
 - [Transfer learning for CV guide - kaggle learn](https://www.kaggle.com/learn-guide/transfer-learning-cv)
+
 
 ### Pytorch image models (timm)
 
@@ -372,23 +378,16 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Squeeze-and-Excitation Networks - SE ResNet - paper may/2019](https://arxiv.org/pdf/1709.01507v4.pdf)
 - [Self-Training with Noisy Student - paper jun/2020](https://arxiv.org/pdf/1911.04252.pdf)
 - [EfficientNet - paper sep/2020](https://arxiv.org/pdf/1905.11946.pdf)
-- [Meta Pseudo Labels - paper mar/2021](https://arxiv.org/pdf/2003.10580v4.pdf) - Semi-Supervised Image Classification, Meta-Learning, Teacher-Student architecture
-
-"Pseudo Labels methods work by having a pair of networks, one as a teacher and one as a student. The teacher generates pseudo labels on unlabeled images. These pseudo labeled images are then combined with labeled images to train the student. Thanks to the abundance of pseudo labeled data and the use of regularization methods such as data augmentation, the student learns to become better than the teacher." 
-
-"Key to Meta Pseudo Labels is the idea that the teacher learns from the student’s feedback to generate pseudo labels in a way that best helps student’s learning."
-
-Meta Pseudo Labels utilizes the feedback from the student to inform the teacher to generate better pseudo labels, reducing bias and inaccuracies.
-
+- [Meta Pseudo Labels - paper mar/2021](https://arxiv.org/pdf/2003.10580v4.pdf)
 - [A ConvNet fot the 2020s - ConvNext paper jan/2022](https://arxiv.org/pdf/2201.03545.pdf)
 
 ### Vision Transformer (ViT) and others
 
 - [ViT - 5 min video](https://www.youtube.com/watch?v=DVoHvmww2lQ)
 - [ViT - Hugging Face](https://huggingface.co/docs/transformers/model_doc/vit)
-- [ViT exemplo - tranformer library](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E) - vídeo
-- [ViT exemplo - timm library](https://www.youtube.com/watch?v=ovB0ddFtzzA) - vídeo
-- [Swin Transformer](https://www.youtube.com/watch?v=SndHALawoag) - vídeo
+- [ViT exemplo - tranformer library](https://www.youtube.com/watch?app=desktop&v=Bjp7hebC67E)
+- [ViT exemplo - timm library](https://www.youtube.com/watch?v=ovB0ddFtzzA)
+- [Swin Transformer](https://www.youtube.com/watch?v=SndHALawoag)
 
 # RecSys
 
@@ -421,7 +420,7 @@ Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
 - 7 - Model Deployment and Prediction Service
 - 8 - Data Distribution Shifts and Monitoring
 - 9 - Continual Learning and Test in Production
-- [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112) - blog post
+- [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112)
 - [Use docker for deployment, not for development](https://twitter.com/radekosmulski/status/1615856695879798784)
 
 
@@ -437,9 +436,9 @@ Deploying is an intervention and humans are agents that react to the predictions
 Intro:
 - [Como é o trabalho de um ML Enginner (MLE)?](https://www.youtube.com/watch?v=xCcrMhwzhpI)
 - Capítulo "10 - Infrastructure and Tooling for MLOps" do livro "Designing Machine Learning Systemns - Chip Huyen"
-- [Made With ML](https://madewithml.com/) - website
-- [Machine Learning Operations](https://ml-ops.org/) - website
-- [MyMLOps - Build your MLOps stack](https://mymlops.com/) - website
+- [Made With ML](https://madewithml.com/)
+- [Machine Learning Operations](https://ml-ops.org/)
+- [MyMLOps - Build your MLOps stack](https://mymlops.com/)
 - [MLOps: Overview, Definition, and Architecture - paper mai/2022](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
 - [Operationalizing Machine Learning: An Interview Study - paper sep/2022](https://arxiv.org/pdf/2209.09125.pdf)
 
@@ -448,9 +447,9 @@ Tools & References:
 - [A curated list of references for MLOps - visenger](https://github.com/visenger/awesome-mlops)
 
 Model Store:
-- [MLflow](https://www.youtube.com/watch?app=desktop&v=859OxXrt_TI) - vídeo
-- [MLflow on Databricks](https://www.youtube.com/watch?app=desktop&v=nx3yFzx_nHI&t=1260s) - vídeo
-- [Weights and biases](https://www.youtube.com/watch?v=krWjJcW80_A) - vídeo
+- [MLflow](https://www.youtube.com/watch?app=desktop&v=859OxXrt_TI)
+- [MLflow on Databricks](https://www.youtube.com/watch?app=desktop&v=nx3yFzx_nHI&t=1260s)
+- [Weights and biases](https://www.youtube.com/watch?v=krWjJcW80_A)
 
 
 # Youtube channels
