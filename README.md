@@ -27,7 +27,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 - Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível
 - Instalar a extensão [video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) no google chrome (funciona em qualquer vídeo tocado pelo chrome browser), e aprender a usar
-- Sempre estude to geral para o específico: top down learning
+- Sempre estude do geral para o específico: top down learning
 - Para cada dose de teoria, uma dose de prática
 -	Ao entrar em um assunto novo, ver um ou dois vídeos de ~10 min no youtube, pesquisar sobre o tema focando em material escrito, e estudar aplicações
 -	Evitar ficar muito tempo na parte teórica: Qualquer assunto novo tem suas aplicações via bibliotecas específicas. Se familiarizar com a documentação é o primeiro passo para aplicar o que aprendeu
