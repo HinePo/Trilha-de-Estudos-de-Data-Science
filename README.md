@@ -296,10 +296,10 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 
 Large Language Models
 
-- Finetuning LLMs
-  - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
-  - [A Step-by-Step Guide to Fine-Tuning Your Dolly Model (tutorial)](https://www.youtube.com/watch?v=8lBFPHltGuQ)
-  - [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
+- Conceitos básicos
+  - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+  - [Understanding PEFT (Parameter-Efficient Finetuning)](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
+  - [LoRA](https://lightning.ai/pages/community/tutorial/lora-llm/)
 
 - LangChain e aplicações
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
@@ -310,11 +310,13 @@ Large Language Models
   - [Multiple-document retriever](https://www.youtube.com/watch?v=9ISVjh8mdlA)
   - [Talk to your data](https://www.youtube.com/watch?v=xQ3mZhw69bc)
 
-- Cultura e Production
+- Finetuning LLMs
+  - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
+  - [A Step-by-Step Guide to Fine-Tuning Your Dolly Model (tutorial)](https://www.youtube.com/watch?v=8lBFPHltGuQ)
+  - [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
+
+- LLMs in Production
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-  - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
-  - [Understanding PEFT (Parameter-Efficient Finetuning)](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
-  - [LoRA](https://lightning.ai/pages/community/tutorial/lora-llm/)
 
 # Computer Vision
 
