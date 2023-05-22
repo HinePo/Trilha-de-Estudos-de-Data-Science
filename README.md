@@ -421,8 +421,18 @@ Algumas abordagens:
 - [4 Types of ML model deployment](https://twitter.com/Aurimas_Gr/status/1656959857205936129)
 Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
 - 7 - Model Deployment and Prediction Service
+  - Offline evaluation
+  - Backtesting
+  - Batch x Online
+  - Cloud x Edge
 - 8 - Data Distribution Shifts and Monitoring
 - 9 - Continual Learning and Test in Production
+  - Online evaluation
+  - Shadow Deployment
+  - [A/B Testing](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing)
+  - Canary release
+  - Interleaving experiments
+  - Bandits
 - [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112)
 - [Use docker for deployment, not for development](https://twitter.com/radekosmulski/status/1615856695879798784)
 
