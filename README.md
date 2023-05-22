@@ -309,6 +309,7 @@ Large Language Models
   - [LangChain - youtube playlist recomendada na documentação](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3)
   - [Multiple-document retriever](https://www.youtube.com/watch?v=9ISVjh8mdlA)
   - [Talk to your data](https://www.youtube.com/watch?v=xQ3mZhw69bc)
+  - [Chatbot with Langchain, ChatGPT, Pinecone, and Streamlit](https://blog.futuresmart.ai/building-an-interactive-chatbot-with-langchain-chatgpt-pinecone-and-streamlit)
 
 - Finetuning LLMs
   - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
