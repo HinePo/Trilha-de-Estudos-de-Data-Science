@@ -300,6 +300,7 @@ Large Language Models
   - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
   - [Understanding PEFT (Parameter-Efficient Finetuning)](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
   - [LoRA](https://lightning.ai/pages/community/tutorial/lora-llm/)
+  - [Vector databases and use cases](https://www.youtube.com/watch?v=dN0lsF2cvm4)
 
 - LangChain e aplicações
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
