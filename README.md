@@ -163,6 +163,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [3 methods for Time Series validation](https://forecastegy.com/posts/3-essential-methods-to-do-time-series-validation-in-machine-learning/)
 - [Error Analysis for Time Series - Mark Tanenholtz](https://twitter.com/marktenenholtz/status/1509500787189190658)
 - [More time series tips from Mark](https://twitter.com/marktenenholtz/status/1633090131514241026?t=j_GHtqW4tGlL-7mYP7xLrQ&s=08)
+- [Even more time series tips from Mark](https://twitter.com/marktenenholtz/status/1661372273888993285?t=zzPy9Meia-gtr2kK_tFJsg&s=08)
 - [Techniques for working with time series data](https://towardsdatascience.com/a-collection-of-must-know-techniques-for-working-with-time-series-data-in-python-7c01d199b184)
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
 - ARIMA, SARIMA, prophet, theta model
