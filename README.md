@@ -405,16 +405,18 @@ Algumas abordagens:
 - Content based (item similarity / item colaborative filtering)
 - User based (user similarity / user colaborative Filtering)
 - Word2Vec, FastText
-- Co-visitant matrix + heuristic re-ranker
+- Co-visitation matrix + heuristic re-ranker
 - Ranking models (learning to rank)
   - user features
   - item features
   - user-item interactions features
+  - co-visitation features
 - Matrix Factorization
 - Autoencoder
 - LSTM
 - Transformers
 - GNN (Graph Neural Networks)
+- [RecBole lib](https://recbole.io/docs/)
 
 
 # Deploy
