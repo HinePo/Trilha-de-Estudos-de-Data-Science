@@ -395,23 +395,31 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 
 # RecSys
 
-Recommendation systems basics
+Este é o melhor e mais completo material sobre sistemas de recomendação, incluindo muitas abordagens, baselines, códigos, discussões e soluções sobre o tema.
+- [OTTO competition](https://www.kaggle.com/competitions/otto-recommender-system)
+
+Recommendation systems basic concepts
 - [Teoria - Khrish Naik](https://www.youtube.com/watch?v=EjOlN6uVBOg)
 - [Prática - Khrish Naik](https://www.youtube.com/watch?v=R64Lh1Qwl_0)
 - [RecSys with KNN - Khrish Naik](https://www.youtube.com/watch?v=kccT0FVK6OY)
 - [Arquitetura de Sistemas de recomendação - Mario FIlho](https://www.youtube.com/watch?v=2LbZRaRfGqk&t=2688s)
+- [How to validate a recommendation model](https://www.kaggle.com/code/radek1/a-robust-local-validation-framework)
+- [About validation](https://www.kaggle.com/competitions/otto-recommender-system/discussion/364991)
+- [About spliting the data](https://github.com/otto-de/recsys-dataset) and [script to split the data](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
 
 Algumas abordagens:
 - Content based (item similarity / item colaborative filtering)
 - User based (user similarity / user colaborative Filtering)
-- Word2Vec, FastText
-- Co-visitation matrix + heuristic re-ranker
-- Ranking models (learning to rank)
+- [Word2Vec, FastText](https://www.kaggle.com/code/radek1/word2vec-how-to-training-and-submission)
+  - train from scratch on item sequences
+  - use [Annoy lib](https://github.com/spotify/annoy) to find nearest neighbors
+- [Co-visitation matrix + heuristic re-ranker (rule-based ranker)](https://www.kaggle.com/code/cdeotte/candidate-rerank-model-lb-0-575)
+- [Ranking models (learning to rank)](https://www.kaggle.com/competitions/otto-recommender-system/discussion/370210)
   - user features
   - item features
   - user-item interactions features
   - co-visitation features
-- Matrix Factorization
+- [Matrix Factorization](https://www.kaggle.com/code/radek1/matrix-factorization-pytorch-merlin-dataloader)
 - Autoencoder
 - LSTM
 - Transformers
