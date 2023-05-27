@@ -395,8 +395,8 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 
 # RecSys
 
-Este é o melhor e mais completo material sobre sistemas de recomendação, incluindo muitas abordagens, baselines, códigos, discussões e soluções sobre o tema.
-- [OTTO competition](https://www.kaggle.com/competitions/otto-recommender-system)
+[OTTO competition](https://www.kaggle.com/competitions/otto-recommender-system) é o melhor e mais completo material sobre sistemas de recomendação, incluindo muitas abordagens, baselines, códigos, discussões e soluções.
+
 
 Recommendation systems basic concepts
 - [Teoria - Khrish Naik](https://www.youtube.com/watch?v=EjOlN6uVBOg)
@@ -405,7 +405,9 @@ Recommendation systems basic concepts
 - [Arquitetura de Sistemas de recomendação - Mario FIlho](https://www.youtube.com/watch?v=2LbZRaRfGqk&t=2688s)
 - [How to validate a recommendation model](https://www.kaggle.com/code/radek1/a-robust-local-validation-framework)
 - [About validation](https://www.kaggle.com/competitions/otto-recommender-system/discussion/364991)
-- [About spliting the data](https://github.com/otto-de/recsys-dataset) and [script to split the data](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
+- [About spliting the data](https://github.com/otto-de/recsys-dataset)
+- [Script to split the data - exemplo](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
+
 
 Algumas abordagens:
 - Content based (item similarity / item colaborative filtering)
@@ -430,7 +432,13 @@ Algumas abordagens:
 # Deploy
 
 - [4 Types of ML model deployment](https://twitter.com/Aurimas_Gr/status/1656959857205936129)
-Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
+- [A/B Testing](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing)
+- [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112)
+- [Use docker for deployment, not for development](https://twitter.com/radekosmulski/status/1615856695879798784)
+
+
+### Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
+
 - 7 - Model Deployment and Prediction Service
   - Offline evaluation
   - Backtesting
@@ -440,12 +448,10 @@ Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
 - 9 - Continual Learning and Test in Production
   - Online evaluation
   - Shadow Deployment
-  - [A/B Testing](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing)
+  - A/B Testing
   - Canary release
   - Interleaving experiments
   - Bandits
-- [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112)
-- [Use docker for deployment, not for development](https://twitter.com/radekosmulski/status/1615856695879798784)
 
 
 ### Deploying supervised machine learning models
