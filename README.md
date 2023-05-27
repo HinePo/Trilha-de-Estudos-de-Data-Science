@@ -398,7 +398,8 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 [OTTO competition](https://www.kaggle.com/competitions/otto-recommender-system) é o melhor e mais completo material sobre sistemas de recomendação, incluindo muitas abordagens, baselines, códigos, discussões e soluções.
 
 
-Recommendation systems basic concepts
+### Recommendation systems basic concepts:
+
 - [Teoria - Khrish Naik](https://www.youtube.com/watch?v=EjOlN6uVBOg)
 - [Prática - Khrish Naik](https://www.youtube.com/watch?v=R64Lh1Qwl_0)
 - [RecSys with KNN - Khrish Naik](https://www.youtube.com/watch?v=kccT0FVK6OY)
@@ -409,7 +410,8 @@ Recommendation systems basic concepts
 - [Script to split the data - exemplo](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
 
 
-Algumas abordagens:
+### Algumas abordagens:
+
 - Content based (item similarity / item colaborative filtering)
 - User based (user similarity / user colaborative Filtering)
 - [Word2Vec, FastText](https://www.kaggle.com/code/radek1/word2vec-how-to-training-and-submission)
