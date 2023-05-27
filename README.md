@@ -395,7 +395,11 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 
 # RecSys
 
-[OTTO competition](https://www.kaggle.com/competitions/otto-recommender-system) é o melhor e mais completo material sobre sistemas de recomendação, incluindo muitas abordagens, baselines, códigos, discussões e soluções.
+- [OTTO competition](https://www.kaggle.com/competitions/otto-recommender-system) é o melhor e mais completo material sobre sistemas de recomendação, incluindo muitas abordagens, baselines, códigos, discussões e soluções.
+- [How to validate a recommendation model](https://www.kaggle.com/code/radek1/a-robust-local-validation-framework)
+- [About validation](https://www.kaggle.com/competitions/otto-recommender-system/discussion/364991)
+- [About spliting the data](https://github.com/otto-de/recsys-dataset)
+- [Script to split the data - exemplo](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
 
 
 ### Recommendation systems basic concepts:
@@ -404,10 +408,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Prática - Khrish Naik](https://www.youtube.com/watch?v=R64Lh1Qwl_0)
 - [RecSys with KNN - Khrish Naik](https://www.youtube.com/watch?v=kccT0FVK6OY)
 - [Arquitetura de Sistemas de recomendação - Mario FIlho](https://www.youtube.com/watch?v=2LbZRaRfGqk&t=2688s)
-- [How to validate a recommendation model](https://www.kaggle.com/code/radek1/a-robust-local-validation-framework)
-- [About validation](https://www.kaggle.com/competitions/otto-recommender-system/discussion/364991)
-- [About spliting the data](https://github.com/otto-de/recsys-dataset)
-- [Script to split the data - exemplo](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
+- [Etsy RecSys: from many GBDT models to one NN](https://www.etsy.com/codeascraft/how-we-built-a-multi-task-canonical-ranker-for-recommendations-at-etsy)
 
 
 ### Algumas abordagens:
