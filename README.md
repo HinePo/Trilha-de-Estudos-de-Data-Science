@@ -311,6 +311,7 @@ Large Language Models
   - [Multiple-document retriever](https://www.youtube.com/watch?v=9ISVjh8mdlA)
   - [Talk to your data](https://www.youtube.com/watch?v=xQ3mZhw69bc)
   - [Chatbot with Langchain, ChatGPT, Pinecone, and Streamlit](https://blog.futuresmart.ai/building-an-interactive-chatbot-with-langchain-chatgpt-pinecone-and-streamlit)
+  - [Chatbot memory types in LangChain](https://twitter.com/Luc_AI_Insights/status/1662549087458144257?t=EsgW6ztVSZ4K0UCApf19WA&s=08)
 
 - Finetuning LLMs
   - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
