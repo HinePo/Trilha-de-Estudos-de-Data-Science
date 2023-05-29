@@ -304,7 +304,7 @@ Large Language Models
 
 - LangChain e aplicações
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
-  - [Harry Potter Question Answering with LangChain](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook#%F0%9F%A4%97-pipeline) - @hinepo
+  - [Harry Potter Question Answering with LangChain](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
   - [LangChain Cookbook Part 1 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
   - [LangChain Cookbook Part 2 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
