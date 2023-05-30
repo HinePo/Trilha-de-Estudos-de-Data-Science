@@ -167,6 +167,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Techniques for working with time series data](https://towardsdatascience.com/a-collection-of-must-know-techniques-for-working-with-time-series-data-in-python-7c01d199b184)
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
 - ARIMA, SARIMA, prophet, theta model
+- [Time-series prediction with XGBoost](https://www.linkedin.com/feed/update/urn:li:activity:7069236572063186944/)
 - Machine learning approach para time series:
   - Formating
   - Lag features
