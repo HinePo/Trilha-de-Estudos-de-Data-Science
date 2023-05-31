@@ -298,6 +298,7 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 Large Language Models
 
 - Conceitos básicos
+  - [State of GPT - Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
   - [Vector databases and use cases](https://www.youtube.com/watch?v=dN0lsF2cvm4)
   - [Bits and Bytes + Hugging Face integration](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
   - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
