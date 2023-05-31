@@ -217,14 +217,15 @@ Um estudo muito útil e proveitoso é comparar e olhar em paralelo as documenta�
 
 Principais tipos de camadas (layers):
 - Dense & Linear (fully connected)
-- Activation functions (ReLU, LeakyReLU, SELU, PReLU, Tanh, Softmax....)
+- Activation functions (ReLU, LeakyReLU, SELU, PReLU, Tanh, Softmax, Sigmoid....)
 - Conv (Convolutional)
 - Flatten
 - Batch Normalization
 - LSTM (Long Short Term Memory)
 - GRU (Gated Recurrent Unit - Short Term Memory)
 - Dropout
-- Pooling
+- Pooling (Max, Mean, Average, Generalized Mean etc)
+- Concatenate
 
 ### Papers - Why and When Deep Learning?
 
