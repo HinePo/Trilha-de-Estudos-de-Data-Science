@@ -165,6 +165,8 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [More time series tips from Mark](https://twitter.com/marktenenholtz/status/1633090131514241026?t=j_GHtqW4tGlL-7mYP7xLrQ&s=08)
 - [Even more time series tips from Mark](https://twitter.com/marktenenholtz/status/1661372273888993285?t=zzPy9Meia-gtr2kK_tFJsg&s=08)
 - [Techniques for working with time series data](https://towardsdatascience.com/a-collection-of-must-know-techniques-for-working-with-time-series-data-in-python-7c01d199b184)
+- [Time Series basic concepts](https://medium.com/swlh/time-series-analysis-7006ea1c3326)
+- [XGBoost for time series example](https://mlwhiz.com/blog/2019/12/28/timeseries/?utm_campaign=using-gradient-boosting-for-time-series-prediction-tasks&utm_medium=social_link&utm_source=missinglettr)
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
 - ARIMA, SARIMA, prophet, theta model
 - [Time-series prediction with XGBoost](https://www.linkedin.com/feed/update/urn:li:activity:7069236572063186944/)
@@ -175,6 +177,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
   - Validation strategy, types of leakage
   - Evaluation
   - [Riiid](https://www.kaggle.com/competitions/riiid-test-answer-prediction) - competição excelente para treinar time series ML
+- Ver notebooks [desta competição](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/code?competitionId=8587&sortBy=voteCount)  
 
 # Deep Learning - Neural Networks
 
