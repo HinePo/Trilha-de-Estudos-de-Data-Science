@@ -170,7 +170,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
 - ARIMA, SARIMA, prophet, theta model
 - [Time-series prediction with XGBoost](https://www.linkedin.com/feed/update/urn:li:activity:7069236572063186944/)
-- Machine learning approach para time series:
+- **Tabular** Machine learning approach para time series:
   - Formating
   - Lag features
   - Tail(1)
