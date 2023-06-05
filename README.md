@@ -220,7 +220,7 @@ Principais tipos de camadas (layers):
 - Activation functions (ReLU, LeakyReLU, SELU, PReLU, Tanh, Softmax, Sigmoid....)
 - Conv (Convolutional)
 - Flatten
-- Batch Normalization
+- BatchNorm, LayerNorm, RMSNorm
 - LSTM (Long Short Term Memory)
 - GRU (Gated Recurrent Unit - Short Term Memory)
 - Dropout
