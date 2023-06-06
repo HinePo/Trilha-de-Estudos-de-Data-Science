@@ -418,6 +418,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 ### Recommendation systems basic concepts:
 
 - [An introduction to Recommender Systems -  a thread 🧵 - Radek Osmulski](https://twitter.com/radekosmulski/status/1631513789484126208)
+- [Recommender Systems in Python 101](https://www.kaggle.com/code/gspmoreira/recommender-systems-in-python-101/notebook)
 - [Teoria - Khrish Naik](https://www.youtube.com/watch?v=EjOlN6uVBOg)
 - [Prática - Khrish Naik](https://www.youtube.com/watch?v=R64Lh1Qwl_0)
 - [RecSys with KNN - Khrish Naik](https://www.youtube.com/watch?v=kccT0FVK6OY)
