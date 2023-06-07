@@ -25,8 +25,8 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 - Criar um documento (Word, Notion, Evernote etc) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado
 - Instalar a extensão [video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) no google chrome (funciona em qualquer vídeo tocado pelo chrome browser), e aprender a usar
-- Sempre estude do geral para o específico: top down learning
-- Para cada dose de teoria, uma dose de prática
+- Sempre estude do geral para o específico: [top-down learning](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design)
+- Para cada dose de teoria, uma dose de prática: [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning)
 -	Ao entrar em um assunto novo, ver um ou dois vídeos de ~10 min no youtube, pesquisar sobre o tema focando em material escrito, e estudar aplicações
 -	Evitar ficar muito tempo na parte teórica: Qualquer assunto novo tem suas aplicações via bibliotecas específicas. Se familiarizar com a documentação é o primeiro passo para aplicar o que aprendeu
 -	O segundo passo é a aplicação e uso, parte prática: Resolver problemas usando IA: Pesquisar aplicações no Kaggle (notebooks), fazer o fork (Copy and Edit), adicionar ideias.
