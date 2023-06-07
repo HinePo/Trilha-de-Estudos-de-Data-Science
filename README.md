@@ -16,6 +16,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [LLMs](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#llms)
 - [Computer Vision](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#computer-vision)
 - [RecSys](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#recsys)
+- [Survival Analysis](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#survival-analysis)
 - [Deploy](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deploy)
 - [MLOps](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#mlops)
 - [Youtube channels](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#youtube-channels)
@@ -58,7 +59,6 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Use pandas like a pro](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Handling Missing Data](https://www.kaggle.com/robikscube/handling-with-missing-data-youtube-stream)
-- [Missing values & XGBoost](https://twitter.com/svpino/status/1559510300428156929)
 
 ### Data Analysis workflow - entender e praticar as etapas básicas:
 
@@ -82,6 +82,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - Choose algorithm, train model, create simple baseline model: [Lei de Gall](https://twitter.com/radekosmulski/status/1614385689424187392)
 - Evaluate model (fora da etapa de modelagem: cruzamento com business KPIs)
 - Melhorar baseline: criar variáveis melhores (feature engineering), tunar hiperparâmetros, testar outros algoritmos, treinar e avaliar de novo
+- [Missing values & XGBoost](https://twitter.com/svpino/status/1559510300428156929)
 - [OOF analysis & Error analysis](https://www.kaggle.com/competitions/siim-isic-melanoma-classification/discussion/175614)
 - Experimentos de Feature selection e preprocessing: diferentes sets de features e diferentes etapas de pré-processamento
 - Melhorar explicabilidade
@@ -443,6 +444,10 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - Transformers
 - GNN (Graph Neural Networks)
 - [RecBole lib](https://recbole.io/docs/)
+
+
+# Survival Analysis
+- Soon...
 
 
 # Deploy
