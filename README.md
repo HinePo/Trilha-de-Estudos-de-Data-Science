@@ -23,7 +23,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 # Como estudar
 
-- Criar um doc (word) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado, se possível
+- Criar um documento (Word, Notion, Evernote etc) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado
 - Instalar a extensão [video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) no google chrome (funciona em qualquer vídeo tocado pelo chrome browser), e aprender a usar
 - Sempre estude do geral para o específico: top down learning
 - Para cada dose de teoria, uma dose de prática
