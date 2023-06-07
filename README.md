@@ -83,8 +83,8 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - Check features distributions, normalize them if needed
 - Split train/validation datasets: Definir estratégia confiável de validação dos modelos (cross-validation strategy)
 - Definir métricas de avaliação dos modelos
-- Criar um baseline simples ***sem*** usar machine learning
-- Choose algorithm, train model, create simple baseline ***using*** a ML model: [Lei de Gall](https://twitter.com/radekosmulski/status/1614385689424187392)
+- Criar um baseline simples ***sem*** usar machine learning, e avaliar usando as métricas definidas
+- Choose algorithm, train and validate model: create simple baseline ***using*** a ML model: [Lei de Gall](https://twitter.com/radekosmulski/status/1614385689424187392)
 - Evaluate model (fora da etapa de modelagem: cruzamento com business KPIs)
 - Melhorar baseline: criar variáveis melhores (feature engineering), tunar hiperparâmetros, testar outros algoritmos, treinar e avaliar de novo
 - [Missing values & XGBoost](https://twitter.com/svpino/status/1559510300428156929)
