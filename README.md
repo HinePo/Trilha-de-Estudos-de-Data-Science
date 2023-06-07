@@ -53,7 +53,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 ### Áreas de dados
 
-
+![alt text](https://github.com/[HinePo]/[Trilha-de-Estudos-de-Data-Science]/blob/[main]/Áreas de dados.jpg?raw=true)
 
 # Python and Data Analysis basics
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA)
