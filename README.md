@@ -171,7 +171,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Techniques for working with time series data](https://towardsdatascience.com/a-collection-of-must-know-techniques-for-working-with-time-series-data-in-python-7c01d199b184)
 - [Time Series basic concepts](https://medium.com/swlh/time-series-analysis-7006ea1c3326)
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
-- ARIMA, SARIMA, prophet, theta model
+- [pmdarima](http://alkaline-ml.com/pmdarima/), [statsmodels](https://www.statsmodels.org/stable/index.html), ARIMA, SARIMA, [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api), theta model
 - [Time-series prediction with XGBoost](https://www.linkedin.com/feed/update/urn:li:activity:7069236572063186944/)
 - [XGBoost for time series example](https://mlwhiz.com/blog/2019/12/28/timeseries/?utm_campaign=using-gradient-boosting-for-time-series-prediction-tasks&utm_medium=social_link&utm_source=missinglettr)
 - **Tabular** Machine learning approach para time series:
