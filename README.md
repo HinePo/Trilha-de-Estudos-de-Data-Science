@@ -417,6 +417,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [About spliting the data](https://github.com/otto-de/recsys-dataset)
 - [Script to split the data - exemplo](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
 - [H&M Personalized Fashion Recommendations - How To Setup Local CV](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/308919)
+- [EDA for e-commerce RecSys, TSNE, MF](https://www.kaggle.com/code/cdeotte/user-eda-with-rapids-tsne-and-matrix-factorization)
 
 
 ### Recommendation systems basic concepts:
@@ -443,7 +444,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
   - item features
   - user-item interactions features
   - co-visitation features
-- [Matrix Factorization](https://www.kaggle.com/code/radek1/matrix-factorization-pytorch-merlin-dataloader)
+- [Matrix Factorization](https://www.kaggle.com/code/radek1/matrix-factorization-pytorch-merlin-dataloader) & [Matrix Factorization with GPU](https://www.kaggle.com/code/cpmpml/matrix-factorization-with-gpu)
 - Autoencoder
 - LSTM
 - Transformers
