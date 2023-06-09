@@ -412,12 +412,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 # RecSys
 
 - [OTTO competition](https://www.kaggle.com/competitions/otto-recommender-system) é o melhor e mais completo material sobre sistemas de recomendação, incluindo muitas abordagens, baselines, códigos, discussões e soluções.
-- [How to validate a recommendation model](https://www.kaggle.com/code/radek1/a-robust-local-validation-framework)
-- [About validation](https://www.kaggle.com/competitions/otto-recommender-system/discussion/364991)
-- [About spliting the data](https://github.com/otto-de/recsys-dataset)
-- [Script to split the data - exemplo](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
-- [H&M Personalized Fashion Recommendations - How To Setup Local CV](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/308919)
-- [EDA for e-commerce RecSys, TSNE, MF](https://www.kaggle.com/code/cdeotte/user-eda-with-rapids-tsne-and-matrix-factorization)
+- [EDA for e-commerce RecSys: Matrix Factorization + TSNE](https://www.kaggle.com/code/cdeotte/user-eda-with-rapids-tsne-and-matrix-factorization)
 
 
 ### Recommendation systems basic concepts:
@@ -429,6 +424,15 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [RecSys with KNN - Khrish Naik](https://www.youtube.com/watch?v=kccT0FVK6OY)
 - [Arquitetura de Sistemas de recomendação - Mario FIlho](https://www.youtube.com/watch?v=2LbZRaRfGqk&t=2688s)
 - [Etsy RecSys: from many GBDT models to one NN](https://www.etsy.com/codeascraft/how-we-built-a-multi-task-canonical-ranker-for-recommendations-at-etsy)
+
+
+### Validating a recommendation model:
+
+- [How to validate a recommendation model](https://www.kaggle.com/code/radek1/a-robust-local-validation-framework)
+- [About validation](https://www.kaggle.com/competitions/otto-recommender-system/discussion/364991)
+- [About spliting the data](https://github.com/otto-de/recsys-dataset)
+- [Script to split the data - exemplo](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
+- [H&M Personalized Fashion Recommendations - How To Setup Local CV](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/308919)
 
 
 ### Algumas abordagens:
