@@ -122,10 +122,11 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - Pesquisar sobre métricas e como avaliar modelos:
   - Classificação: Accuracy, ROC AUC, f1-score, recall, precision, [MCC](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
   - Regressão: RMSE, MSE, MAE, MAPE, R²
-- Outros conceitos importantes: Pesquisar sobre Boosting (XGBoost, LGBM, GBM), Bagging, Split train/test, data leakage, time series, feature importances, ensemble...
+    - [Transforming skewed data](https://medium.com/@ODSC/transforming-skewed-data-for-machine-learning-90e6cc364b0) - como tratar o viés nos dados
+- Outros conceitos importantes: Pesquisar sobre Boosting (XGBoost, LGBM, Catboost, GBM), Bagging, Split train/test, data leakage, time series, feature importances, ensemble...
 - Imbalanced learning:
+  - [4 ways to balance classes](https://www.kaggle.com/competitions/icr-identify-age-related-conditions/discussion/412507)
   - downsampling/upsampling
-  - [Transforming skewed data](https://medium.com/@ODSC/transforming-skewed-data-for-machine-learning-90e6cc364b0) - como tratar o viés nos dados
   - [imblearn](https://opendatascience.com/strategies-for-addressing-class-imbalance/)
   - [Oversampling x Undersampling](https://www.kdnuggets.com/2020/01/5-most-useful-techniques-handle-imbalanced-datasets.html)
   - [Resampling example](https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets)
