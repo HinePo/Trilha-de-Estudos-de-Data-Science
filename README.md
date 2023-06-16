@@ -104,6 +104,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Power BI - Leonardo Karpinski](https://www.youtube.com/c/AprendaPowerBI)
 - [Power BI - Karine Lago](https://www.youtube.com/c/KarineLago/playlists?app=desktop)
 - [Power BI + DAX + Projetos na prática - Curso Udemy](https://www.udemy.com/course/curso-de-powerbi-desktop-dax/)
+- [graphviz](https://graphviz.readthedocs.io/en/stable/examples.html)
 
 # Machine Learning - Teoria
 
@@ -424,7 +425,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Teoria - Khrish Naik](https://www.youtube.com/watch?v=EjOlN6uVBOg)
 - [Prática - Khrish Naik](https://www.youtube.com/watch?v=R64Lh1Qwl_0)
 - [RecSys with KNN - Khrish Naik](https://www.youtube.com/watch?v=kccT0FVK6OY)
-- [Arquitetura de Sistemas de recomendação - Mario FIlho](https://www.youtube.com/watch?v=2LbZRaRfGqk&t=2688s)
+- [Arquitetura de Sistemas de recomendação - Mario Filho](https://www.youtube.com/watch?v=2LbZRaRfGqk&t=2688s)
 - [Etsy RecSys: from many GBDT models to one NN](https://www.etsy.com/codeascraft/how-we-built-a-multi-task-canonical-ranker-for-recommendations-at-etsy)
 
 
@@ -549,6 +550,7 @@ Algumas sugestões:
 - [Sanyam Bhutani](https://twitter.com/bhutanisanyam1)
 - [Ross Wightman](https://twitter.com/wightmanr)
 - [Hugging Face](https://twitter.com/huggingface)
+- [Harrison Chase](https://twitter.com/hwchase17)
 - [AI Coffee Break with Letitia Parcalabescu](https://twitter.com/AICoffeeBreak)
 - [Andrej Karpathy](https://twitter.com/karpathy)
 - [Philipp Singer](https://twitter.com/ph_singer)
