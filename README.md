@@ -104,7 +104,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Power BI - Leonardo Karpinski](https://www.youtube.com/c/AprendaPowerBI)
 - [Power BI - Karine Lago](https://www.youtube.com/c/KarineLago/playlists?app=desktop)
 - [Power BI + DAX + Projetos na prática - Curso Udemy](https://www.udemy.com/course/curso-de-powerbi-desktop-dax/)
-- [graphviz](https://graphviz.readthedocs.io/en/stable/examples.html)
+- [graphviz - exemplos](https://graphviz.readthedocs.io/en/stable/examples.html)
 
 # Machine Learning - Teoria
 
