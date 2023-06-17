@@ -425,6 +425,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Teoria - Khrish Naik](https://www.youtube.com/watch?v=EjOlN6uVBOg)
 - [Prática - Khrish Naik](https://www.youtube.com/watch?v=R64Lh1Qwl_0)
 - [RecSys with KNN - Khrish Naik](https://www.youtube.com/watch?v=kccT0FVK6OY)
+- [Outros vídeos da playlist de RecSys - Krish Naik](https://www.youtube.com/watch?v=_hf_y-_sj5Y&list=PLZoTAELRMXVN7QGpcuN-Vg35Hgjp3htvi)
 - [Arquitetura de Sistemas de recomendação - Mario Filho](https://www.youtube.com/watch?v=2LbZRaRfGqk&t=2688s)
 - [Etsy RecSys: from many GBDT models to one NN](https://www.etsy.com/codeascraft/how-we-built-a-multi-task-canonical-ranker-for-recommendations-at-etsy)
 
