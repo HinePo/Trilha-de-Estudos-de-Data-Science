@@ -96,10 +96,10 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 # Data Visualization
 
 - [Python Graph Gallery](https://www.python-graph-gallery.com/)
+- [Visual Reference](https://www.sqlbi.com/wp-content/uploads/videotrainings/dashboarddesign/visuals-reference-may2017-A3.pdf)
 - [Séries de notebooks de visualização](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas) - ao final de cada notebook tem um link para o próximo
 - [Data Analysis - Brazilian Society (PNAD)](https://www.kaggle.com/hinepo/pnad-data-analysis) - @hinepo
 - [Rio Temperature Analysis](https://www.kaggle.com/hinepo/is-rio-getting-hotter-seasons-analysis/) - @hinepo
-- [Visual Reference](https://www.sqlbi.com/wp-content/uploads/videotrainings/dashboarddesign/visuals-reference-may2017-A3.pdf)
 - [Power BI playlists](https://www.youtube.com/c/HashtagTreinamentos/playlists?app=desktop)
 - [Power BI - Leonardo Karpinski](https://www.youtube.com/c/AprendaPowerBI)
 - [Power BI - Karine Lago](https://www.youtube.com/c/KarineLago/playlists?app=desktop)
