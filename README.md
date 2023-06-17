@@ -541,6 +541,7 @@ Algumas sugestões:
 - [François Chollet](https://twitter.com/fchollet)
 - [Bojan Tunguz](https://twitter.com/tunguz)
 - [abhishek](https://twitter.com/abhi1thakur)
+- [Aurimas Griciūnas](https://twitter.com/Aurimas_Gr)
 - [Konrad Banachewicz](https://twitter.com/tng_konrad)
 - [JFPuget](https://twitter.com/JFPuget)
 - [Chris Deotte](https://twitter.com/ChrisDeotte)
