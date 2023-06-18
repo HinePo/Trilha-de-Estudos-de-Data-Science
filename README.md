@@ -142,8 +142,8 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [CV, OOF, Error Analysis](https://www.kaggle.com/competitions/siim-isic-melanoma-classification/discussion/175614)
 - [Fair Learn docs](https://fairlearn.org/v0.7.0/quickstart.html) - ajuda a fazer OOF analysis
 - [SHAP (SHapley Additive exPlanations)](https://github.com/helenaEH/SHAP_tutorial)
-- [Tagert encoding - kaggle Learn](https://www.kaggle.com/code/ryanholbrook/target-encoding)
-- [Tagert encoding - blog post](https://towardsdatascience.com/why-you-should-try-mean-encoding-17057262cd0)
+- [Target encoding - kaggle Learn](https://www.kaggle.com/code/ryanholbrook/target-encoding)
+- [Target encoding - blog post](https://towardsdatascience.com/why-you-should-try-mean-encoding-17057262cd0)
 - [11 Categorical Encoders and Benchmark - kaggle](https://www.kaggle.com/code/subinium/11-categorical-encoders-and-benchmark)
 - Browse kaggle, ver notebooks e datasets dos assuntos que te interessam
 - Fazer forks de notebooks do kaggle (Copy and Edit), testar hipóteses e técnicas
