@@ -466,6 +466,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 
 # Deploy
 
+- [Deploy pipelines: Feature, Training, Inference](https://www.linkedin.com/feed/update/urn:li:activity:7076483314697609216/)
 - [4 Types of ML model deployment](https://twitter.com/Aurimas_Gr/status/1656959857205936129)
 - [A/B Testing](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing)
 - [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112)
@@ -480,6 +481,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
   - Batch x Online
   - Cloud x Edge
 - 8 - Data Distribution Shifts and Monitoring
+  - How to monitor raw inputs, features, predictions, metrics
 - 9 - Continual Learning and Test in Production
   - Online evaluation
   - Shadow Deployment
