@@ -16,6 +16,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [LLMs](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#llms)
 - [Computer Vision](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#computer-vision)
 - [RecSys](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#recsys)
+- [Marketing Mix Modeling](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#marketing-mix-modeling)
 - [Survival Analysis](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#survival-analysis)
 - [Deploy](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deploy)
 - [MLOps](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#mlops)
@@ -458,6 +459,13 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - Transformers
 - GNN (Graph Neural Networks)
 - [RecBole lib](https://recbole.io/docs/)
+
+
+# Marketing Mix Modeling
+- [Curso 2h](https://www.linkedin.com/learning/marketing-attribution-and-mix-modeling/measuring-marketing-performance?resume=false)
+  - Mulit-touch Attribution Models
+  - Marketing Mix Modeling
+  - Incrementality and A/B testing
 
 
 # Survival Analysis
