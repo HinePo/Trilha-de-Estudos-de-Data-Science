@@ -463,7 +463,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 
 # Marketing Mix Modeling
 - [Curso 2h](https://www.linkedin.com/learning/marketing-attribution-and-mix-modeling/measuring-marketing-performance?resume=false)
-  - Mulit-touch Attribution Models
+  - Multi-touch Attribution Models
   - Marketing Mix Modeling
   - Incrementality and A/B testing
 
