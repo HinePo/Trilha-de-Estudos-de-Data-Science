@@ -191,10 +191,6 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, batch, epoch, iteration, optimizer step, scheduler step, vanishing gradients, exploding gradients, transfer learning (fine-tuning & feature extraction)...
 
-- [Finetuning x Feature Extraction - pytorch docs and examples](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
-- [Finetuning - Keras tutorial](https://keras.io/guides/transfer_learning/)
-
-"In finetuning, we start with a pretrained model and update all of the model’s parameters for our new task, in essence retraining the whole model. In feature extraction, we start with a pretrained model and only update the final layer weights from which we derive predictions."
 
 Basics:
 - [Neural Networks - 3Blue1Brown Playlist (~1h)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
@@ -209,6 +205,7 @@ Frameworks:
 Keras:
 - [Keras docs](https://keras.io/)
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
+- [Finetuning - Keras tutorial](https://keras.io/guides/transfer_learning/)
 - [Keras - code examples](https://keras.io/examples/)
 
 Tensorflow:
@@ -218,6 +215,7 @@ Tensorflow:
 Pytorch:
 - [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
 - [Pytorch DataLoader animation](https://twitter.com/_ScottCondron/status/1363494433715552259?t=whYsVwzXnMxZ-pHuQn8FMQ&s=08)
+- [Finetuning x Feature Extraction - pytorch docs and examples](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
 - [Pytorch - torch.nn](https://pytorch.org/docs/stable/nn.html)
 - [Vídeo aulas com code examples (pytorch)](https://sebastianraschka.com/blog/2021/dl-course.html)
@@ -233,8 +231,8 @@ Principais tipos de camadas (layers):
 - Conv (Convolutional)
 - Flatten
 - BatchNorm, LayerNorm, RMSNorm
-- LSTM (Long Short Term Memory)
-- GRU (Gated Recurrent Unit - Short Term Memory)
+- LSTM (Long Short Term Memory), BiLSTM
+- GRU (Gated Recurrent Unit - Short Term Memory), BiGRU
 - Dropout
 - Pooling (Max, Mean, Average, Generalized Mean etc)
 - Concatenate
