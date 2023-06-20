@@ -203,17 +203,14 @@ Frameworks:
 - [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
 
 Keras:
-- [Keras docs](https://keras.io/)
 - [Keras Sequential class](https://keras.io/api/models/sequential/)
 - [Finetuning - Keras tutorial](https://keras.io/guides/transfer_learning/)
 - [Keras - code examples](https://keras.io/examples/)
 
 Tensorflow:
-- [Tensorflow docs](https://www.tensorflow.org/)
 - [Tensorflow guide - kaggle learn](https://www.kaggle.com/learn-guide/tensorflow)
 
 Pytorch:
-- [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
 - [Pytorch DataLoader animation](https://twitter.com/_ScottCondron/status/1363494433715552259?t=whYsVwzXnMxZ-pHuQn8FMQ&s=08)
 - [Finetuning x Feature Extraction - pytorch docs and examples](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
