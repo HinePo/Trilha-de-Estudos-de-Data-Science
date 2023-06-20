@@ -189,7 +189,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 # Deep Learning - Neural Networks
 
-Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, vanishing gradients, exploding gradients, transfer learning (fine-tuning & feature extraction)...
+Principais conceitos e keywords a pesquisar e aprender: tensors, gradient descent, automatic differentiation, forward pass, backpropagation, layers, batch, epoch, iteration, optimizer step, scheduler step, vanishing gradients, exploding gradients, transfer learning (fine-tuning & feature extraction)...
 
 - [Finetuning x Feature Extraction - pytorch docs and examples](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - [Finetuning - Keras tutorial](https://keras.io/guides/transfer_learning/)
@@ -217,6 +217,7 @@ Tensorflow:
 
 Pytorch:
 - [Pytorch docs - getting started](https://pytorch.org/get-started/locally/)
+- [Pytorch DataLoader animation](https://twitter.com/_ScottCondron/status/1363494433715552259?t=whYsVwzXnMxZ-pHuQn8FMQ&s=08)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
 - [Pytorch - torch.nn](https://pytorch.org/docs/stable/nn.html)
 - [Vídeo aulas com code examples (pytorch)](https://sebastianraschka.com/blog/2021/dl-course.html)
