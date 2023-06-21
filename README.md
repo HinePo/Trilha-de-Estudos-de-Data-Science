@@ -462,6 +462,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
   - Multi-touch Attribution Models
   - Marketing Mix Modeling
   - Incrementality and A/B testing
+- [Lightweight (Bayesian) Marketing Mix Modeling](https://github.com/google/lightweight_mmm)
 - [Artigos de MMM do Mario Filho](https://forecastegy.com/tags/marketing-mix-modeling/)
   - [Marketing Mix Model With LightweightMMM (Python)](https://forecastegy.com/posts/how-to-create-a-marketing-mix-model-with-lightweightmmm/)
   - [What I Learned Watching 7 Hours of Meta's Marketing Mix Modeling Summits](https://forecastegy.com/posts/marketing-mix-modeling-meta-summit/)
