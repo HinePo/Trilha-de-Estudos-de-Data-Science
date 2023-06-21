@@ -140,7 +140,6 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Data Visualization & Income Prediction for Brazilians](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
 - [Lazy Predict](https://www.kaggle.com/hinepo/pnad-lazy-predict) - @hinepo
 - [Heart disease and ensembling](https://www.kaggle.com/hinepo/ensemble-to-predict-diabetes-100-acc-on-val-data) - @hinepo
-- [CV, OOF, Error Analysis](https://www.kaggle.com/competitions/siim-isic-melanoma-classification/discussion/175614)
 - [Fair Learn docs](https://fairlearn.org/v0.7.0/quickstart.html) - ajuda a fazer OOF analysis
 - [SHAP (SHapley Additive exPlanations)](https://github.com/helenaEH/SHAP_tutorial)
 - [Target encoding - kaggle Learn](https://www.kaggle.com/code/ryanholbrook/target-encoding)
