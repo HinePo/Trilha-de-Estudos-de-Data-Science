@@ -60,6 +60,8 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 ![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/DE%20vs%20ML%20pipelines.png)
 
+- [Data Engineering vs ML pipelines](https://seattledataguy.substack.com/p/data-engineering-vs-machine-learning)
+
 # Python and Data Analysis basics
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA)
 - [3 Tips to Build a Career in Machine Learning](https://www.youtube.com/watch?v=plXM4pNSYXs)
