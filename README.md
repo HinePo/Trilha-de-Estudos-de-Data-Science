@@ -54,7 +54,10 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 ### Áreas de dados
 
-![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/data_fields.jpg)
+![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/imgs/blob/main/data_fields.jpg)
+
+
+![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/imgs/blob/main/data sequence.png)
 
 # Python and Data Analysis basics
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA)
