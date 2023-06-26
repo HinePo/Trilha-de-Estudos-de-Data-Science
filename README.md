@@ -56,8 +56,9 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 
 ![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/data_fields.jpg)
 
-
 ![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/data%20sequence.png)
+
+![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/DE%20vs%20ML%20pipelines.png)
 
 # Python and Data Analysis basics
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA)
