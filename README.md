@@ -313,7 +313,7 @@ Large Language Models
 - Conceitos básicos
   - [State of GPT - Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
   - [Vector databases and use cases](https://www.youtube.com/watch?v=dN0lsF2cvm4)
-  - [𝗟𝗟𝗠 𝗯𝗮𝘀𝗲𝗱 𝗖𝗵𝗮𝘁𝗯𝗼𝘁 𝘁𝗼 𝗾𝘂𝗲𝗿𝘆 𝘆𝗼𝘂𝗿 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗕𝗮𝘀𝗲 - System Architecture](https://twitter.com/Aurimas_Gr/status/1673621343122726912?t=jLJTcYxEaP7-640PYVZJ-g&s=08)
+  - [LLM Based Chatbot to query your Private Knowledge Base - System Architecture](https://twitter.com/Aurimas_Gr/status/1673621343122726912?t=jLJTcYxEaP7-640PYVZJ-g&s=08)
   - [Bits and Bytes + Hugging Face integration](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
   - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
   - [Understanding PEFT (Parameter-Efficient Finetuning)](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
