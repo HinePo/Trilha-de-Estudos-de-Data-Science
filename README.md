@@ -70,6 +70,7 @@ Este é um repositório em constante construção e atualização. Adiciono aqui
 - [Use pandas like a pro](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Handling Missing Data](https://www.kaggle.com/robikscube/handling-with-missing-data-youtube-stream)
+- [Statistics: most important concepts](https://www.youtube.com/watch?v=ACTr64lA_rI)
 
 ### Data Analysis workflow - entender e praticar as etapas básicas:
 
