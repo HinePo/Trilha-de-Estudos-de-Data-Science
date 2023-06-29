@@ -328,6 +328,7 @@ Large Language Models
   - [Harry Potter Question Answering with LangChain](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
   - [Summarize YouTube videos with Langchain](https://www.kaggle.com/code/hinepo/summarize-youtube-videos-with-langchain/notebook) - @hinepo
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
+  - [8 use cases with LangChain](https://twitter.com/JorisTechTalk/status/1660372052468015105)
   - [LangChain Cookbook Part 1 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
   - [LangChain Cookbook Part 2 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
   - [LangChain - youtube playlist recomendada na documentação](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3)
