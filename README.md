@@ -341,6 +341,7 @@ Large Language Models
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
 
 - Finetuning LLMs
+  - [Fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA](https://aws.amazon.com/pt/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/?s=08)
   - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
   - [A Step-by-Step Guide to Fine-Tuning Your Dolly Model (tutorial)](https://www.youtube.com/watch?v=8lBFPHltGuQ)
   - [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
