@@ -207,6 +207,7 @@ Basics:
 - [Deep Learning & Bugs - discussion](https://twitter.com/SebastienBubeck/status/1571887980046065667)
 - [Exploding and Vanishing gradients](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
 - [Regression Networks - The Magic of No Dropout](https://www.kaggle.com/competitions/commonlitreadabilityprize/discussion/260729)
+- [Kaggle Grandmasters Tips to train deep learning models](https://www.youtube.com/watch?v=NCGkBseUSdM)
 
 Frameworks:
 - [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
