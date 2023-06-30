@@ -495,6 +495,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Deploy pipelines: Feature, Training, Inference](https://www.linkedin.com/feed/update/urn:li:activity:7076483314697609216/)
 - [Data Roles and Data Value Chain](https://www.linkedin.com/feed/update/urn:li:activity:7076423576031027201/)
 - [4 Types of ML model deployment](https://twitter.com/Aurimas_Gr/status/1656959857205936129)
+- [Dealing with Train-serve Skew in Real-time ML Models](https://building.nubank.com.br/dealing-with-train-serve-skew-in-real-time-ml-models-a-short-guide/)
 - [A/B Testing with stats](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing)
 - [A/B Testing with bootstrap](https://www.kaggle.com/code/yufengsui/datacamp-project-mobile-games-a-b-testing/notebook)
 - [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112)
