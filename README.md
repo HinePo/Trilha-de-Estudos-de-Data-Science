@@ -190,7 +190,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - **Tabular** Machine learning approach para time series:
   - Formating
   - Lag features
-  - Tail(1)
+  - Group by série, tail(1)
   - Validation strategy, types of leakage
   - Evaluation
   - [Riiid](https://www.kaggle.com/competitions/riiid-test-answer-prediction) - competição excelente para treinar time series ML
