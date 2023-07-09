@@ -300,6 +300,9 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BOW (Bag of Words), CBOW (Continuous Bag of Words), Word2vec, FastText (facebook model), GloVe (Global Vectors), BERT, RoBERTa, Hugging Face....
 
 - [A brief timeline of NLP from Bag of Words to the Transformer family](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
+  - Bag of words & ML models
+  - Word vectors & Deep Learning
+  - Context vectors & Transformers
 - [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning](https://www.youtube.com/watch?v=ISPId9Lhc1g)
 - [BERT tutorial by Abhishek Thakur](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH)
 - [Resumo Hugging face library - 15 min video](https://www.youtube.com/watch?v=QEaBAZQCtwE)
