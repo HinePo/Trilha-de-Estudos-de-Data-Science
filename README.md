@@ -133,7 +133,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - Pesquisar sobre "Feature Engineering" (criação de variáveis)
 - Pesquisar sobre métricas e como avaliar modelos:
   - Classificação: Accuracy, ROC AUC, f1-score, recall, precision, [MCC](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a), [Log Loss e Balanced Log Loss](https://www.kaggle.com/competitions/icr-identify-age-related-conditions/discussion/422442)
-  - Regressão: RMSE, MSE, MAE, MAPE, R²
+  - Regressão: RMSE, NRMSE, MSE, MAE, MAPE, [Tip about MAPE](https://twitter.com/a_erdem4/status/1562321014243164161), R²
     - [Transforming skewed data](https://medium.com/@ODSC/transforming-skewed-data-for-machine-learning-90e6cc364b0) - como tratar o viés nos dados
 - Outros conceitos importantes: Pesquisar sobre Boosting (XGBoost, LGBM, Catboost, GBM), Bagging, Split train/test, data leakage, time series, feature importances, ensemble...
 - Imbalanced learning:
