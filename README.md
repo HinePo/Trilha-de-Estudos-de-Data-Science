@@ -58,9 +58,9 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 ![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/data_fields.jpg)
 
-![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/data%20sequence.png)
+![Data sequence](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/data_sequence.jpg)
 
-![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/DE%20vs%20ML%20pipelines.png)
+![DE vs ML pipelines](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/DE_vs_ML_pipelines.jpg)
 
 - [Data Engineering vs ML pipelines](https://seattledataguy.substack.com/p/data-engineering-vs-machine-learning)
 
