@@ -352,6 +352,7 @@ Large Language Models
 
 - LLMs in Production
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+  - [Text Generation Inference (HF) - Abhishek tutorial](https://www.youtube.com/watch?v=o1BCq1KJULM)
 
 # Computer Vision
 
