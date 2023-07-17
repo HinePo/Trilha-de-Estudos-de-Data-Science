@@ -315,7 +315,7 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [NLP guide - kaggle learn](https://www.kaggle.com/learn-guide/natural-language-processing)
 
 ### Aplicações:
-- [Question Answering & Chatbot on private pdf (without LangChain)- Abhishek](https://www.youtube.com/watch?v=hSQY4N1u3v0)
+- [Question Answering & Chatbot on private pdf (without LangChain) - Abhishek](https://www.youtube.com/watch?v=hSQY4N1u3v0)
 
 # LLMs
 
