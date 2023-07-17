@@ -58,7 +58,11 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 ![Data fields](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/data_fields.jpg)
 
+### Data Sequence
+
 ![Data sequence](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/data_sequence.jpg)
+
+### DE vs ML pipelines
 
 ![DE vs ML pipelines](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/imgs/DE_vs_ML_pipelines.jpg)
 
