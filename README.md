@@ -337,6 +337,7 @@ Large Language Models
   - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
 
 - LangChain e aplicações
+  - [Short courses from Deep Learning AI - Andrew Ng, Harrison Chase](https://www.deeplearning.ai/short-courses/)
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
   - [Harry Potter Question Answering with LangChain](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
   - [Summarize YouTube videos with Langchain](https://www.kaggle.com/code/hinepo/summarize-youtube-videos-with-langchain/notebook) - @hinepo
@@ -350,7 +351,6 @@ Large Language Models
   - [Chatbot with Langchain, ChatGPT, Pinecone, and Streamlit](https://blog.futuresmart.ai/building-an-interactive-chatbot-with-langchain-chatgpt-pinecone-and-streamlit)
   - [Chatbot memory types in LangChain](https://twitter.com/Luc_AI_Insights/status/1662549087458144257?t=EsgW6ztVSZ4K0UCApf19WA&s=08)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
-  - [Short courses from Deep Learning AI - Andrew Ng, Harrison Chase](https://www.deeplearning.ai/short-courses/)
 
 - Finetuning LLMs
   - [Finetune (SFT) LLMs with PEFT and LoRA - Abhishek](https://www.youtube.com/watch?v=JNMVulH7fCo)
