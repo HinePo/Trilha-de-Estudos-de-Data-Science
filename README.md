@@ -212,6 +212,7 @@ Basics:
 - [Exploding and Vanishing gradients](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
 - [Regression Networks - The Magic of No Dropout](https://www.kaggle.com/competitions/commonlitreadabilityprize/discussion/260729)
 - [Kaggle Grandmasters Tips to train deep learning models](https://www.youtube.com/watch?v=NCGkBseUSdM)
+- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
 
 Frameworks:
 - [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
@@ -349,6 +350,7 @@ Large Language Models
   - [Chatbot with Langchain, ChatGPT, Pinecone, and Streamlit](https://blog.futuresmart.ai/building-an-interactive-chatbot-with-langchain-chatgpt-pinecone-and-streamlit)
   - [Chatbot memory types in LangChain](https://twitter.com/Luc_AI_Insights/status/1662549087458144257?t=EsgW6ztVSZ4K0UCApf19WA&s=08)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
+  - [Short courses from Deep Learning AI - Andrew Ng, Harrison Chase](https://www.deeplearning.ai/short-courses/)
 
 - Finetuning LLMs
   - [Finetune (SFT) LLMs with PEFT and LoRA - Abhishek](https://www.youtube.com/watch?v=JNMVulH7fCo)
@@ -513,6 +515,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [A/B Testing with bootstrap](https://www.kaggle.com/code/yufengsui/datacamp-project-mobile-games-a-b-testing/notebook)
 - [Streamlit - Revolutionizing Data App Creation](https://pub.towardsai.net/streamlit-revolutionizing-data-app-creation-e269177d9112)
 - [Use docker for deployment, not for development](https://twitter.com/radekosmulski/status/1615856695879798784)
+- [Exemplo de Documentação de Modelos - Model Cards for Deployed models](https://meta.m.wikimedia.org/wiki/Machine_learning_models)
 
 
 ### Capítulos do livro "Designing Machine Learning Systemns - Chip Huyen":
