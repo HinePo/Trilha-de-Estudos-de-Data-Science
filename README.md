@@ -338,14 +338,12 @@ Large Language Models
 
 - LangChain e aplicações
   - [Short courses from Deep Learning AI - Andrew Ng, Harrison Chase](https://www.deeplearning.ai/short-courses/)
+  - [LangChain Explained in 13 Minutes](https://www.youtube.com/watch?v=aywZrzNaKjs)
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
   - [Harry Potter Question Answering with LangChain](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
   - [Summarize YouTube videos with Langchain](https://www.kaggle.com/code/hinepo/summarize-youtube-videos-with-langchain/notebook) - @hinepo
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
   - [8 use cases with LangChain](https://twitter.com/JorisTechTalk/status/1660372052468015105)
-  - [LangChain Cookbook Part 1 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
-  - [LangChain Cookbook Part 2 - Data Independent](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
-  - [LangChain - youtube playlist recomendada na documentação](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3)
   - [Multiple-document retriever](https://www.youtube.com/watch?v=9ISVjh8mdlA)
   - [Talk to your data](https://www.youtube.com/watch?v=xQ3mZhw69bc)
   - [Chatbot with Langchain, ChatGPT, Pinecone, and Streamlit](https://blog.futuresmart.ai/building-an-interactive-chatbot-with-langchain-chatgpt-pinecone-and-streamlit)
