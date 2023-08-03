@@ -359,6 +359,7 @@ Large Language Models
   - [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
 
 - LLMs in Production
+  - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
   - [Text Generation Inference (HF) - Abhishek tutorial](https://www.youtube.com/watch?v=o1BCq1KJULM)
 
