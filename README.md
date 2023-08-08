@@ -151,9 +151,6 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 # Machine Learning - Prática
 - [Kaggle's 30 Days of ML](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N) - Abhishek Thakur
-- [Data Visualization & Income Prediction for Brazilians](https://www.kaggle.com/hinepo/pnad-income-prediction) - @hinepo
-- [Lazy Predict](https://www.kaggle.com/hinepo/pnad-lazy-predict) - @hinepo
-- [Heart disease and ensembling](https://www.kaggle.com/hinepo/ensemble-to-predict-diabetes-100-acc-on-val-data) - @hinepo
 - [Fair Learn docs](https://fairlearn.org/v0.7.0/quickstart.html) - ajuda a fazer OOF analysis
 - [SHAP (SHapley Additive exPlanations)](https://github.com/helenaEH/SHAP_tutorial)
 - [Target encoding - kaggle Learn](https://www.kaggle.com/code/ryanholbrook/target-encoding)
@@ -337,11 +334,10 @@ Large Language Models
   - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
 
 - LangChain e aplicações
-  - [Short courses from Deep Learning AI - Andrew Ng, Harrison Chase](https://www.deeplearning.ai/short-courses/)
   - [LangChain Explained in 13 Minutes](https://www.youtube.com/watch?v=aywZrzNaKjs)
+  - [Short courses from Deep Learning AI - Andrew Ng, Harrison Chase](https://www.deeplearning.ai/short-courses/)
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
-  - [Harry Potter Question Answering with LangChain](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
-  - [Summarize YouTube videos with Langchain](https://www.kaggle.com/code/hinepo/summarize-youtube-videos-with-langchain/notebook) - @hinepo
+  - [Question-Answering chatbot with LangChain and Harry Potter](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
   - [8 use cases with LangChain](https://twitter.com/JorisTechTalk/status/1660372052468015105)
   - [Multiple-document retriever](https://www.youtube.com/watch?v=9ISVjh8mdlA)
@@ -359,6 +355,7 @@ Large Language Models
   - [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
 
 - LLMs in Production
+  - [Hugging Face - Inference Endpoints deploy](https://www.youtube.com/watch?v=VdKdQYduGQc)
   - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
   - [Text Generation Inference (HF) - Abhishek tutorial](https://www.youtube.com/watch?v=o1BCq1KJULM)
