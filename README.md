@@ -545,6 +545,7 @@ Deploying is an intervention and humans are agents that react to the predictions
 
 Intro:
 - [Como é o trabalho de um ML Enginner (MLE)?](https://www.youtube.com/watch?v=xCcrMhwzhpI)
+- [O que é Feature Store](https://medium.com/data-hackers/o-que-%C3%A9-feature-store-29e35c60dada) - Muito importante
 - Capítulo "10 - Infrastructure and Tooling for MLOps" do livro "Designing Machine Learning Systemns - Chip Huyen"
 - [Made With ML](https://madewithml.com/)
 - [Machine Learning Operations](https://ml-ops.org/)
