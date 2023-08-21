@@ -318,6 +318,7 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 - [NLP guide - kaggle learn](https://www.kaggle.com/learn-guide/natural-language-processing)
 - [Hugging Face tutorial - video (30 min)](https://www.youtube.com/watch?v=DQc2Mi7BcuI])
+- [Topic Modeling com BERTopic, UMAP, HDBSCAN e Llama-2](https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2)
 
 # LLMs
 
