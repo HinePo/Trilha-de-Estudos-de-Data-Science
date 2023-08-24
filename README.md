@@ -370,8 +370,19 @@ Large Language Models
 - [OpenCV Tutorials](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
 - [Image and Video processing - Great Barrier Reef](https://www.kaggle.com/code/soumya9977/learning-to-sea-underwater-img-enhancement-eda/notebook)
 
-### Yolo videos and examples
+### Yolo
 
+Existem várias versões do algoritmo Yolo. Vale a pena dar uma olhada nas evoluções que ocorreram desde o lançamento da versão original em 2015.
+
+Porém, hoje em dia o pacote Ultralytics é a melhor forma de usar Yolo, e inclui várias versões e variações do Yolo e também de outros algoritmos.
+
+Algumas funcionalidades:
+  - Tasks: detection, segmentation, classification e pose estimation
+  - Modes: train, valiidate, predict, export, tracking e até benchmarking de performance
+
+É muito importante ler toda a documentação do Ultralytics.
+
+- [Ultralytics docs](https://docs.ultralytics.com/)
 - [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g)
 - [Face mask yolo-v5 example](https://www.youtube.com/watch?v=12UoOlsRwh8)
 - [Yolo v5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
@@ -382,19 +393,6 @@ Large Language Models
 - [How to Train YOLOv8 Object Detection on a Custom Dataset - using folder structure and LabelImg](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262)
 - [YOLOv8 segmentation in 12 minutes](https://www.youtube.com/watch?v=pFiGSrRtaU4)
 - [Yolo v8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - Paulo Junqueira
-
-
-### Yolo papers and repos
-
-Existem várias versões do algoritmo Yolo. Vale a pena dar uma olhada nas evoluções que ocorreram desde o lançamento da versão original em 2015.
-
-Porém, hoje em dia o pacote Ultralytics é a melhor forma de usar Yolo, e inclui várias versões e variações do Yolo e também de outros algoritmos.
-
-Algumas funcionalidades:
-  - Tasks: detection, segmentation, classification e pose estimation
-  - Modes: train, valiidate, predict, export, tracking e até benchmarking de performance
-
-É muito importante ler toda a [documentação do Ultralytics](https://docs.ultralytics.com/).
 
 
 ### Basics
