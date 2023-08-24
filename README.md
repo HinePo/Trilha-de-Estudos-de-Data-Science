@@ -287,6 +287,7 @@ Transformers mostraram que não é preciso usar camadas LSTM para fazer tasks de
 
 ### Outras fontes
 
+- [Attention explained - Lightning AI - 4 min](https://twitter.com/rasbt/status/1693635148569354688?t=dVVuj6gv0m9gGlqBySUUrA&s=08)
 - [BERT Attention Mechanism](https://peltarion.com/blog/data-science/self-attention-video)
 - [Illustrated Guide to Transformers](https://www.youtube.com/watch?app=desktop&v=4Bdc55j80l8)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
@@ -385,13 +386,15 @@ Large Language Models
 
 ### Yolo papers and repos
 
-- [Yolo v5 github repo - ultralytics](https://github.com/ultralytics/yolov5)
-- [Yolo v5 - paper jul/2021](https://arxiv.org/pdf/2104.13634.pdf)
-- [Yolo v6 - github repo - meituan](https://github.com/meituan/YOLOv6)
-- [Yolo v7 - github repo - WongKinYiu](https://github.com/WongKinYiu/yolov7)
-- [Yolo v7 - paper jul/2022](https://arxiv.org/pdf/2207.02696.pdf)
-- [Yolov v8 github repo - Ultralytics](https://github.com/ultralytics/ultralytics)
-- [Yolov8 Ultralytics Docs](https://docs.ultralytics.com/tasks/detection/)
+Existem várias versões do algoritmo Yolo. Vale a pena dar uma olhada nas evoluções que ocorreram desde o lançamento da versão original em 2015.
+
+Porém, hoje em dia o pacote Ultralytics é a melhor forma de usar Yolo, e inclui várias versões e variações do Yolo e também de outros algoritmos.
+
+Algumas funcionalidades:
+  - Tasks: detection, segmentation, classification e pose estimation
+  - Modes: train, valiidate, predict, export, tracking e até benchmarking de performance
+
+É muito importante ler toda a [documentação do Ultralytics](https://docs.ultralytics.com/).
 
 
 ### Basics
