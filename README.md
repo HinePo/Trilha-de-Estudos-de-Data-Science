@@ -552,20 +552,24 @@ Intro:
 - [Como é o trabalho de um ML Enginner (MLE)?](https://www.youtube.com/watch?v=xCcrMhwzhpI)
 - [O que é Feature Store](https://medium.com/data-hackers/o-que-%C3%A9-feature-store-29e35c60dada) - Muito importante
 - Capítulo "10 - Infrastructure and Tooling for MLOps" do livro "Designing Machine Learning Systemns - Chip Huyen"
+
+Model Store:
+- [MLflow](https://www.youtube.com/watch?app=desktop&v=859OxXrt_TI)
+- [MLflow on Databricks](https://www.youtube.com/watch?app=desktop&v=nx3yFzx_nHI&t=1260s)
+- [Weights and biases](https://www.youtube.com/watch?v=krWjJcW80_A)
+
+Websites:
 - [Made With ML](https://madewithml.com/)
 - [Machine Learning Operations](https://ml-ops.org/)
 - [MyMLOps - Build your MLOps stack](https://mymlops.com/)
+
+Papers:
 - [MLOps: Overview, Definition, and Architecture - paper mai/2022](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
 - [Operationalizing Machine Learning: An Interview Study - paper sep/2022](https://arxiv.org/pdf/2209.09125.pdf)
 
 Tools & References:
 - [A curated list of awesome MLOps tools - kelvins](https://github.com/kelvins/awesome-mlops)
 - [A curated list of references for MLOps - visenger](https://github.com/visenger/awesome-mlops)
-
-Model Store:
-- [MLflow](https://www.youtube.com/watch?app=desktop&v=859OxXrt_TI)
-- [MLflow on Databricks](https://www.youtube.com/watch?app=desktop&v=nx3yFzx_nHI&t=1260s)
-- [Weights and biases](https://www.youtube.com/watch?v=krWjJcW80_A)
 
 
 # Youtube channels
