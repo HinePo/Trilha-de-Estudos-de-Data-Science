@@ -191,11 +191,14 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - **Tabular** Machine learning approach para time series:
   - Formating
   - Lag features
-  - Group by série, tail(1)
+  - Group by série, tail(1) - em caso de múltiplas séries temporais
   - Validation strategy, types of leakage
   - Evaluation
-  - [Riiid](https://www.kaggle.com/competitions/riiid-test-answer-prediction) - competição excelente para treinar time series ML
-- Ver notebooks [desta competição](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/code?competitionId=8587&sortBy=voteCount)  
+  - Exemplos, notebooks e datasets bons:
+    - [Riiid](https://www.kaggle.com/competitions/riiid-test-answer-prediction/code?competitionId=21651&sortBy=voteCount)
+    - [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/code?competitionId=8587&sortBy=voteCount)
+    - [AMEX](https://www.kaggle.com/code/cdeotte/xgboost-starter-0-793#Process-and-Feature-Engineer-Train-Data)
+
 
 # Deep Learning - Neural Networks
 
