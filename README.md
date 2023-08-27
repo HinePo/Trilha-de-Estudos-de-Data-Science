@@ -377,13 +377,16 @@ Existem várias versões do algoritmo Yolo. Vale a pena dar uma olhada nas evolu
 Porém, hoje em dia o pacote Ultralytics é a melhor forma de usar Yolo, e inclui várias versões e variações do Yolo e também de outros algoritmos.
 
 Algumas funcionalidades:
-  - Tasks: detection, segmentation, classification e pose estimation
-  - Modes: train, valiidate, predict, export, tracking e até benchmarking de performance
+  - Tasks: Detection, Segmentation, Classification e Pose Estimation
+  - Modes: Train, Validate, Predict, Export, Tracking e até Benchmarking de performance
 
 É muito importante ler toda a documentação do Ultralytics.
 
 - [Ultralytics docs](https://docs.ultralytics.com/)
 - [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g)
+
+Aplicações:
+
 - [Face mask yolo-v5 example](https://www.youtube.com/watch?v=12UoOlsRwh8)
 - [Yolo v5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
 - [Yolo v5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
