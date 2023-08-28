@@ -188,12 +188,10 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [pmdarima](http://alkaline-ml.com/pmdarima/), [statsmodels](https://www.statsmodels.org/stable/index.html), ARIMA, SARIMA, [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api), theta model
 - [Time-series prediction with XGBoost](https://www.linkedin.com/feed/update/urn:li:activity:7069236572063186944/)
 - [XGBoost for time series example](https://mlwhiz.com/blog/2019/12/28/timeseries/?utm_campaign=using-gradient-boosting-for-time-series-prediction-tasks&utm_medium=social_link&utm_source=missinglettr)
-- **Tabular** Machine learning approach para time series:
-  - Formating
-  - Lag features
-  - Group by série, tail(1) - em caso de múltiplas séries temporais
-  - Validation strategy, types of leakage
-  - Evaluation
+- **Tabular Machine learning approach para múltiplas séries temporais:**
+  - Create Lag features
+  - Group by série, tail(1)
+  - Validation strategy, Types of leakage, Evaluation
   - Exemplos, notebooks e datasets bons:
     - [Riiid](https://www.kaggle.com/competitions/riiid-test-answer-prediction/code?competitionId=21651&sortBy=voteCount)
     - [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/code?competitionId=8587&sortBy=voteCount)
