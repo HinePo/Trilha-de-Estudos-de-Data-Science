@@ -358,6 +358,7 @@ Large Language Models
   - [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
 
 - LLMs in Production
+  - [RAG vs Finetuning](https://twitter.com/ajratner/status/1698072260152787342)
   - [Hugging Face - Inference Endpoints deploy](https://www.youtube.com/watch?v=VdKdQYduGQc)
   - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
