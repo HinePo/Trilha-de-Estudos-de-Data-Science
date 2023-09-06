@@ -385,19 +385,19 @@ Algumas funcionalidades:
 É muito importante ler toda a documentação do Ultralytics.
 
 - [Ultralytics docs](https://docs.ultralytics.com/)
-- [Yolo Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g)
+- [YOLO Introduction](https://www.youtube.com/watch?app=desktop&v=4eIBisqx9_g)
+- [YOLOv5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
+- [How to Train YOLOv8 Object Detection on a Custom Dataset - using folder structure and LabelImg](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262)
+- [How to Train YOLOv8 Object Detection on a Custom Dataset - using Roboflow](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/)
 
 Aplicações:
 
-- [Face mask yolo-v5 example](https://www.youtube.com/watch?v=12UoOlsRwh8)
-- [Yolo v5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
-- [Yolo v5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
-- [Yolo v5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
-- [Yolo tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo)
-- [How to Train YOLOv8 Object Detection on a Custom Dataset - using Roboflow](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/)
-- [How to Train YOLOv8 Object Detection on a Custom Dataset - using folder structure and LabelImg](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262)
+- [YOLOv5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
+- [YOLOv5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
+- [YOLOv5 tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo)
+- [Traffic Analysis with YOLOv8 and ByteTrack - Vehicle Detection and Tracking](https://www.youtube.com/watch?v=4Q3ut7vqD5o)
+- [YOLOv8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - Paulo Junqueira
 - [YOLOv8 segmentation in 12 minutes](https://www.youtube.com/watch?v=pFiGSrRtaU4)
-- [Yolo v8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - Paulo Junqueira
 
 
 ### Basics
