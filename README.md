@@ -392,12 +392,14 @@ Algumas funcionalidades:
 
 Aplicações:
 
-- [YOLOv5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
-- [YOLOv5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
-- [YOLOv5 tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo)
+- [YOLOv8 Finetuning for PPE detection](https://www.kaggle.com/code/hinepo/yolov8-finetuning-for-ppe-detection/notebook) - @hinepo
+- [YOLOv8 Inference for Red Zone application](https://www.kaggle.com/code/hinepo/yolov8-inference-for-red-zone-application) - @hinepo
 - [Traffic Analysis with YOLOv8 and ByteTrack - Vehicle Detection and Tracking](https://www.youtube.com/watch?v=4Q3ut7vqD5o)
 - [YOLOv8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - Paulo Junqueira
 - [YOLOv8 segmentation in 12 minutes](https://www.youtube.com/watch?v=pFiGSrRtaU4)
+- [YOLOv5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
+- [YOLOv5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
+- [YOLOv5 tutorial by Abhishek Thakur](https://www.youtube.com/watch?app=desktop&v=NU9Xr_NYslo)
 
 
 ### Basics
