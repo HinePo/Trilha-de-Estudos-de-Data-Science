@@ -22,6 +22,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [Survival Analysis](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#survival-analysis)
 - [Deploy](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deploy)
 - [MLOps](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#mlops)
+- [Tech Management](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#tech-management)
 - [Youtube channels](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#youtube-channels)
 - [Perfis no twitter](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#perfis-no-twitter)
 
@@ -576,6 +577,11 @@ Papers:
 Tools & References:
 - [A curated list of awesome MLOps tools - kelvins](https://github.com/kelvins/awesome-mlops)
 - [A curated list of references for MLOps - visenger](https://github.com/visenger/awesome-mlops)
+
+
+# Tech Management
+- [Scrum vs Data Science](https://twitter.com/search?q=%40marktenenholtz%20scrum&src=typed_query)
+- [Pair Programming - OpenAI and Google](https://twitter.com/_jasonwei/status/1702392357252211070?t=5QR0Z2cTDH_tsIcZOfLEHw&s=08)
 
 
 # Youtube channels
