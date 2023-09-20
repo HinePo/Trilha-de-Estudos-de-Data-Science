@@ -355,7 +355,6 @@ Large Language Models
   - [RAG vs Finetuning again](https://www.linkedin.com/posts/jeremy-arancio_fine-tuning-an-llm-on-your-data-will-not-activity-7109833276969627648-_izS/?utm_source=share&utm_medium=member_desktop)  
   - [Finetune (SFT) LLMs with PEFT and LoRA - Abhishek](https://www.youtube.com/watch?v=JNMVulH7fCo)
   - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
-  - [A Step-by-Step Guide to Fine-Tuning Your Dolly Model (tutorial)](https://www.youtube.com/watch?v=8lBFPHltGuQ)
 
 - LLMs in Production
   - [Hugging Face - Inference Endpoints deploy](https://www.youtube.com/watch?v=VdKdQYduGQc)
