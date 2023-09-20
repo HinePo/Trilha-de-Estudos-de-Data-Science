@@ -350,6 +350,7 @@ Large Language Models
   - [Chatbot memory types in LangChain](https://twitter.com/Luc_AI_Insights/status/1662549087458144257?t=EsgW6ztVSZ4K0UCApf19WA&s=08)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
   - [Demystifying Document Question-Answering Chatbot](https://twitter.com/amaarora/status/1684665379308908546?t=H7YE9D55PlAkBGKAEWFx9A&s=08)
+  - [RAG vs Finetuning](https://www.linkedin.com/posts/jeremy-arancio_fine-tuning-an-llm-on-your-data-will-not-activity-7109833276969627648-_izS/?utm_source=share&utm_medium=member_desktop)
 
 - Finetuning LLMs
   - [Finetune (SFT) LLMs with PEFT and LoRA - Abhishek](https://www.youtube.com/watch?v=JNMVulH7fCo)
