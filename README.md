@@ -623,6 +623,7 @@ Algumas sugestões:
 - [James Briggs](https://twitter.com/jamescalam)
 - [Jim Fan](https://twitter.com/DrJimFan)
 - [Owain Evans](https://twitter.com/OwainEvans_UK)
+- [Yam Peleg](https://twitter.com/Yampeleg)
 - [arXiv abstract](https://twitter.com/arxivabs)
 - [Sanyam Bhutani](https://twitter.com/bhutanisanyam1)
 - [Ross Wightman](https://twitter.com/wightmanr)
