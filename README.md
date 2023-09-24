@@ -337,24 +337,31 @@ Large Language Models
   - [LoRA](https://lightning.ai/pages/community/tutorial/lora-llm/)
   - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
 
-- LangChain e aplicações
+
+- LangChain - Getting Started
   - [LangChain Explained in 13 Minutes](https://www.youtube.com/watch?v=aywZrzNaKjs)
   - [Short courses from Deep Learning AI - Andrew Ng, Harrison Chase](https://www.deeplearning.ai/short-courses/)
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
-  - [Question-Answering chatbot with LangChain and Harry Potter](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
-  - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
   - [8 use cases with LangChain](https://twitter.com/JorisTechTalk/status/1660372052468015105)
   - [Multiple-document retriever](https://www.youtube.com/watch?v=9ISVjh8mdlA)
   - [Talk to your data](https://www.youtube.com/watch?v=xQ3mZhw69bc)
   - [Chatbot memory types in LangChain](https://twitter.com/Luc_AI_Insights/status/1662549087458144257?t=EsgW6ztVSZ4K0UCApf19WA&s=08)
+
+
+- LangChain - Aplicações comuns
+  - [Question-Answering chatbot with LangChain and Harry Potter](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
+  - [Building RAG Chatbots with LangChain](https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/rag-chatbot.ipynb) - James Briggs
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
   - [Demystifying Document Question-Answering Chatbot](https://twitter.com/amaarora/status/1684665379308908546?t=H7YE9D55PlAkBGKAEWFx9A&s=08)
+  - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
 
+  
 - Finetuning LLMs
   - [RAG vs Finetuning](https://twitter.com/ajratner/status/1698072260152787342)
   - [RAG vs Finetuning again](https://www.linkedin.com/posts/jeremy-arancio_fine-tuning-an-llm-on-your-data-will-not-activity-7109833276969627648-_izS/?utm_source=share&utm_medium=member_desktop)  
   - [Finetune (SFT) LLMs with PEFT and LoRA - Abhishek](https://www.youtube.com/watch?v=JNMVulH7fCo)
   - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
+
 
 - LLMs in Production
   - [Hugging Face - Inference Endpoints deploy](https://www.youtube.com/watch?v=VdKdQYduGQc)
@@ -613,6 +620,9 @@ Algumas sugestões:
 - [Goku Mohandas](https://twitter.com/GokuMohandas)
 - [Yann Lecun](https://twitter.com/ylecun)
 - [Andrew Ng](https://twitter.com/AndrewYNg)
+- [James Briggs](https://twitter.com/jamescalam)
+- [Jim Fan](https://twitter.com/DrJimFan)
+- [Owain Evans](https://twitter.com/OwainEvans_UK)
 - [arXiv abstract](https://twitter.com/arxivabs)
 - [Sanyam Bhutani](https://twitter.com/bhutanisanyam1)
 - [Ross Wightman](https://twitter.com/wightmanr)
