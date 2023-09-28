@@ -361,6 +361,7 @@ Large Language Models
 - LangChain - Aplicações comuns
   - [Question-Answering chatbot with LangChain and Harry Potter](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
   - [Building RAG Chatbots with LangChain](https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/rag-chatbot.ipynb) - James Briggs
+  - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
   - [Demystifying Document Question-Answering Chatbot](https://twitter.com/amaarora/status/1684665379308908546?t=H7YE9D55PlAkBGKAEWFx9A&s=08)
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
