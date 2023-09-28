@@ -113,7 +113,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 # Data Engineering
 
-Um pouco de Engenharia de Dados:
+Um pouco de Engenharia de Dados (para cientistas de dados):
 
 - [Data Warehouse, Data Lake, Data Lake House, Data Mesh](https://www.linkedin.com/posts/rajesh-kr-mehra_datamanagement-datawarehouse-datalake-activity-7112461700250931200-RIlw?utm_source=share&utm_medium=member_desktop)
 - [End to End Azure Data Engineering Real Time Project Demo](https://www.youtube.com/watch?v=iQ41WqhHglk)
