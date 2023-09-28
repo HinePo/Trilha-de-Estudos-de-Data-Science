@@ -8,6 +8,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
 - [Python and Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
+- [Data Engineering](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-engineering)
 - [Data Visualization](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-visualization)
 - [Machine Learning - Teoria](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---teoria)
 - [Machine Learning - Prática](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---prática)
@@ -108,6 +109,15 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - Experimentos de Feature selection e preprocessing: diferentes sets de features e diferentes etapas de pré-processamento
 - Melhorar explicabilidade
 - Ensemble: combinar modelos para aumentar performance, estabilidade e poder de generalização
+
+
+# Data Engineering
+
+Um pouco de Engenharia de Dados:
+
+- [Data Warehouse, Data Lake, Data Lake House, Data Mesh](https://www.linkedin.com/posts/rajesh-kr-mehra_datamanagement-datawarehouse-datalake-activity-7112461700250931200-RIlw?utm_source=share&utm_medium=member_desktop)
+- [End to End Azure Data Engineering Real Time Project Demo](https://www.youtube.com/watch?v=iQ41WqhHglk)
+
 
 # Data Visualization
 
