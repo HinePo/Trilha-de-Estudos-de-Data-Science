@@ -117,6 +117,7 @@ Um pouco de Engenharia de Dados (para cientistas de dados):
 
 - [Data Warehouse, Data Lake, Data Lake House, Data Mesh](https://www.linkedin.com/posts/rajesh-kr-mehra_datamanagement-datawarehouse-datalake-activity-7112461700250931200-RIlw?utm_source=share&utm_medium=member_desktop)
 - [End to End Azure Data Engineering Real Time Project Demo](https://www.youtube.com/watch?v=iQ41WqhHglk)
+- [You don't need streaming to do real-time machine learning](https://www.linkedin.com/feed/update/urn:li:activity:6969739163927539712/?utm_source=share&utm_medium=member_android) - Chip Huyen
 
 
 # Data Visualization
