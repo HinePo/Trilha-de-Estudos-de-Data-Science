@@ -376,9 +376,10 @@ Large Language Models
 
 
 - LLMs in Production
-  - [Hugging Face - Inference Endpoints deploy](https://www.youtube.com/watch?v=VdKdQYduGQc)
+  - [Microsoft LLM Team - Why is it so hard to ship a simple LLM feature?](https://medium.com/data-science-at-microsoft/why-is-it-so-hard-to-ship-a-simple-llm-feature-ba7de31ffae0)
   - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+  - [Hugging Face - Inference Endpoints deploy](https://www.youtube.com/watch?v=VdKdQYduGQc)
   - [Text Generation Inference (HF) - Abhishek tutorial](https://www.youtube.com/watch?v=o1BCq1KJULM)
   - [Speculative execution for LLMs](https://twitter.com/karpathy/status/1697318534555336961) - Karpathy
   - [Speculative decoding](https://twitter.com/Yampeleg/status/1701290397148856349?t=Iw3PrMwexkboOwg-o3R6sg&s=08) - Yam Peleg
