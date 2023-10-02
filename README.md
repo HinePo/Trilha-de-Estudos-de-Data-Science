@@ -366,6 +366,7 @@ Large Language Models
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
   - [Demystifying Document Question-Answering Chatbot](https://twitter.com/amaarora/status/1684665379308908546?t=H7YE9D55PlAkBGKAEWFx9A&s=08)
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
+  - [RAGAS framework - evaluating RAG and QA pipelines](https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/)
 
   
 - Finetuning LLMs
