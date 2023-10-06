@@ -236,6 +236,7 @@ Tensorflow:
 - [Tensorflow guide - kaggle learn](https://www.kaggle.com/learn-guide/tensorflow)
 
 Pytorch:
+- [Pytorch Model In Minutes - Rob Mulla](https://www.youtube.com/watch?v=tHL5STNJKag)
 - [Pytorch DataLoader animation](https://twitter.com/_ScottCondron/status/1363494433715552259?t=whYsVwzXnMxZ-pHuQn8FMQ&s=08)
 - [Finetuning x Feature Extraction - pytorch docs and examples](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
