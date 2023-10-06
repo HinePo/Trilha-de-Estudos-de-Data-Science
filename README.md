@@ -376,7 +376,6 @@ Large Language Models
   - [RAG vs Finetuning again](https://www.linkedin.com/posts/jeremy-arancio_fine-tuning-an-llm-on-your-data-will-not-activity-7109833276969627648-_izS/?utm_source=share&utm_medium=member_desktop)  
   - [Finetune (SFT) LLMs with PEFT and LoRA - Abhishek](https://www.youtube.com/watch?v=JNMVulH7fCo)
   - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
-  - [Fine-Tuning with Llama 2 + QLoRA](https://www.kaggle.com/code/philculliton/fine-tuning-with-llama-2-qlora/notebook) - kaggle notebook
 
 
 - LLMs in Production
