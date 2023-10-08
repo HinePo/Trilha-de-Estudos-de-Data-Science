@@ -117,7 +117,6 @@ Um pouco de Engenharia de Dados (para cientistas de dados):
 
 - [Data Warehouse, Data Lake, Data Lake House, Data Mesh](https://www.linkedin.com/posts/rajesh-kr-mehra_datamanagement-datawarehouse-datalake-activity-7112461700250931200-RIlw?utm_source=share&utm_medium=member_desktop)
 - [End to End Azure Data Engineering Real Time Project Demo](https://www.youtube.com/watch?v=iQ41WqhHglk)
-- [You don't need streaming to do real-time machine learning](https://www.linkedin.com/feed/update/urn:li:activity:6969739163927539712/?utm_source=share&utm_medium=member_android) - Chip Huyen
 
 
 # Data Visualization
@@ -541,6 +540,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Deploy pipelines: Feature, Training, Inference](https://www.linkedin.com/feed/update/urn:li:activity:7076483314697609216/)
 - [Data Roles and Data Value Chain](https://www.linkedin.com/feed/update/urn:li:activity:7076423576031027201/)
 - [4 Types of ML model deployment](https://twitter.com/Aurimas_Gr/status/1656959857205936129)
+- [You don't need streaming to do real-time machine learning](https://www.linkedin.com/feed/update/urn:li:activity:6969739163927539712/?utm_source=share&utm_medium=member_android) - Chip Huyen
 - [Fine-tune and Deploy models with Azure Machine Learning](https://www.youtube.com/watch?v=IQrILl5B0kw)
 - [Dealing with Train-serve Skew in Real-time ML Models](https://building.nubank.com.br/dealing-with-train-serve-skew-in-real-time-ml-models-a-short-guide/)
 - [A/B Testing with stats](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing)
