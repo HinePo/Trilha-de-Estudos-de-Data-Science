@@ -333,7 +333,6 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 - [NLP guide - kaggle learn](https://www.kaggle.com/learn-guide/natural-language-processing)
 - [Hugging Face tutorial - video (30 min)](https://www.youtube.com/watch?v=DQc2Mi7BcuI])
-- [Topic Modeling com BERTopic, UMAP, HDBSCAN e Llama-2](https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2)
 
 # LLMs
 
@@ -388,6 +387,12 @@ Large Language Models
   - [Speculative execution for LLMs](https://twitter.com/karpathy/status/1697318534555336961) - Karpathy
   - [Speculative decoding](https://twitter.com/Yampeleg/status/1701290397148856349?t=Iw3PrMwexkboOwg-o3R6sg&s=08) - Yam Peleg
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
+
+
+- Outras aplicações
+  - [Topic Modeling com BERTopic, UMAP, HDBSCAN e Llama-2](https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2)
+  - [Mastering Customer Segmentation with LLM](https://towardsdatascience.com/mastering-customer-segmentation-with-llm-3d9008235f41#3a33)
+
 
 # Computer Vision
 
