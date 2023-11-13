@@ -77,6 +77,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [Pandas tutorial - kaggle learn](https://www.kaggle.com/learn/pandas) - Fazer o fork dos notebooks e aprender praticando
 - [Use pandas like a pro](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
 - [Dataframe efficiency with dtypes - intro](https://www.youtube.com/watch?v=u4_c2LDi4b8) - Rob Mulla
+- [Example of "reduce_memory_usage" function](https://www.kaggle.com/code/werus23/sleep-critical-point-prepare-data)
 - [pandas cheat sheet](https://www.linkedin.com/posts/jagdish-saini-8098b1138_dataanalysis-dataengineering-datascience-activity-7079772863175532544-pZhh/?utm_source=share&utm_medium=member_android)
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Handling Missing Data](https://www.kaggle.com/robikscube/handling-with-missing-data-youtube-stream)
