@@ -393,7 +393,7 @@ Large Language Models
 
 - Outras aplicações
   - [Topic Modeling com BERTopic, UMAP, HDBSCAN e Llama-2](https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2)
-  - [Mastering Customer Segmentation with LLM](https://towardsdatascience.com/mastering-customer-segmentation-with-llm-3d9008235f41#3a33)
+  - [Mastering Customer Segmentation with Embeddings and Clustering](https://towardsdatascience.com/mastering-customer-segmentation-with-llm-3d9008235f41#3a33)
 
 
 # Computer Vision
