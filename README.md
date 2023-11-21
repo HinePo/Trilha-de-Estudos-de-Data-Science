@@ -371,6 +371,7 @@ Large Language Models
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
   - [RAGAS metrics framework - evaluating RAG and QA pipelines](https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/)
   - [RAGAS-LangSmith-LangChain](https://docs.smith.langchain.com/#:~:text=LangSmith%20is%20a%20platform%20for,framework%20for%20building%20with%20LLMs.)
+  - [Evaluating Retrieval in long context with LLMs - Pressure Testing - Greg Kamradt](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
 
   
 - Finetuning LLMs
