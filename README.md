@@ -367,6 +367,7 @@ Large Language Models
   - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
   - [OpenAI roadmap for building production RAG systems](https://twitter.com/yi_ding/status/1721728060876300461)
+  - [RAG with Mistral-7B and RunnablePassthrough](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146)
   - [Demystifying Document Question-Answering Chatbot](https://twitter.com/amaarora/status/1684665379308908546?t=H7YE9D55PlAkBGKAEWFx9A&s=08)
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
   - [RAGAS metrics framework - evaluating RAG and QA pipelines](https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/)
