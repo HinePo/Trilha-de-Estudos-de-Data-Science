@@ -616,9 +616,10 @@ Tools & References:
 - [Scrum vs Data Science](https://twitter.com/search?q=%40marktenenholtz%20scrum&src=typed_query)
 
 About Pair Programming:
-  - [Pair Programming - OpenAI and Google](https://twitter.com/_jasonwei/status/1702392357252211070?t=5QR0Z2cTDH_tsIcZOfLEHw&s=08)
-  - [Phillip Singer (Kaggle rank 1 opinion)](https://twitter.com/ph_singer/status/1702430003823267951)
-  - [Greg Brockman (OpenAI President opinion)](https://twitter.com/gdb/status/1728200551849136594)
+  - [Pair Programming at OpenAI and Google](https://twitter.com/_jasonwei/status/1702392357252211070?t=5QR0Z2cTDH_tsIcZOfLEHw&s=08)
+  - [Phillip Singer opinion (Kaggle rank 1)](https://twitter.com/ph_singer/status/1702430003823267951)
+  - [Greg Brockman opinion (OpenAI President)](https://twitter.com/gdb/status/1728200551849136594)
+  - [Jeremy Howard opinion](https://twitter.com/jeremyphoward/status/1728878957024755986)
   - [Advantages](https://twitter.com/tomcocobrico/status/1728373956980195446)
 
 
