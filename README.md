@@ -342,7 +342,7 @@ Large Language Models
 
 - Conceitos básicos
   - [State of GPT - Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
-  - [The busy person's intro to LLMs - Andrej Karpathy]([https://www.youtube.com/watch?v=bZQun8Y4L2A](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=3055s))
+  - [The busy person's intro to LLMs - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
   - [Vector databases and use cases](https://www.youtube.com/watch?v=dN0lsF2cvm4)
   - [LLM Based Chatbot to query your Private Knowledge Base - System Architecture](https://twitter.com/Aurimas_Gr/status/1673621343122726912?t=jLJTcYxEaP7-640PYVZJ-g&s=08)
   - [Bits and Bytes + Hugging Face integration](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
