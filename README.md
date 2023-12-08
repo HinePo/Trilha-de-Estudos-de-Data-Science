@@ -449,6 +449,7 @@ Aplicações:
 - [Pytorch tutorial for image classification](https://www.kaggle.com/hinepo/pytorch-tutorial-cv-99-67-lb-99-26) - @hinepo
 - [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo
 - [Transfer learning for CV guide - kaggle learn](https://www.kaggle.com/learn-guide/transfer-learning-cv)
+- [Dev Ideas - Treinamentos sobre visão computacional](https://csvisaocomputacional.com.br/)
 
 
 ### Pytorch image models (timm)
