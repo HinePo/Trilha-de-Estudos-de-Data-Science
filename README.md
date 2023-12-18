@@ -427,6 +427,7 @@ Algumas funcionalidades:
 - [YOLOv5 tutorial - notebook](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
 - [How to Train YOLOv8 Object Detection on a Custom Dataset - using folder structure and LabelImg](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262)
 - [How to Train YOLOv8 Object Detection on a Custom Dataset - using Roboflow](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/)
+- [Supervision docs](https://supervision.roboflow.com/) - A lot of common Computer Vision utilities and features out of the box
 
 Aplicações:
 
