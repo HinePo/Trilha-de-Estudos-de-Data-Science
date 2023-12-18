@@ -432,6 +432,7 @@ Aplicações:
 
 - [YOLOv8 Finetuning for PPE detection](https://www.kaggle.com/code/hinepo/yolov8-finetuning-for-ppe-detection/notebook) - @hinepo
 - [YOLOv8 Inference for Red Zone application](https://www.kaggle.com/code/hinepo/yolov8-inference-for-red-zone-application) - @hinepo
+- [YOLOv8 + Supervision: Heatmap + Tracking + Counting](https://www.kaggle.com/code/hinepo/yolov8-supervision-heatmap-track-count) - @hinepo
 - [Traffic Analysis with YOLOv8 and ByteTrack - Vehicle Detection and Tracking](https://www.youtube.com/watch?v=4Q3ut7vqD5o)
 - [YOLOv8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - Paulo Junqueira
 - [YOLOv8 segmentation in 12 minutes](https://www.youtube.com/watch?v=pFiGSrRtaU4)
