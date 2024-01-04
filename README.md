@@ -630,6 +630,7 @@ Para o desenvolvedor e/ou cientista de dados, a melhor forma de programar e dese
   - [Greg Brockman opinion (OpenAI President)](https://twitter.com/gdb/status/1728200551849136594)
   - [Jeremy Howard opinion - remote pair programming](https://twitter.com/jeremyphoward/status/1728878957024755986)
   - [Advantages](https://twitter.com/tomcocobrico/status/1728373956980195446)
+  - [Pair Programming Advantages - video](https://www.youtube.com/watch?v=E4cg5mmvpwo)
 
 
 # Youtube channels
