@@ -394,7 +394,12 @@ Large Language Models
   - [Speculative decoding](https://twitter.com/Yampeleg/status/1701290397148856349?t=Iw3PrMwexkboOwg-o3R6sg&s=08) - Yam Peleg
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
   - [LangChain in Production - Microservice Architecture](https://www.youtube.com/watch?v=I_4jEnDwGwI)
-  - [Guardrails and Safeguards wih Amazon Bedrock](https://aws.amazon.com/pt/blogs/aws/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=aiml_reinvent&linkId=251501736)
+ 
+    Guardrails, Safeguards, Assertions:
+
+  - [AWS Bedrock](https://aws.amazon.com/pt/blogs/aws/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=aiml_reinvent&linkId=251501736)
+  - [Azure OpenAI Service - Content Filtering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter?tabs=warning%2Cpython)
+  - [Assertions](https://twitter.com/sh_reya/status/1747304364103041296)
 
 
 - Outras aplicações
