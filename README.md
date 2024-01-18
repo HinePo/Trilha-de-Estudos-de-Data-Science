@@ -395,7 +395,7 @@ Large Language Models
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
   - [LangChain in Production - Microservice Architecture](https://www.youtube.com/watch?v=I_4jEnDwGwI)
  
-    Guardrails, Safeguards, Assertions:
+Guardrails, Safeguards, Assertions:
 
   - [AWS Bedrock](https://aws.amazon.com/pt/blogs/aws/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=aiml_reinvent&linkId=251501736)
   - [Azure OpenAI Service - Content Filtering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter?tabs=warning%2Cpython)
