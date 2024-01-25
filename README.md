@@ -41,7 +41,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 ### ML twitter
 
-- Em 2022, nem os papers do arxiv e nem blogposts conseguem acompanhar a velocidade no avanço no ML/DL. As publicações acontecem de forma muito mais rápida e dinâmica no twitter, que é absolutamente fundamental pra quem quer acompanhar o estado da arte. [Exemplo](https://twitter.com/bneyshabur/status/1570843225585504256)
+- Desde ~2020, nem os papers do arxiv e nem blogposts conseguem acompanhar a velocidade no avanço no ML/DL. As publicações acontecem de forma muito mais rápida e dinâmica no twitter, que é absolutamente fundamental pra quem quer acompanhar o estado da arte. [Exemplo](https://twitter.com/bneyshabur/status/1570843225585504256)
 - O twitter deve ser utilizado como ferramenta de estudo e atualização. Funciona muito bem como dose diária de aprendizado, e ajuda muito a acompanhar o trabalho de outros cientistas de dados e pesquisadores.
 - Ferramenta essencial não só para o acompanhamento dos avanços na área de ciência de dados e papers publicados, mas também para a absorção de dicas e experiências compartilhadas sobre casos reais de DS na indústria e área de negócios.
 - Nenhuma outra plataforma te entrega a informação de forma tão rápida e curada.
