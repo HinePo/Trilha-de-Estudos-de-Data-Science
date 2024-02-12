@@ -399,6 +399,7 @@ Large Language Models
  
 - Guardrails, Safeguards, Assertions
   - [LLM Guard](https://github.com/laiyer-ai/llm-guard)
+  - [LLM Safeguards](https://www.kaggle.com/code/hinepo/llm-safeguards-and-guardrails) - notebook @hinepo
   - [AWS Bedrock](https://aws.amazon.com/pt/blogs/aws/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=aiml_reinvent&linkId=251501736)
   - [Azure OpenAI Service - Content Filtering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter?tabs=warning%2Cpython)
   - [Assertions](https://twitter.com/sh_reya/status/1747304364103041296) - paper jan/2024
