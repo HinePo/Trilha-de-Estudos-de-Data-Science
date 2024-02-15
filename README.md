@@ -354,7 +354,6 @@ Large Language Models
 
 - LangChain - Getting Started
   - [LangChain Explained in 13 Minutes](https://www.youtube.com/watch?v=aywZrzNaKjs)
-  - [Short courses from Deep Learning AI - Andrew Ng, Harrison Chase](https://www.deeplearning.ai/short-courses/)
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
   - [8 use cases with LangChain](https://twitter.com/JorisTechTalk/status/1660372052468015105)
   - [Multiple-document retriever](https://www.youtube.com/watch?v=9ISVjh8mdlA)
@@ -362,39 +361,40 @@ Large Language Models
   - [Chatbot memory types in LangChain](https://twitter.com/Luc_AI_Insights/status/1662549087458144257?t=EsgW6ztVSZ4K0UCApf19WA&s=08)
 
 
-- LangChain - Aplicações comuns
-  - [Question-Answering chatbot with LangChain and Harry Potter](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
-  - [Building RAG Chatbots with LangChain](https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/rag-chatbot.ipynb) - James Briggs
+- RAG: Retrieval Augmented Generation
+  - [RAG: Question-Answering chatbot with LangChain and Harry Potter](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
   - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
   - [OpenAI roadmap for building production RAG systems](https://twitter.com/yi_ding/status/1721728060876300461)
-  - [RAG with Mistral-7B and RunnablePassthrough](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146)
   - [Demystifying Document Question-Answering Chatbot](https://twitter.com/amaarora/status/1684665379308908546?t=H7YE9D55PlAkBGKAEWFx9A&s=08)
-  - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
-  - [RAGAS metrics framework - evaluating RAG and QA pipelines](https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/)
-  - [RAGAS-LangSmith-LangChain](https://docs.smith.langchain.com/#:~:text=LangSmith%20is%20a%20platform%20for,framework%20for%20building%20with%20LLMs.)
   - [Evaluating Retrieval in long context with LLMs - Pressure Testing - Greg Kamradt](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
   - [RAG + StrOutputParser, RunnablePassthrough, RunnableMap, itemgetter](https://twitter.com/waseemhnyc/status/1728889388954951717?t=Vy6R43k5l74owmvfPVw7wQ)
+  - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
 
   
 - Finetuning LLMs
-  - [LLM Instruction Finetuning + WandB](https://www.kaggle.com/code/hinepo/llm-instruction-finetuning-wandb) - @hinepo
-  - [LLM Alignment: Preference Finetuning - DPO, SLiC, IPO, KTO](https://www.kaggle.com/code/hinepo/llm-alignment-preference-finetuning/notebook) - @hinepo
+
+Rag vs Finetuning
+
   - [RAG vs Finetuning](https://twitter.com/ajratner/status/1698072260152787342)
   - [RAG vs Finetuning again](https://www.linkedin.com/posts/jeremy-arancio_fine-tuning-an-llm-on-your-data-will-not-activity-7109833276969627648-_izS/?utm_source=share&utm_medium=member_desktop)  
-  - [Finetune (SFT) LLMs with PEFT and LoRA - Abhishek](https://www.youtube.com/watch?v=JNMVulH7fCo)
-  - [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
+
+
+There are many ways to finetune a LLM. Some examples are: Instruction Finetuning, Preference Finetuning, Class Finetuning and Regression Finetuning.
+
+
+  - [LLM Instruction Finetuning + WandB](https://www.kaggle.com/code/hinepo/llm-instruction-finetuning-wandb) - @hinepo
+  - [LLM Alignment: Preference Finetuning - DPO, SLiC, IPO, KTO](https://www.kaggle.com/code/hinepo/llm-alignment-preference-finetuning/notebook) - @hinepo
+  - [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl)
+  - [Fine-Tune Your Own Llama 2 Model in a Colab Notebook](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
 
 
 - LLMs in Production
   - [Microsoft LLM Team - Why is it so hard to ship a simple LLM feature?](https://medium.com/data-science-at-microsoft/why-is-it-so-hard-to-ship-a-simple-llm-feature-ba7de31ffae0)
   - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-  - [Hugging Face - Inference Endpoints deploy](https://www.youtube.com/watch?v=VdKdQYduGQc)
-  - [Text Generation Inference (HF) - Abhishek tutorial](https://www.youtube.com/watch?v=o1BCq1KJULM)
   - [Speculative execution for LLMs](https://twitter.com/karpathy/status/1697318534555336961) - Karpathy
   - [Speculative decoding](https://twitter.com/Yampeleg/status/1701290397148856349?t=Iw3PrMwexkboOwg-o3R6sg&s=08) - Yam Peleg
-  - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
   - [LangChain in Production - Microservice Architecture](https://www.youtube.com/watch?v=I_4jEnDwGwI)
 
  
