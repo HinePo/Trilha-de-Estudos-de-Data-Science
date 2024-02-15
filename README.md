@@ -340,7 +340,8 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 
 Large Language Models
 
-- Conceitos básicos
+### Conceitos básicos
+
   - [State of GPT - Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
   - [The busy person's intro to LLMs - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
   - [Vector databases and use cases](https://www.youtube.com/watch?v=dN0lsF2cvm4)
@@ -352,7 +353,8 @@ Large Language Models
   - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
 
 
-- LangChain - Getting Started
+### LangChain - Getting Started
+
   - [LangChain Explained in 13 Minutes](https://www.youtube.com/watch?v=aywZrzNaKjs)
   - [LangChain - Quickstart](https://python.langchain.com/en/latest/getting_started/getting_started.html)
   - [8 use cases with LangChain](https://twitter.com/JorisTechTalk/status/1660372052468015105)
@@ -361,7 +363,8 @@ Large Language Models
   - [Chatbot memory types in LangChain](https://twitter.com/Luc_AI_Insights/status/1662549087458144257?t=EsgW6ztVSZ4K0UCApf19WA&s=08)
 
 
-- RAG: Retrieval Augmented Generation
+### RAG: Retrieval Augmented Generation
+
   - [RAG: Question-Answering chatbot with LangChain and Harry Potter](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
   - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
@@ -372,7 +375,7 @@ Large Language Models
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
 
   
-- Finetuning LLMs
+### Finetuning LLMs
 
 Rag vs Finetuning
 
@@ -389,7 +392,7 @@ There are many ways to finetune a LLM. Some examples are: Instruction Finetuning
   - [Fine-Tune Your Own Llama 2 Model in a Colab Notebook](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
 
 
-- LLMs in Production
+### LLMs in Production
   - [Microsoft LLM Team - Why is it so hard to ship a simple LLM feature?](https://medium.com/data-science-at-microsoft/why-is-it-so-hard-to-ship-a-simple-llm-feature-ba7de31ffae0)
   - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
@@ -398,7 +401,7 @@ There are many ways to finetune a LLM. Some examples are: Instruction Finetuning
   - [LangChain in Production - Microservice Architecture](https://www.youtube.com/watch?v=I_4jEnDwGwI)
 
  
-- Guardrails, Safeguards, Assertions
+### Guardrails, Safeguards, Assertions
   - [LLM Guard](https://github.com/laiyer-ai/llm-guard)
   - [LLM Safeguards](https://www.kaggle.com/code/hinepo/llm-safeguards-and-guardrails) - notebook @hinepo
   - [AWS Bedrock](https://aws.amazon.com/pt/blogs/aws/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=aiml_reinvent&linkId=251501736)
@@ -406,7 +409,7 @@ There are many ways to finetune a LLM. Some examples are: Instruction Finetuning
   - [Assertions](https://twitter.com/sh_reya/status/1747304364103041296) - paper jan/2024
 
 
-- Outras aplicações
+### Outras aplicações
   - [Topic Modeling com BERTopic, UMAP, HDBSCAN e Llama-2](https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2)
   - [Mastering Customer Segmentation with Embeddings and Clustering](https://towardsdatascience.com/mastering-customer-segmentation-with-llm-3d9008235f41#3a33)
 
