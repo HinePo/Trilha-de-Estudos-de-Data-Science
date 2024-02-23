@@ -199,6 +199,7 @@ Um pouco de Engenharia de Dados (para cientistas de dados):
 - [Time Series basic concepts](https://medium.com/swlh/time-series-analysis-7006ea1c3326)
 - [Time Series - Youtube playlist](https://www.youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4)
 - [pmdarima](http://alkaline-ml.com/pmdarima/), [statsmodels](https://www.statsmodels.org/stable/index.html), ARIMA, SARIMA, [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api), theta model
+- [Case Zillow, Prophet, Time Series, & Prices](https://ryxcommar.com/2021/11/06/zillow-prophet-time-series-and-prices/)
 - [Time-series prediction with XGBoost](https://www.linkedin.com/feed/update/urn:li:activity:7069236572063186944/)
 - [XGBoost for time series example](https://mlwhiz.com/blog/2019/12/28/timeseries/?utm_campaign=using-gradient-boosting-for-time-series-prediction-tasks&utm_medium=social_link&utm_source=missinglettr)
 - **Tabular Machine learning approach para múltiplas séries temporais:**
@@ -446,6 +447,7 @@ Aplicações:
 - [YOLOv8 Finetuning for PPE detection](https://www.kaggle.com/code/hinepo/yolov8-finetuning-for-ppe-detection/notebook) - @hinepo
 - [YOLOv8 Inference for Red Zone application](https://www.kaggle.com/code/hinepo/yolov8-inference-for-red-zone-application) - @hinepo
 - [YOLOv8 + Supervision: Heatmap + Tracking + Counting](https://www.kaggle.com/code/hinepo/yolov8-supervision-heatmap-track-count) - @hinepo
+- [YOLO-World: Zero-shot object detection](https://www.kaggle.com/code/hinepo/yolo-world-zero-shot-object-detection)
 - [Ultralytics YOLOv8 Solutions: Quick Walkthrough](https://ultralytics.medium.com/ultralytics-yolov8-solutions-quick-walkthrough-b802fd6da5d7)
 - [Traffic Analysis with YOLOv8 and ByteTrack - Vehicle Detection and Tracking](https://www.youtube.com/watch?v=4Q3ut7vqD5o)
 - [YOLOv8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - Paulo Junqueira
