@@ -374,6 +374,7 @@ Large Language Models
   - [Evaluating Retrieval in long context with LLMs - Pressure Testing - Greg Kamradt](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
   - [RAG + StrOutputParser, RunnablePassthrough, RunnableMap, itemgetter](https://twitter.com/waseemhnyc/status/1728889388954951717?t=Vy6R43k5l74owmvfPVw7wQ)
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
+  - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997.pdf) - paper jan/2024
 
   
 ### Finetuning LLMs
