@@ -530,6 +530,11 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Script to split the data - exemplo](https://github.com/otto-de/recsys-dataset/blob/main/src/testset.py)
 - [H&M Personalized Fashion Recommendations - How To Setup Local CV](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/308919)
 
+### Common Metrics
+
+- [A top-down perspective on Recall@k](https://www.kaggle.com/competitions/otto-recommender-system/discussion/363874)
+- [Recall@k Explained](https://www.kaggle.com/competitions/otto-recommender-system/discussion/363962)
+
 
 ### Algumas abordagens:
 
