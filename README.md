@@ -391,7 +391,8 @@ There are many ways to finetune a LLM. Some examples are: Instruction Finetuning
 
   - [LLM Instruction Finetuning + WandB](https://www.kaggle.com/code/hinepo/llm-instruction-finetuning-wandb) - @hinepo
   - [LLM Alignment: Preference Finetuning - DPO, SLiC, IPO, KTO](https://www.kaggle.com/code/hinepo/llm-alignment-preference-finetuning/notebook) - @hinepo
-  - [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl)
+  - [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) - philschmid
+  - [RLHF in 2024 with DPO & Hugging Face](https://www.philschmid.de/dpo-align-llms-in-2024-with-trl) - philschmid
   - [Fine-Tune Your Own Llama 2 Model in a Colab Notebook](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
   - [Synthetic data creation for LLMs](https://www.kaggle.com/code/hinepo/synthetic-data-creation-for-llms/notebook) - @hinepo
   - [Synthetic data - Hugging Face: Few-shot vs DeBERTa finetuned on Synthetic data](https://huggingface.co/blog/synthetic-data-save-costs)
