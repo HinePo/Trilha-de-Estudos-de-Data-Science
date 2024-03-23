@@ -396,6 +396,7 @@ There are many ways to finetune a LLM. Some examples are: Instruction Finetuning
   - [Fine-Tune Your Own Llama 2 Model in a Colab Notebook](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
   - [Synthetic data creation for LLMs](https://www.kaggle.com/code/hinepo/synthetic-data-creation-for-llms/notebook) - @hinepo
   - [Synthetic data - Hugging Face: Few-shot vs DeBERTa finetuned on Synthetic data](https://huggingface.co/blog/synthetic-data-save-costs)
+  - [SPIN: Self-Play Finetuning for LLMs](https://www.kaggle.com/code/hinepo/spin-self-play-finetuning-for-llms) - @hinepo
 
 
 ### LLMs in Production
