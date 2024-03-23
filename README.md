@@ -352,7 +352,8 @@ Large Language Models
   - [Understanding PEFT (Parameter-Efficient Finetuning)](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
   - [LoRA](https://lightning.ai/pages/community/tutorial/lora-llm/)
   - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
-  - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
+  - [How to generate text: decoding methods](https://huggingface.co/blog/how-to-generate)
+  - [Text generation strategies - Hugging Face Generation docs](https://huggingface.co/docs/transformers/generation_strategies)
 
 
 ### LangChain - Getting Started
