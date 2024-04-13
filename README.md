@@ -373,12 +373,10 @@ Large Language Models
   - [RAG: Question-Answering chatbot with LangChain and Harry Potter](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
   - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
+  - [Advanced RAG Strategies - RAGOps - video](https://www.youtube.com/watch?v=EuHderGVUs8&t=949s)
   - [OpenAI roadmap for building production RAG systems](https://twitter.com/yi_ding/status/1721728060876300461)
-  - [Demystifying Document Question-Answering Chatbot](https://twitter.com/amaarora/status/1684665379308908546?t=H7YE9D55PlAkBGKAEWFx9A&s=08)
-  - [Evaluating Retrieval in long context with LLMs - Pressure Testing - Greg Kamradt](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
   - [RAG + StrOutputParser, RunnablePassthrough, RunnableMap, itemgetter](https://twitter.com/waseemhnyc/status/1728889388954951717?t=Vy6R43k5l74owmvfPVw7wQ)
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
-  - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997.pdf) - paper jan/2024
 
   
 ### Finetuning LLMs
