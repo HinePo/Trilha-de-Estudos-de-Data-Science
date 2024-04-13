@@ -226,6 +226,7 @@ Basics:
 - [Regression Networks - The Magic of No Dropout](https://www.kaggle.com/competitions/commonlitreadabilityprize/discussion/260729)
 - [Kaggle Grandmasters Tips to train deep learning models](https://www.youtube.com/watch?v=NCGkBseUSdM)
 - [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
+- [How To Tune Learning Schedule](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/discussion/488083)
 - [LSTM & GRU in 11 minutes](https://www.youtube.com/watch?v=8HyCNIVRbSU)
 
 Frameworks:
