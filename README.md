@@ -408,6 +408,7 @@ There are many ways to finetune a LLM. Some examples are: Instruction Finetuning
   - [Speculative execution for LLMs](https://twitter.com/karpathy/status/1697318534555336961) - Karpathy
   - [Speculative decoding](https://twitter.com/Yampeleg/status/1701290397148856349?t=Iw3PrMwexkboOwg-o3R6sg&s=08) - Yam Peleg
   - [LangChain in Production - Microservice Architecture](https://www.youtube.com/watch?v=I_4jEnDwGwI)
+  - [LLM Evaluation](https://www.linkedin.com/posts/eordax_ai-genai-llmops-activity-7186362795985158145-PNCc?utm_source=share&utm_medium=member_desktop)
 
  
 ### Guardrails, Safeguards, Assertions
