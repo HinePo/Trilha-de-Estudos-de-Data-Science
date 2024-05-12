@@ -400,6 +400,20 @@ There are many ways to finetune a LLM. Some examples are: Instruction Finetuning
   - [Synthetic data - Hugging Face: Few-shot vs DeBERTa finetuned on Synthetic data](https://huggingface.co/blog/synthetic-data-save-costs)
   - [SPIN: Self-Play Finetuning for LLMs](https://www.kaggle.com/code/hinepo/spin-self-play-finetuning-for-llms) - @hinepo
 
+### Agents
+
+Basics:
+  - [AgentExecutor in Langchain and LangGraph](https://www.youtube.com/watch?v=UcD42NA2WoI)
+  - [Function Calling Agents vs. ReACt Agents – What's Right for You?](https://www.youtube.com/watch?v=L6suEeJ3XXc)
+  - [Advanced RAG with Agents - video](https://www.youtube.com/watch?v=-ROS6gfYIts&t=2s)
+  - [Advanced RAG with Agents - code](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_rag_agent_llama3_local.ipynb)
+  - [Function Calling with Local Models - Ollama, Llama-3, Phi-3](https://www.youtube.com/watch?v=Ss_GdU0KqE0)
+
+Lanchain docs:
+  - [Tool calling agent](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/tool_calling/)
+  - [Defining Custom Tools](https://python.langchain.com/v0.1/docs/modules/tools/custom_tools/)
+
+
 
 ### LLMs in Production
   - [Microsoft LLM Team - Why is it so hard to ship a simple LLM feature?](https://medium.com/data-science-at-microsoft/why-is-it-so-hard-to-ship-a-simple-llm-feature-ba7de31ffae0)
