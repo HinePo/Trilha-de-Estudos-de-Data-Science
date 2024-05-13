@@ -403,6 +403,7 @@ There are many ways to finetune a LLM. Some examples are: Instruction Finetuning
 ### Agents
 
 Basics:
+  - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629) - paper mar/2023
   - [AgentExecutor in Langchain and LangGraph](https://www.youtube.com/watch?v=UcD42NA2WoI)
   - [Function Calling Agents vs. ReACt Agents – What's Right for You?](https://www.youtube.com/watch?v=L6suEeJ3XXc)
   - [Advanced RAG with Agents - video](https://www.youtube.com/watch?v=-ROS6gfYIts&t=2s)
