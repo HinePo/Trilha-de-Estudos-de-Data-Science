@@ -415,6 +415,13 @@ Lanchain docs:
   - [Tool calling agent](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/tool_calling/)
   - [Defining Custom Tools](https://python.langchain.com/v0.1/docs/modules/tools/custom_tools/)
 
+### DSPy
+
+  - [Stop Prompting & Start Programming: DSPy Examples](https://www.kaggle.com/discussions/general/500884)
+  - [Automatic Prompt Generation with DSPy Agents](https://www.kaggle.com/code/rkr2020/automatic-prompt-generation-with-dspy-agents)
+  - [Intro to DSPy: Goodbye Prompting, Hello Programming!](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)
+  - [DSPy - Github](https://github.com/stanfordnlp/dspy)
+  - [DSPY: Compiling Declarative Language Model Calls Into Self-Improving Pipelines](https://arxiv.org/pdf/2310.03714) - paper oct/2023
 
 
 ### LLMs in Production
