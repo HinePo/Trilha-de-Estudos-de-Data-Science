@@ -378,6 +378,8 @@ Large Language Models
   - [OpenAI roadmap for building production RAG systems](https://twitter.com/yi_ding/status/1721728060876300461)
   - [RAG + StrOutputParser, RunnablePassthrough, RunnableMap, itemgetter](https://twitter.com/waseemhnyc/status/1728889388954951717?t=Vy6R43k5l74owmvfPVw7wQ)
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
+  - [RAG - Contextual Compression](https://www.kaggle.com/code/paulojunqueira/rag-contextual-compression-boardgames-rulebooks#--Introduction-) - [Paulo Junqueira](https://www.kaggle.com/paulojunqueira)
+  - [RAG - Hybrid Search](https://www.kaggle.com/code/paulojunqueira/rag-hybrid-search-in-boardgame-rulebooks-pdf#--References-and-Acknowledgment-) - [Paulo Junqueira](https://www.kaggle.com/paulojunqueira)
 
   
 ### Finetuning LLMs
@@ -488,7 +490,7 @@ Aplicações:
 - [YOLO-World: Zero-shot object detection](https://www.kaggle.com/code/hinepo/yolo-world-zero-shot-object-detection)
 - [Ultralytics YOLOv8 Solutions: Quick Walkthrough](https://ultralytics.medium.com/ultralytics-yolov8-solutions-quick-walkthrough-b802fd6da5d7)
 - [Traffic Analysis with YOLOv8 and ByteTrack - Vehicle Detection and Tracking](https://www.youtube.com/watch?v=4Q3ut7vqD5o)
-- [YOLOv8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - Paulo Junqueira
+- [YOLOv8 - Detecting and Counting vehicles](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting/notebook) - [Paulo Junqueira](https://www.kaggle.com/paulojunqueira)
 - [YOLOv8 segmentation in 12 minutes](https://www.youtube.com/watch?v=pFiGSrRtaU4)
 - [YOLOv5 - Great Barrier Reef - Train](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train#Tensorflow---Help-Protect-the-Great-Barrier-Reef)
 - [YOLOv5 - Great Barrier Reef - Inference](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-infer/notebook#%F0%9F%93%A6-YOLOv5)
