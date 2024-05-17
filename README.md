@@ -415,6 +415,11 @@ Lanchain docs:
   - [Tool calling agent](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/tool_calling/)
   - [Defining Custom Tools](https://python.langchain.com/v0.1/docs/modules/tools/custom_tools/)
 
+Hugging Face Agents
+  - [Agents and tools](https://huggingface.co/docs/transformers/main/en/agents)
+  - [Transformers Agents](https://huggingface.co/docs/transformers/main/en/transformers_agents)
+
+
 ### DSPy
 
   - [Stop Prompting & Start Programming: DSPy Examples](https://www.kaggle.com/discussions/general/500884)
