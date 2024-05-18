@@ -372,14 +372,18 @@ Large Language Models
 ### RAG: Retrieval Augmented Generation
 
   - [RAG: Question-Answering chatbot with LangChain and Harry Potter](https://www.kaggle.com/code/hinepo/harry-potter-question-answering-with-langchain/notebook) - @hinepo
-  - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
-  - [Advanced RAG Strategies - RAGOps - video](https://www.youtube.com/watch?v=EuHderGVUs8&t=949s)
   - [OpenAI roadmap for building production RAG systems](https://twitter.com/yi_ding/status/1721728060876300461)
   - [RAG + StrOutputParser, RunnablePassthrough, RunnableMap, itemgetter](https://twitter.com/waseemhnyc/status/1728889388954951717?t=Vy6R43k5l74owmvfPVw7wQ)
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
+
+
+### Advanced RAG
+
+  - [Advanced RAG Strategies - RAGOps - video](https://www.youtube.com/watch?v=EuHderGVUs8&t=949s)  
   - [RAG - Contextual Compression](https://www.kaggle.com/code/paulojunqueira/rag-contextual-compression-boardgames-rulebooks#--Introduction-) - [Paulo Junqueira](https://www.kaggle.com/paulojunqueira)
   - [RAG - Hybrid Search](https://www.kaggle.com/code/paulojunqueira/rag-hybrid-search-in-boardgame-rulebooks-pdf#--References-and-Acknowledgment-) - [Paulo Junqueira](https://www.kaggle.com/paulojunqueira)
+  - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
 
   
 ### Finetuning LLMs
