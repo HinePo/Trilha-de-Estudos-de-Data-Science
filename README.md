@@ -384,6 +384,7 @@ Large Language Models
   - [RAG - Contextual Compression](https://www.kaggle.com/code/paulojunqueira/rag-contextual-compression-boardgames-rulebooks#--Introduction-) - [Paulo Junqueira](https://www.kaggle.com/paulojunqueira)
   - [RAG - Hybrid Search](https://www.kaggle.com/code/paulojunqueira/rag-hybrid-search-in-boardgame-rulebooks-pdf#--References-and-Acknowledgment-) - [Paulo Junqueira](https://www.kaggle.com/paulojunqueira)
   - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
+  - [Advanced RAG - Langchain code examples](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_5_to_9.ipynb)
 
   
 ### Finetuning LLMs
