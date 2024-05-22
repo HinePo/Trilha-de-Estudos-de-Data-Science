@@ -615,7 +615,12 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 
 
 # Survival Analysis
-- Soon...
+- [Lifelines - Introduction to survival analysis](https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html)
+- [Lifelines - Survival regression](https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html)
+- [Lifelines - code example](https://github.com/anurag-code/Survival-Analysis-Intuition-Implementation-in-Python/blob/master/Survival%20Analysis%20-%20Quick%20Implementation.ipynb)
+- [xgbse - Loft](https://medium.com/loftbr/xgbse-an%C3%A1lise-de-sobreviv%C3%AAncia-robusta-e-eficiente-em-python-b3064da6a1e8)
+- [Predictive Maintenance Problems - video](https://www.youtube.com/watch?v=WWeYJQwGTYA)
+- [Survival regression with accelerated failure time model in XGBoost](https://arxiv.org/pdf/2006.04920) - paper aug/2021
 
 
 # Deploy
