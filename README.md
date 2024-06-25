@@ -694,6 +694,7 @@ Tools & References:
 
 # Tech Management
 - [Scrum vs Data Science](https://twitter.com/search?q=%40marktenenholtz%20scrum&src=typed_query)
+- [Agile, Software Engineering, Developers](https://www.youtube.com/watch?v=gSVBWvoNJ-s)
 
 ### About Pair Programming:
 
