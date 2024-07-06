@@ -29,6 +29,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 # Como estudar
 
+- [AI with Karpathy](https://www.youtube.com/watch?v=tsTeEkzO9xc) - vídeo: minuto 3 ao 23 - Karpathy
 - Criar um documento (Word, Notion, Evernote etc) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado
 - Instalar a extensão [video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) no google chrome (funciona em qualquer vídeo tocado pelo chrome browser), e aprender a usar
 - Sempre estude do geral para o específico: [top-down learning](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design)
