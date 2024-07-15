@@ -441,6 +441,7 @@ Hugging Face Agents
 
 ### LLMs in Production
   - [GenAI + Classical ML - Chip Huyen](https://www.linkedin.com/posts/chiphuyen_llms-aiengineering-aiapplications-activity-7211786332660989954-LzO0/?utm_source=share&utm_medium=member_android)
+  - [Comcast - Exemplo de um sistema de LLM em Produção](https://arxiv.org/pdf/2405.00801v2)
   - [Microsoft LLM Team - Why is it so hard to ship a simple LLM feature?](https://medium.com/data-science-at-microsoft/why-is-it-so-hard-to-ship-a-simple-llm-feature-ba7de31ffae0)
   - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
