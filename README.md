@@ -388,6 +388,7 @@ Large Language Models
   - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
   - [Advanced RAG - Langchain code examples](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_5_to_9.ipynb)
   - [RAG Evaluation](https://www.linkedin.com/posts/areganti_genai-llms-rag-activity-7198872711786360832-pAEh/?utm_source=share&utm_medium=member_android)
+  - [Advanced RAG - Query Optimization](https://www.kaggle.com/code/gabrielvinicius/advanced-rag-query-optimization/notebook#Query-Rewrite) - [Gabriel Vinicius](https://www.kaggle.com/gabrielvinicius)
 
   
 ### Finetuning LLMs
