@@ -441,7 +441,7 @@ Hugging Face Agents
 
 
 ### LLMs in Production
-  - [Deploying open source models at scale](https://huyenchip.com/2024/07/25/genai-platform.html) - Chip Huyen
+  - Deploying open source models at scale - [twitter post](https://x.com/chipro/status/1816521492760580127?t=19B7svBhsWEPJwDum0_6Dw&s=08) and [blog post](https://huyenchip.com/2024/07/25/genai-platform.html) - Chip Huyen
   - [GenAI + Classical ML - Chip Huyen](https://www.linkedin.com/posts/chiphuyen_llms-aiengineering-aiapplications-activity-7211786332660989954-LzO0/?utm_source=share&utm_medium=member_android)
   - [Comcast - Exemplo de um sistema de LLM em Produção](https://arxiv.org/pdf/2405.00801v2)
   - [Microsoft LLM Team - Why is it so hard to ship a simple LLM feature?](https://medium.com/data-science-at-microsoft/why-is-it-so-hard-to-ship-a-simple-llm-feature-ba7de31ffae0)
