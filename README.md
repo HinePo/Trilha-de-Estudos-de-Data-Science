@@ -166,7 +166,7 @@ Um pouco de Engenharia de Dados (para cientistas de dados):
 
 # Machine Learning - Prática
 - [Kaggle's 30 Days of ML](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N) - Abhishek Thakur
-- [Fair Learn docs](https://fairlearn.org/v0.7.0/quickstart.html) - ajuda a fazer OOF analysis
+- [Feature Engineering](11055170822145) - Mark Tenenholtz
 - [SHAP (SHapley Additive exPlanations)](https://github.com/helenaEH/SHAP_tutorial)
 - [Target encoding - kaggle Learn](https://www.kaggle.com/code/ryanholbrook/target-encoding)
 - [Target encoding - blog post](https://towardsdatascience.com/why-you-should-try-mean-encoding-17057262cd0)
