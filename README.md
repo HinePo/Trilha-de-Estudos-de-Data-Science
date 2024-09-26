@@ -721,6 +721,7 @@ Abaixo alguns canais nos quais acho válido se inscrever e acompanhar os conteú
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak)
 - [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience)
 - [Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw/videos)
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 - [Krish Naik](https://www.youtube.com/user/krishnaik06)
 - [Underfitted](https://www.youtube.com/c/Santiagox0)
 - [Andrej Karpathy](https://www.youtube.com/c/AndrejKarpathy/videos)
