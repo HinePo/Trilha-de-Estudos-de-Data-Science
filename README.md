@@ -497,8 +497,8 @@ Algumas funcionalidades:
 
 Aplicações:
 
-- [YOLOv9 Finetuning for PPE detection](https://www.kaggle.com/code/hinepo/yolov9-finetuning-for-ppe-detection/notebook) - @hinepo
-- [YOLOv9 Inference for Red Zone application](https://www.kaggle.com/code/hinepo/yolov9-inference-for-red-zone-application) - @hinepo
+- [YOLOv8 Finetuning for PPE detection](https://www.kaggle.com/code/hinepo/yolov9-finetuning-for-ppe-detection/notebook) - @hinepo
+- [YOLOv8 Inference for Red Zone application](https://www.kaggle.com/code/hinepo/yolov9-inference-for-red-zone-application) - @hinepo
 - [YOLOv9 + Supervision: Heatmap + Tracking + Counting](https://www.kaggle.com/code/hinepo/yolov9-supervision-heatmap-track-count) - @hinepo
 - [YOLO-World: Zero-shot object detection](https://www.kaggle.com/code/hinepo/yolo-world-zero-shot-object-detection)
 - [Ultralytics YOLOv8 Solutions: Quick Walkthrough](https://ultralytics.medium.com/ultralytics-yolov8-solutions-quick-walkthrough-b802fd6da5d7)
