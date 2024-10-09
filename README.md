@@ -698,6 +698,7 @@ Tools & References:
 
 
 # Tech Management
+- [Tech Management at Meta](https://www.jointaro.com/question/tB7borE2AWb1KcuFEcon/is-sprint-planning-and-agile-not-a-thing-at-meta/)
 - [Scrum vs Data Science](https://twitter.com/search?q=%40marktenenholtz%20scrum&src=typed_query)
 - [Agile, Software Engineering, Developers](https://www.youtube.com/watch?v=gSVBWvoNJ-s)
 
