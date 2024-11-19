@@ -465,7 +465,7 @@ Hugging Face Agents
   - [Topic Modeling com BERTopic, UMAP, HDBSCAN e Llama-2](https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2)
   - [Mastering Customer Segmentation with Embeddings and Clustering](https://towardsdatascience.com/mastering-customer-segmentation-with-llm-3d9008235f41#3a33)
   - [LLM-PowerHouse - Great collection of code and articles](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing)
-  - [LLM Course with code exampples](https://github.com/mlabonne/llm-course)
+  - [LLM Course with code examples](https://github.com/mlabonne/llm-course)
 
 
 # Computer Vision
