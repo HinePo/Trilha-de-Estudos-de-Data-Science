@@ -73,6 +73,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 # Python and Data Analysis basics
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA)
+- [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I)
 - [3 Tips to Build a Career in Machine Learning](https://www.youtube.com/watch?v=plXM4pNSYXs)
 - [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw)
 - [Pandas tutorial - kaggle learn](https://www.kaggle.com/learn/pandas) - Fazer o fork dos notebooks e aprender praticando
