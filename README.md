@@ -8,6 +8,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
 - [Python and Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
+- [Python e Git](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-e-git)
 - [Data Engineering](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-engineering)
 - [Data Visualization](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-visualization)
 - [Machine Learning - Teoria](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---teoria)
@@ -113,6 +114,12 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - Experimentos de Feature selection e preprocessing: diferentes sets de features e diferentes etapas de pré-processamento
 - Melhorar explicabilidade
 - Ensemble: combinar modelos para aumentar performance, estabilidade e poder de generalização
+
+
+# Python e Git
+
+- [Python Installation - Local](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)
+- [Git tips](https://x.com/vikasrajputin/status/1595272684291489792)
 
 
 # Data Engineering
