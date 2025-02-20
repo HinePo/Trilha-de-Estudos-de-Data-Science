@@ -134,7 +134,7 @@ Uma das melhores maneiras de aprender Prompt Engineering é esudando os System P
 - [Claude 3 System Prompt](https://x.com/AmandaAskell/status/1765207842993434880)
 - [Grok 2 System Prompt](https://x.com/SteveMoraco/status/1868494539662520398)
 - [The Anatomy of an o1 Prompt](https://x.com/gdb/status/1878489681702310392)
-- [ReAct Prompt template](https://smith.langchain.com/hub/langchain-ai/react-agent-template) - from paper "ReAct: Synergizing Reasoning and Acting in Language Models" - paper mar/2023
+- [ReAct Prompt template](https://smith.langchain.com/hub/langchain-ai/react-agent-template) - from paper "ReAct: Synergizing Reasoning and Acting in Language Models" - mar/2023
 
 
 
