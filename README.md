@@ -128,7 +128,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 Prompt Engineering: 
 
-Uma das melhores maneiras de aprender Dá pra aprender Prompt Engineering é esudando os System Prompt vazados dos grandes modelos comerciais. Eles foram testados extensivamente e contém várias técnicas e tricks que funcionam muito bem.
+Uma das melhores maneiras de aprender Prompt Engineering é esudando os System Prompts vazados dos grandes modelos comerciais. Eles foram testados extensivamente e contém várias técnicas e tricks que funcionam muito bem.
 
 - [ChatGPT System Prompt](https://x.com/elder_plinius/status/1714291610018779337) e [How to get ChatGPT System Prompt - example](https://x.com/dylan522p/status/1755118636807733456)
 - [Claude 3 System Prompt](https://x.com/AmandaAskell/status/1765207842993434880)
