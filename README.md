@@ -7,6 +7,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 # Sumário
 
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
+- [Coding with AI e Prompt Engineering basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#coding-with-ai-e-prompt-engineering-basics)
 - [Python and Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
 - [Python e Git](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-e-git)
 - [Data Engineering](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-engineering)
@@ -74,7 +75,6 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 # Python and Data Analysis basics
 - [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA)
-- [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I)
 - [3 Tips to Build a Career in Machine Learning](https://www.youtube.com/watch?v=plXM4pNSYXs)
 - [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw)
 - [Pandas tutorial - kaggle learn](https://www.kaggle.com/learn/pandas) - Fazer o fork dos notebooks e aprender praticando
@@ -114,6 +114,24 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - Experimentos de Feature selection e preprocessing: diferentes sets de features e diferentes etapas de pré-processamento
 - Melhorar explicabilidade
 - Ensemble: combinar modelos para aumentar performance, estabilidade e poder de generalização
+
+
+
+# Coding with AI e Prompt Engineering basics
+
+É claro que IA ajuda muito a programar, e a nossa produtividade depende muito da forma que usamos IA, principalmente via técnicas Prompt Engineering.
+
+- [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I)
+- [Karpathy](https://x.com/karpathy/status/1827143768459637073)
+- [Matt Schumer](https://x.com/mattshumer_/status/1890441651278971330)
+
+Prompt Engineering: Dá pra aprender muito esudando os System Prompt vazados dos grandes modelos comerciais:
+
+- [ChatGPT System Prompt](https://x.com/dylan522p/status/1755086111397863777)
+- [Claude 3 System Prompt](https://x.com/AmandaAskell/status/1765207842993434880)
+- [Grok System Prompt](https://x.com/somewheresy/status/1765729141792342194)
+- [The Anatomy of an o1 Prompt](https://x.com/gdb/status/1878489681702310392)
+
 
 
 # Python e Git
