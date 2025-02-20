@@ -126,12 +126,15 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [Matt Schumer](https://x.com/mattshumer_/status/1890441651278971330)
 - [Prompt Engineering tips](https://www.linkedin.com/posts/ahmed--almubarak_prompts-engineering-ugcPost-7298368175514038275-6gDV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ) - Chip Huyen
 
-Prompt Engineering: Dá pra aprender muito esudando os System Prompt vazados dos grandes modelos comerciais:
+Prompt Engineering: 
 
-- [ChatGPT System Prompt](https://x.com/dylan522p/status/1755086111397863777)
+Uma das melhores maneiras de aprender Dá pra aprender Prompt Engineering é esudando os System Prompt vazados dos grandes modelos comerciais. Eles foram testados extensivamente e contém várias técnicas e tricks que funcionam muito bem.
+
+- [ChatGPT System Prompt](https://x.com/elder_plinius/status/1714291610018779337) e [How to get ChatGPT System Prompt - example](https://x.com/dylan522p/status/1755118636807733456)
 - [Claude 3 System Prompt](https://x.com/AmandaAskell/status/1765207842993434880)
 - [Grok System Prompt](https://x.com/somewheresy/status/1765729141792342194)
 - [The Anatomy of an o1 Prompt](https://x.com/gdb/status/1878489681702310392)
+- [ReAct Prompt template](https://smith.langchain.com/hub/langchain-ai/react-agent-template) - from paper "ReAct: Synergizing Reasoning and Acting in Language Models" - paper mar/2023
 
 
 
