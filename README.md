@@ -124,6 +124,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I)
 - [Karpathy](https://x.com/karpathy/status/1827143768459637073)
 - [Matt Schumer](https://x.com/mattshumer_/status/1890441651278971330)
+- [Prompt Engineering tips](https://www.linkedin.com/posts/ahmed--almubarak_prompts-engineering-ugcPost-7298368175514038275-6gDV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ) - Chip Huyen
 
 Prompt Engineering: Dá pra aprender muito esudando os System Prompt vazados dos grandes modelos comerciais:
 
