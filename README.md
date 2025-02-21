@@ -133,6 +133,7 @@ Uma das melhores formas de aprender Prompt Engineering é estudando os System Pr
 - [ChatGPT System Prompts](https://x.com/elder_plinius/status/1714291610018779337) e [How to get ChatGPT System Prompt - example](https://x.com/dylan522p/status/1755118636807733456)
 - [Claude 3 System Prompt](https://x.com/AmandaAskell/status/1765207842993434880)
 - [Grok 2 System Prompt](https://x.com/SteveMoraco/status/1868494539662520398)
+- [Grok 3 System Prompt](https://x.com/IterIntellectus/status/1892665429530681654?t=JK7TN9lVb-wZVWy0klzB6Q&s=08)
 - [The Anatomy of an o1 Prompt](https://x.com/gdb/status/1878489681702310392)
 - [ReAct Prompt template](https://smith.langchain.com/hub/langchain-ai/react-agent-template) - from paper "ReAct: Synergizing Reasoning and Acting in Language Models" - mar/2023
 
