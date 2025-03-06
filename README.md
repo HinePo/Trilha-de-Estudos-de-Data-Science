@@ -121,6 +121,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 É claro que IA ajuda muito a programar, e a nossa produtividade depende muito da forma que usamos IA, principalmente via técnicas Prompt Engineering.
 
+- ["Vibe coding"](https://x.com/karpathy/status/1886192184808149383) - Karpathy
 - [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I)
 - [Karpathy](https://x.com/karpathy/status/1827143768459637073)
 - [Matt Schumer](https://x.com/mattshumer_/status/1890441651278971330)
