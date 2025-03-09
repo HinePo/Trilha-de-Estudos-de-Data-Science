@@ -124,10 +124,11 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - ["Vibe coding"](https://x.com/karpathy/status/1886192184808149383) - Karpathy
 - [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I)
 - [Karpathy](https://x.com/karpathy/status/1827143768459637073)
-- [Matt Schumer](https://x.com/mattshumer_/status/1890441651278971330)
-- [Prompt Engineering tips](https://www.linkedin.com/posts/ahmed--almubarak_prompts-engineering-ugcPost-7298368175514038275-6gDV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ) - Chip Huyen
 
 Prompt Engineering: 
+
+- [Matt Schumer](https://x.com/mattshumer_/status/1890441651278971330)
+- [Prompt Engineering tips](https://www.linkedin.com/posts/ahmed--almubarak_prompts-engineering-ugcPost-7298368175514038275-6gDV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ) - Chip Huyen
 
 Uma das melhores formas de aprender Prompt Engineering é estudando os System Prompts vazados dos grandes modelos comerciais. Eles foram testados extensivamente e contém várias técnicas e tricks que funcionam muito bem.
 
@@ -143,6 +144,7 @@ Uma das melhores formas de aprender Prompt Engineering é estudando os System Pr
 
 # Python e Git
 
+- [uv - Working on projects](https://docs.astral.sh/uv/guides/projects/)
 - [Python Installation - Local](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)
 - [Git tips](https://x.com/vikasrajputin/status/1595272684291489792)
 - [Cursor - AI Code Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4) - 15 min tutorial
