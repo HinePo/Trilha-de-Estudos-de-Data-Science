@@ -8,8 +8,8 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
 - [Coding with AI e Prompt Engineering basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#coding-with-ai-e-prompt-engineering-basics)
-- [Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
 - [Python e Git](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-e-git)
+- [Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
 - [Data Engineering](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-engineering)
 - [Data Visualization](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-visualization)
 - [Machine Learning - Teoria](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#machine-learning---teoria)
@@ -74,6 +74,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [Data Engineering vs ML pipelines](https://seattledataguy.substack.com/p/data-engineering-vs-machine-learning)
 
 
+
 # Coding with AI e Prompt Engineering basics
 
 É claro que IA ajuda muito a programar, e a nossa produtividade depende muito da forma que usamos IA, principalmente via técnicas Prompt Engineering.
@@ -81,6 +82,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - ["Vibe coding"](https://x.com/karpathy/status/1886192184808149383) - Karpathy
 - [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I)
 - [Karpathy](https://x.com/karpathy/status/1827143768459637073)
+- [Cursor - AI Code Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4) - 15 min tutorial
 
 Prompt Engineering: 
 
@@ -97,6 +99,13 @@ Uma das melhores formas de aprender Prompt Engineering é estudando os System Pr
 - [The Anatomy of an o1 Prompt](https://x.com/gdb/status/1878489681702310392)
 - [ReAct Prompt template](https://smith.langchain.com/hub/langchain-ai/react-agent-template) - from paper "ReAct: Synergizing Reasoning and Acting in Language Models" - mar/2023
 
+
+
+# Python e Git
+
+- [uv - Working on projects](https://docs.astral.sh/uv/guides/projects/)
+- [Python Installation - Local](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)
+- [Git tips](https://x.com/vikasrajputin/status/1595272684291489792)
 
 
 # Data Analysis basics
@@ -143,13 +152,6 @@ Uma das melhores formas de aprender Prompt Engineering é estudando os System Pr
 - Melhorar explicabilidade
 - Ensemble: combinar modelos para aumentar performance, estabilidade e poder de generalização
 
-
-# Python e Git
-
-- [uv - Working on projects](https://docs.astral.sh/uv/guides/projects/)
-- [Python Installation - Local](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)
-- [Git tips](https://x.com/vikasrajputin/status/1595272684291489792)
-- [Cursor - AI Code Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4) - 15 min tutorial
 
 
 # Data Engineering
