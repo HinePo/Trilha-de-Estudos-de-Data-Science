@@ -83,6 +83,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I)
 - [Karpathy](https://x.com/karpathy/status/1827143768459637073)
 - [Cursor - AI Code Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4) - 15 min tutorial
+- [Vive coding: backend, ui, db in 10 minutes](https://x.com/SullyOmarr/status/1893757471799308321?t=zitHrQzpBSAI8VcLKu301g&s=08)
 
 Prompt Engineering: 
 
