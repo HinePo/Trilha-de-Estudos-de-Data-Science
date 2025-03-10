@@ -7,7 +7,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 # Sumário
 
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
-- [Coding with AI e Prompt Engineering basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#coding-with-ai-e-prompt-engineering-basics)
+- [Coding with AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#coding-with-ai)
 - [Python e Git](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-e-git)
 - [Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
 - [Data Engineering](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-engineering)
@@ -75,31 +75,17 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 
 
-# Coding with AI e Prompt Engineering basics
+# Coding with AI
 
 É claro que IA ajuda muito a programar, e a nossa produtividade depende muito da forma que usamos IA, principalmente via técnicas Prompt Engineering.
 
 - ["Vibe coding"](https://x.com/karpathy/status/1886192184808149383) - Karpathy
-- [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I)
-- [Karpathy](https://x.com/karpathy/status/1827143768459637073)
+- [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I) - 13 min - Rob Mulla
+- [Karpathy post](https://x.com/karpathy/status/1827143768459637073)
 - [Cursor - AI Code Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4) - 15 min tutorial
 - [Vibe coding: backend, ui, db in 10 minutes](https://x.com/SullyOmarr/status/1893757471799308321?t=zitHrQzpBSAI8VcLKu301g&s=08)
 - [Building a NES game in 30 min](https://www.youtube.com/watch?v=Z90XGBfvr0c)
 
-Prompt Engineering: 
-
-- [Matt Schumer](https://x.com/mattshumer_/status/1890441651278971330)
-- [Prompt Engineering tips](https://www.linkedin.com/posts/ahmed--almubarak_prompts-engineering-ugcPost-7298368175514038275-6gDV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ) - Chip Huyen
-
-Uma das melhores formas de aprender Prompt Engineering é estudando os System Prompts vazados dos grandes modelos comerciais. Eles foram testados extensivamente e contém várias técnicas e tricks que funcionam muito bem.
-
-- [ChatGPT System Prompts](https://x.com/elder_plinius/status/1714291610018779337) e [How to get ChatGPT System Prompt - example](https://x.com/dylan522p/status/1755118636807733456)
-- [Claude 3 System Prompt](https://x.com/AmandaAskell/status/1765207842993434880)
-- [Grok 2 System Prompt](https://x.com/SteveMoraco/status/1868494539662520398)
-- [Grok 3 System Prompt](https://x.com/IterIntellectus/status/1892665429530681654?t=JK7TN9lVb-wZVWy0klzB6Q&s=08)
-- [Grok3 Search - System Prompt](https://x.com/lefthanddraft/status/1893681902957076687?t=LSKSlrExrkAeWXTJvW-aaQ&s=08)
-- [The Anatomy of an o1 Prompt](https://x.com/gdb/status/1878489681702310392)
-- [ReAct Prompt template](https://smith.langchain.com/hub/langchain-ai/react-agent-template) - from paper "ReAct: Synergizing Reasoning and Acting in Language Models" - mar/2023
 
 
 
@@ -402,6 +388,22 @@ Large Language Models
   - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
   - [How to generate text: decoding methods](https://huggingface.co/blog/how-to-generate)
   - [Text generation strategies - Hugging Face Generation docs](https://huggingface.co/docs/transformers/generation_strategies)
+
+
+### Prompt Engineering basics
+
+- [Debugging code with LLMs](https://x.com/mattshumer_/status/1890441651278971330) - Matt Schumer
+- [Prompt Engineering tips](https://www.linkedin.com/posts/ahmed--almubarak_prompts-engineering-ugcPost-7298368175514038275-6gDV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ) - Chip Huyen
+
+Uma das melhores formas de aprender Prompt Engineering é estudando os System Prompts vazados dos grandes modelos comerciais. Eles foram testados extensivamente e contém várias técnicas e tricks que funcionam muito bem.
+
+- [ChatGPT System Prompts](https://x.com/elder_plinius/status/1714291610018779337) e [How to get ChatGPT System Prompt - example](https://x.com/dylan522p/status/1755118636807733456)
+- [Claude 3 System Prompt](https://x.com/AmandaAskell/status/1765207842993434880)
+- [Grok 2 System Prompt](https://x.com/SteveMoraco/status/1868494539662520398)
+- [Grok 3 System Prompt](https://x.com/IterIntellectus/status/1892665429530681654?t=JK7TN9lVb-wZVWy0klzB6Q&s=08)
+- [Grok3 Search - System Prompt](https://x.com/lefthanddraft/status/1893681902957076687?t=LSKSlrExrkAeWXTJvW-aaQ&s=08)
+- [The Anatomy of an o1 Prompt](https://x.com/gdb/status/1878489681702310392)
+- [ReAct Prompt template](https://smith.langchain.com/hub/langchain-ai/react-agent-template) - from paper "ReAct: Synergizing Reasoning and Acting in Language Models" - mar/2023
 
 
 ### LangChain - Getting Started
