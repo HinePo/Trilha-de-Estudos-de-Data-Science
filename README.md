@@ -7,7 +7,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 # Sumário
 
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
-- [Coding with AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#coding-with-ai)
+- [Coding with AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#vibe-coding)
 - [Python e Git](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-e-git)
 - [Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
 - [Data Engineering](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-engineering)
@@ -75,12 +75,17 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 
 
-# Coding with AI
+# Vibe Coding
+
+- Vibe Coding and Coding with AI
 
 É claro que IA ajuda muito a programar, e a nossa produtividade depende muito da forma que usamos IA, principalmente via técnicas Prompt Engineering.
 
 - ["Vibe coding"](https://x.com/karpathy/status/1886192184808149383) - Karpathy
 - [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I) - 13 min - Rob Mulla
+- [AI Does all the Coding - What could possibly go wrong? - Cursor Agent](https://www.youtube.com/live/YtY8-QRcHjg) - 2h - Rob Mulla
+- [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) - Karpathy
+- [App in < 1h with Cursor](https://x.com/Hesamation/status/1894703277612126560?t=O5XWyXmkZIVmNT51d11cGg&s=08)
 - [Karpathy post](https://x.com/karpathy/status/1827143768459637073)
 - [Cursor - AI Code Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4) - 15 min tutorial
 - [Vibe coding: backend, ui, db in 10 minutes](https://x.com/SullyOmarr/status/1893757471799308321?t=zitHrQzpBSAI8VcLKu301g&s=08)
