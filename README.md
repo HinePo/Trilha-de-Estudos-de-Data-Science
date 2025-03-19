@@ -83,13 +83,14 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 - ["Vibe coding"](https://x.com/karpathy/status/1886192184808149383) - Karpathy
 - [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I) - 13 min - Rob Mulla
-- [AI Does all the Coding - What could possibly go wrong? - Cursor Agent](https://www.youtube.com/live/YtY8-QRcHjg) - 2h - Rob Mulla
-- [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) - Karpathy
-- [App in < 1h with Cursor](https://x.com/Hesamation/status/1894703277612126560?t=O5XWyXmkZIVmNT51d11cGg&s=08)
+- [Perigos do Vibe Coding](https://www.linkedin.com/posts/andre-albuquerque_good-product-thinkers-and-good-engineers-activity-7308108920844087298-8VPa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ)
 - [Karpathy post](https://x.com/karpathy/status/1827143768459637073)
 - [Cursor - AI Code Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4) - 15 min tutorial
-- [Vibe coding: backend, ui, db in 10 minutes](https://x.com/SullyOmarr/status/1893757471799308321?t=zitHrQzpBSAI8VcLKu301g&s=08)
-- [Building a NES game in 30 min](https://www.youtube.com/watch?v=Z90XGBfvr0c)
+- [Vibe coding: backend, ui, db](https://x.com/SullyOmarr/status/1893757471799308321?t=zitHrQzpBSAI8VcLKu301g&s=08) - 10 minutes
+- [Building a NES game](https://www.youtube.com/watch?v=Z90XGBfvr0c) - 30 min
+- [App in < 1h with Cursor](https://x.com/Hesamation/status/1894703277612126560?t=O5XWyXmkZIVmNT51d11cGg&s=08) - 1h
+- [AI Does all the Coding - What could possibly go wrong? - Cursor Agent](https://www.youtube.com/live/YtY8-QRcHjg) - 2h - Rob Mulla
+- [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) - Karpathy 2h
 
 
 
