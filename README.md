@@ -79,7 +79,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 - Vibe Coding and Coding with AI
 
-É claro que IA ajuda muito a programar, e a nossa produtividade depende muito da forma que usamos IA, principalmente via técnicas Prompt Engineering.
+É claro que IA ajuda muito a programar, e a nossa produtividade depende muito da forma que usamos IA, principalmente via técnicas Prompt Engineering e escolha das ferramentas.
 
 - ["Vibe coding"](https://x.com/karpathy/status/1886192184808149383) - Karpathy
 - [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I) - 13 min - Rob Mulla
