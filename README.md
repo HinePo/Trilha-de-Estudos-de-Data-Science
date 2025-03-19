@@ -7,7 +7,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 # Sumário
 
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
-- [Coding with AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#vibe-coding)
+- [Vibe Coding and Coding with AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#vibe-coding)
 - [Python e Git](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-e-git)
 - [Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-and-data-analysis-basics)
 - [Data Engineering](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-engineering)
