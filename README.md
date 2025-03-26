@@ -100,6 +100,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 - [uv - Working on projects](https://docs.astral.sh/uv/guides/projects/)
 - [Python Installation - Local](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)
+- [Git in 2 minutes](https://www.youtube.com/watch?v=hwP7WQkmECE)
 - [Git tips](https://x.com/vikasrajputin/status/1595272684291489792)
 
 
