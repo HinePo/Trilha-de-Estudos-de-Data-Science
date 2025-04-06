@@ -384,6 +384,7 @@ Large Language Models
 
 ### Conceitos básicos
 
+  - [LLM Visualization](https://bbycroft.net/llm)
   - [State of GPT - Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
   - [Eight Things to Know about Large Language Models](https://www.youtube.com/watch?v=RX-gGs_EV7M) - AI Coffee Break With Letitia
   - [The busy person's intro to LLMs - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
