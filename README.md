@@ -7,7 +7,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 # Sumário
 
 - [Como estudar](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#como-estudar)
-- [Vibe Coding and Coding with AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#vibe-coding)
+- [Coding with AI](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#coding-with-ai)
 - [Python e Git](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#python-e-git)
 - [Data Analysis basics](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-analysis-basics)
 - [Data Engineering](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#data-engineering)
@@ -26,6 +26,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [Deploy](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#deploy)
 - [MLOps](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#mlops)
 - [Tech Management](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#tech-management)
+- [Vibe Coding](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#vibe-coding)
 - [Youtube channels](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#youtube-channels)
 - [Perfis no twitter](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science/blob/main/README.md#perfis-no-twitter)
 
@@ -75,25 +76,13 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 
 
-# Vibe Coding
-
-- Vibe Coding and Coding with AI
+# Coding with AI
 
 É claro que IA ajuda muito a programar, e a nossa produtividade depende muito da forma que usamos IA, principalmente via técnicas Prompt Engineering e escolha das ferramentas.
 
-- ["Vibe coding"](https://x.com/karpathy/status/1886192184808149383) - Karpathy
-- [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I) - 13 min - Rob Mulla
-- [Perigos do Vibe Coding](https://www.linkedin.com/posts/andre-albuquerque_good-product-thinkers-and-good-engineers-activity-7308108920844087298-8VPa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ) e [meme](https://x.com/_lhermann/status/1903006653064024296)
 - [Karpathy post](https://x.com/karpathy/status/1827143768459637073)
 - [Cursor - AI Code Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4) - 15 min tutorial
-- [Vibe coding: backend, ui, db](https://x.com/SullyOmarr/status/1893757471799308321?t=zitHrQzpBSAI8VcLKu301g&s=08) - 10 minutes
-- [10 examples of games built with Vibe Coding](https://x.com/minchoi/status/1903089440886583672)
-- [Building a NES game](https://www.youtube.com/watch?v=Z90XGBfvr0c) - 30 min
-- [App in < 1h with Cursor](https://x.com/Hesamation/status/1894703277612126560?t=O5XWyXmkZIVmNT51d11cGg&s=08) - 1h
-- [AI Does all the Coding - What could possibly go wrong? - Cursor Agent](https://www.youtube.com/live/YtY8-QRcHjg) - 2h - Rob Mulla
 - [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) - Karpathy 2h
-
-
 
 
 # Python e Git
@@ -101,6 +90,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [uv - Working on projects](https://docs.astral.sh/uv/guides/projects/)
 - [Python Installation - Local](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)
 - [Git in 2 minutes](https://www.youtube.com/watch?v=hwP7WQkmECE)
+- [Git cheat sheet](https://www.linkedin.com/posts/paoloperrone_git-master-it-or-regret-it-when-ai-writes-activity-7320100374508380160-1Acn/?utm_source=share&utm_medium=member_android&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ)
 - [Git tips](https://x.com/vikasrajputin/status/1595272684291489792)
 
 
@@ -767,6 +757,19 @@ Para o desenvolvedor e/ou cientista de dados, a melhor forma de programar e dese
   - [Jeremy Howard opinion - remote pair programming](https://twitter.com/jeremyphoward/status/1728878957024755986)
   - [Advantages](https://twitter.com/tomcocobrico/status/1728373956980195446)
   - [Pair Programming Advantages - video](https://www.youtube.com/watch?v=E4cg5mmvpwo)
+
+# Vibe Coding
+
+Fun section. Don't take it too seriously. Good for throwaway weekend projects.
+
+- ["Vibe coding"](https://x.com/karpathy/status/1886192184808149383) - Karpathy
+- [How to Code with AI in 2025 (For Non-Coders)](https://www.youtube.com/watch?v=zSlkAO9jB8I) - 13 min - Rob Mulla
+- [Perigos do Vibe Coding](https://www.linkedin.com/posts/andre-albuquerque_good-product-thinkers-and-good-engineers-activity-7308108920844087298-8VPa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGdJpoBgFh12xUvPZJ_GJ3LDaC8Pz05JWQ) e [meme](https://x.com/_lhermann/status/1903006653064024296)
+- [Vibe coding: backend, ui, db](https://x.com/SullyOmarr/status/1893757471799308321?t=zitHrQzpBSAI8VcLKu301g&s=08) - 10 minutes
+- [10 examples of games built with Vibe Coding](https://x.com/minchoi/status/1903089440886583672)
+- [Building a NES game](https://www.youtube.com/watch?v=Z90XGBfvr0c) - 30 min
+- [App in < 1h with Cursor](https://x.com/Hesamation/status/1894703277612126560?t=O5XWyXmkZIVmNT51d11cGg&s=08) - 1h
+- [AI Does all the Coding - What could possibly go wrong? - Cursor Agent](https://www.youtube.com/live/YtY8-QRcHjg) - 2h - Rob Mulla
 
 
 # Youtube channels
