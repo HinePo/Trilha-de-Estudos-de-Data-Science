@@ -80,6 +80,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 É claro que IA ajuda muito a programar, e a nossa produtividade depende muito da forma que usamos IA, principalmente via técnicas Prompt Engineering e escolha das ferramentas.
 
+- [História da Engenharia de Software](https://www.youtube.com/watch?v=oDXDYjksMds)
 - [Karpathy post](https://x.com/karpathy/status/1827143768459637073)
 - [Cursor - AI Code Editor](https://www.youtube.com/watch?v=ocMOZpuAMw4) - 15 min tutorial
 - [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) - Karpathy 2h
