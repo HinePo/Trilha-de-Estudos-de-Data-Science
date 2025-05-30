@@ -33,6 +33,9 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 # Como estudar
 
 - [AI with Karpathy](https://www.youtube.com/watch?v=tsTeEkzO9xc) - vídeo: minuto 3 ao 23 - Karpathy
+- [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA)
+- [3 Tips to Build a Career in Machine Learning](https://www.youtube.com/watch?v=plXM4pNSYXs)
+- [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw)
 - Criar um documento (Word, Notion, Evernote etc) pessoal com a sua organização do que vc já aprendeu/estudou e o que planeja aprender/estudar, de preferência organizado por mês ou bimestre. Procurar manter este doc atualizado
 - Instalar a extensão [video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) no google chrome (funciona em qualquer vídeo tocado pelo chrome browser), e aprender a usar
 - Sempre estude do geral para o específico: [top-down learning](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design)
@@ -97,10 +100,6 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 
 # Data Analysis basics
 
-
-- [Never memorize code](https://www.youtube.com/watch?app=desktop&v=AavXBoxTCIA)
-- [3 Tips to Build a Career in Machine Learning](https://www.youtube.com/watch?v=plXM4pNSYXs)
-- [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw)
 - [Pandas tutorial - kaggle learn](https://www.kaggle.com/learn/pandas) - Fazer o fork dos notebooks e aprender praticando
 - [Use pandas like a pro](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
 - [Dataframe efficiency with dtypes - intro](https://www.youtube.com/watch?v=u4_c2LDi4b8) - Rob Mulla
@@ -146,7 +145,7 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 Um pouco de Engenharia de Dados (para cientistas de dados):
 
 - [Data Warehouse, Data Lake, Data Lake House, Data Mesh](https://www.linkedin.com/posts/rajesh-kr-mehra_datamanagement-datawarehouse-datalake-activity-7112461700250931200-RIlw?utm_source=share&utm_medium=member_desktop)
-- [End to End Azure Data Engineering Real Time Project Demo](https://www.youtube.com/watch?v=iQ41WqhHglk)
+- Pesquisar no Youtube: "End to End Azure Data Engineering Project"
 - [Pyspark playlist](https://www.youtube.com/watch?v=KnUXztKueMU&list=PLWAuYt0wgRcLCtWzUxNg4BjnYlCZNEVth)
 - [Luan Moreno - Youtube channel](https://www.youtube.com/@LuanMorenoMMaciel)
 
