@@ -398,10 +398,7 @@ Uma das melhores formas de aprender Prompt Engineering é estudando os System Pr
 
 - [ChatGPT System Prompts](https://x.com/elder_plinius/status/1714291610018779337) e [How to get ChatGPT System Prompt - example](https://x.com/dylan522p/status/1755118636807733456)
 - [Claude 3 System Prompt](https://x.com/AmandaAskell/status/1765207842993434880)
-- [Grok 2 System Prompt](https://x.com/SteveMoraco/status/1868494539662520398)
-- [Grok 3 System Prompt](https://x.com/IterIntellectus/status/1892665429530681654?t=JK7TN9lVb-wZVWy0klzB6Q&s=08)
 - [Grok3 Search - System Prompt](https://x.com/lefthanddraft/status/1893681902957076687?t=LSKSlrExrkAeWXTJvW-aaQ&s=08)
-- [The Anatomy of an o1 Prompt](https://x.com/gdb/status/1878489681702310392)
 - [ReAct Prompt template](https://smith.langchain.com/hub/langchain-ai/react-agent-template) - from paper "ReAct: Synergizing Reasoning and Acting in Language Models" - mar/2023
 
 
@@ -458,6 +455,7 @@ There are many ways to finetune a LLM. Some examples are: Instruction Finetuning
 ### Agents
 
 Basics:
+  - [Book with code - Antonio Gulli](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0#heading=h.pxcur8v2qagu) - This may be "all" you need about Agents
   - [Tool Calling with LangChain](https://www.youtube.com/watch?v=a_YC8Ru6Jd0)
   - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629) - paper mar/2023
   - [AgentExecutor in Langchain and LangGraph](https://www.youtube.com/watch?v=UcD42NA2WoI)
@@ -506,6 +504,8 @@ Hugging Face Agents
 
 
 ### Outras aplicações
+  - [Zero-Shot Classification Template - OpenAI](https://www.kaggle.com/code/hinepo/zero-shot-classification-template-openai) - HinePo
+  - [Finetuning on Zero-Shot labels](https://www.kaggle.com/code/hinepo/finetuning-on-zero-shot-labels) - HinePo
   - [Topic Modeling com BERTopic, UMAP, HDBSCAN e Llama-2](https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2)
   - [Mastering Customer Segmentation with Embeddings and Clustering](https://towardsdatascience.com/mastering-customer-segmentation-with-llm-3d9008235f41#3a33)
   - [LLM-PowerHouse - Great collection of code and articles](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing)
