@@ -599,6 +599,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 
 - [OTTO competition](https://www.kaggle.com/competitions/otto-recommender-system) é o melhor e mais completo material sobre sistemas de recomendação, incluindo muitas abordagens, baselines, códigos, discussões e soluções.
 - [EDA for e-commerce RecSys: Matrix Factorization + TSNE](https://www.kaggle.com/code/cdeotte/user-eda-with-rapids-tsne-and-matrix-factorization)
+- [Digraph - User Behavior](https://www.kaggle.com/code/hinepo/eda-user-behavior-via-digraph-martech)
 - [Mastering Recommender Systems | Grandmaster Series E8](https://www.youtube.com/watch?v=7woi3bRa4BU)
 - [Facebook recommender systems](https://transparency.fb.com/features/explaining-ranking/)
 
