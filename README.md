@@ -639,7 +639,8 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
   - train from scratch on item sequences
   - use [Annoy lib](https://github.com/spotify/annoy) to find nearest neighbors
 - [Co-visitation matrix + heuristic re-ranker (rule-based ranker)](https://www.kaggle.com/code/cdeotte/candidate-rerank-model-lb-0-575)
-- [Ranking models (learning to rank)](https://www.kaggle.com/competitions/otto-recommender-system/discussion/370210)
+- [LGBM Ranker](https://www.kaggle.com/code/radek1/polars-proof-of-concept-lgbm-ranker)
+- [How To Build a GBT Ranker Model)](https://www.kaggle.com/competitions/otto-recommender-system/discussion/370210)
   - user features
   - item features
   - user-item interactions features
